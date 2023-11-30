@@ -1,0 +1,1828 @@
+﻿Log file open, 02/18/21 18:00:24
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Game
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.831504
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/lenas/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14830424
+LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.02.18-17.00.25:267][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.02.18-17.00.25:267][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.02.18-17.00.25:267][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/Config/Windows/Engine.ini]
+[2021.02.18-17.00.25:267][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.02.18-17.00.25:267][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/Config/Windows/Engine.ini]
+[2021.02.18-17.00.25:267][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/Config/Windows/Engine.ini]
+[2021.02.18-17.00.25:267][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.02.18-17.00.25:268][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.02.18-17.00.25:268][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.02.18-17.00.25:268][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.02.18-17.00.25:268][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.02.18-17.00.25:268][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.02.18-17.00.25:268][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.02.18-17.00.25:268][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.02.18-17.00.25:268][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.02.18-17.00.25:268][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.02.18-17.00.25:268][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.02.18-17.00.25:268][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.02.18-17.00.25:268][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.02.18-17.00.25:268][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.02.18-17.00.25:268][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/Config/Windows/Engine.ini]
+[2021.02.18-17.00.25:268][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.02.18-17.00.25:268][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.02.18-17.00.25:268][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.02.18-17.00.25:268][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.02.18-17.00.25:268][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.02.18-17.00.25:268][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.02.18-17.00.25:268][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.02.18-17.00.25:268][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.02.18-17.00.25:268][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.02.18-17.00.25:268][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.02.18-17.00.25:268][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.02.18-17.00.25:268][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.02.18-17.00.25:268][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.02.18-17.00.25:268][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.02.18-17.00.25:268][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/Config/Windows/Engine.ini]
+[2021.02.18-17.00.25:268][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/Config/Windows/Engine.ini]
+[2021.02.18-17.00.25:289][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.18-17.00.25:290][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.02.18-17.00.25:291][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.02.18-17.00.25:292][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.18-17.00.25:292][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.02.18-17.00.25:292][  0]LogHAL: Display: Platform has ~ 8 GB [8452796416 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.02.18-17.00.25:293][  0]LogInit: Going up to parent DeviceProfile []
+[2021.02.18-17.00.25:293][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.18-17.00.25:293][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.02.18-17.00.25:294][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/Config/Windows/Engine.ini]
+[2021.02.18-17.00.25:295][  0]LogInit: Computer: SANTAMARIA
+[2021.02.18-17.00.25:295][  0]LogInit: User: lenas
+[2021.02.18-17.00.25:295][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.02.18-17.00.25:295][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.02.18-17.00.25:295][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.02.18-17.00.25:295][  0]LogMemory: Platform Memory Stats for Windows
+[2021.02.18-17.00.25:295][  0]LogMemory: Process Physical Memory: 135.44 MB used, 135.45 MB peak
+[2021.02.18-17.00.25:295][  0]LogMemory: Process Virtual Memory: 118.94 MB used, 118.94 MB peak
+[2021.02.18-17.00.25:295][  0]LogMemory: Physical Memory: 7211.13 MB used,  850.08 MB free, 8061.21 MB total
+[2021.02.18-17.00.25:295][  0]LogMemory: Virtual Memory: 134210720.00 MB used,  7007.21 MB free, 134217728.00 MB total
+[2021.02.18-17.00.25:304][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.02.18-17.00.25:439][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.02.18-17.00.25:445][  0]LogInit: Using OS detected language (fr-FR).
+[2021.02.18-17.00.25:445][  0]LogInit: Using OS detected locale (fr-FR).
+[2021.02.18-17.00.25:468][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2021.02.18-17.00.25:468][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2021.02.18-17.00.25:468][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2021.02.18-17.00.25:469][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2021.02.18-17.00.25:469][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2021.02.18-17.00.25:469][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2021.02.18-17.00.25:470][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2021.02.18-17.00.25:470][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2021.02.18-17.00.25:472][  0]LogInit: Setting process to per monitor DPI aware
+[2021.02.18-17.00.25:502][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.18-17.00.25:578][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.02.18-17.00.25:578][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.02.18-17.00.26:026][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.02.18-17.00.26:026][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.02.18-17.00.26:026][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.02.18-17.00.26:026][  0]LogD3D11RHI: D3D11 adapters:
+[2021.02.18-17.00.26:125][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2021.02.18-17.00.26:125][  0]LogD3D11RHI:       6052/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.02.18-17.00.26:178][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2021.02.18-17.00.26:178][  0]LogD3D11RHI:       128/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.02.18-17.00.26:183][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.02.18-17.00.26:183][  0]LogD3D11RHI:       0/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.02.18-17.00.26:183][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.02.18-17.00.26:234][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.02.18-17.00.26:234][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2021.02.18-17.00.26:234][  0]LogWindows: EnumDisplayDevices:
+[2021.02.18-17.00.26:234][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2021.02.18-17.00.26:234][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.02.18-17.00.26:235][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.02.18-17.00.26:235][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:1)
+[2021.02.18-17.00.26:235][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2021.02.18-17.00.26:235][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2021.02.18-17.00.26:236][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2021.02.18-17.00.26:236][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.02.18-17.00.26:236][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2021.02.18-17.00.26:236][  0]LogD3D11RHI:   Driver Version: 431.53 (internal:26.21.14.3153, unified:431.53)
+[2021.02.18-17.00.26:236][  0]LogD3D11RHI:      Driver Date: 7-12-2019
+[2021.02.18-17.00.26:236][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.02.18-17.00.26:293][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.02.18-17.00.26:294][  0]LogD3D11RHI: Async texture creation enabled
+[2021.02.18-17.00.26:294][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.02.18-17.00.26:386][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.02.18-17.00.26:392][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.02.18-17.00.26:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.02.18-17.00.26:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.02.18-17.00.26:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.02.18-17.00.26:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.02.18-17.00.26:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.02.18-17.00.26:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.02.18-17.00.26:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.02.18-17.00.26:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.02.18-17.00.26:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.02.18-17.00.26:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.02.18-17.00.26:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.02.18-17.00.26:930][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.02.18-17.00.26:930][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.02.18-17.00.26:945][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.02.18-17.00.26:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.02.18-17.00.26:975][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.02.18-17.00.26:991][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.02.18-17.00.27:004][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.02.18-17.00.27:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.02.18-17.00.27:029][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.02.18-17.00.27:058][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.02.18-17.00.27:058][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.02.18-17.00.27:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.02.18-17.00.27:087][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.02.18-17.00.27:099][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.02.18-17.00.27:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.02.18-17.00.27:131][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.02.18-17.00.27:131][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.02.18-17.00.27:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.02.18-17.00.27:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.02.18-17.00.27:174][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.02.18-17.00.27:189][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.02.18-17.00.27:189][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.02.18-17.00.27:211][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.02.18-17.00.27:426][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.02.18-17.00.27:427][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/lenas/Documents/Unreal Projects/UEGame/Game/Intermediate/Shaders/WorkingDirectory/26724/).
+[2021.02.18-17.00.27:427][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/B2AF990F45CA0FB30CE9D492FC81EBAA/'.
+[2021.02.18-17.00.27:428][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.02.18-17.00.27:428][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.02.18-17.00.28:461][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.02.18-17.00.28:608][  0]LogDerivedDataCache: Loaded boot cache 0.15s 77MB C:/Users/lenas/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.02.18-17.00.28:608][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lenas/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.02.18-17.00.28:608][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/lenas/Documents/Unreal Projects/UEGame/Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.02.18-17.00.28:608][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.02.18-17.00.28:609][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/lenas/Documents/Unreal Projects/UEGame/Game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.18-17.00.28:609][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.02.18-17.00.28:625][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.02.18-17.00.28:625][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.18-17.00.28:625][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.02.18-17.00.28:643][  0]LogDerivedDataCache: Speed tests for C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.02.18-17.00.28:643][  0]LogDerivedDataCache: Display: Performance to C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.30ms. RandomReadSpeed=154.19MBs, RandomWriteSpeed=125.24MBs. Assigned SpeedClass 'Local'
+[2021.02.18-17.00.28:644][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.02.18-17.00.28:644][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.02.18-17.00.28:644][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.02.18-17.00.28:704][  0]LogSlate: Using FreeType 2.10.0
+[2021.02.18-17.00.28:707][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.02.18-17.00.28:773][  0]LogAssetRegistry: FAssetRegistry took 0.0083 seconds to start up
+[2021.02.18-17.00.29:444][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.18-17.00.29:446][  0]LogInit: Active device profile: [000001D5492B6F00][000001D54A8C4540 49] Windows
+[2021.02.18-17.00.29:446][  0]LogInit: Profiles: [000001D5492B6F00][000001D54A8C4540 49] Windows, [000001D5492A5300][000001D54A9086C0 49] WindowsNoEditor, [000001D5492B5200][000001D54A90C840 49] WindowsServer, [000001D5492A6A00][000001D54A9109C0 49] WindowsClient, [000001D5492B6800][000001D54A914B40 49] IOS, [000001D5492A5B00][000001D54A918CC0 49] iPadAir, [000001D5492B5900][000001D54A91CE40 49] iPadAir2, [000001D5491CC500][000001D54A92B100 49] IPadPro, [000001D5491CC600][000001D54A921140 49] iPadAir3, [000001D5492B7200][000001D54A9352C0 49] iPadAir4, [000001D5491CED00][000001D54A939440 49] iPadMini2, [000001D5492B4F00][000001D54A8C9580 49] iPadMini3, [000001D5491CC900][000001D54A93D6C0 49] iPadMini4, [000001D5492B4500][000001D54A941800 49] iPadMini5, [000001D548D77D00][000001D54A94DA80 49] iPhone6, [000001D548D77E00][000001D54A945AC0 49] iPodTouch6, [000001D5491CF000][000001D54A9540C0 49] iPhone7, [000001D5491CEE00][000001D54A950100 49] iPodTouch7, [000001D548D75600][000001D54A958280 49] iPhone5S, [000001D5491CCE00][000001D54A95C400 49] iPhone6Plus, [000001D548D77F00][000001D54A960580 49] iPhone6S, [000001D5491CCA00][000001D54A964700 49] iPhone6SPlus, [000001D548D75300][000001D54A968880 49] iPhone7Plus, [000001D5491CE600][000001D54A96CA00 49] iPhoneSE, [000001D548D74800][000001D54A970B80 49] iPhone8, [000001D5491CE800][000001D54A974D00 49] iPhone8Plus, [000001D548D75700][000001D54A978E80 49] iPhoneX, [000001D5491CE500][000001D54A97D000 49] iPhoneXS, [000001D548D74C00][000001D54A981180 49] iPhoneXSMax, [000001D5491CEB00][000001D54A985300 49] iPhoneXR, [000001D548D75400][000001D54A989480 49] iPhone11, [000001D5491CDE00][000001D54A98D600 49] iPhone11Pro, [000001D548D77100][000001D54A949740 49] iPhone11ProMax, [000001D5491CD400][000001D54A991880 49] iPhoneSE2, [000001D548D75100][000001D54A9959C0 49] iPhone12Mini, [000001D5491CC200][000001D54A99DB40 49] iPhone12, [000001D548D77B00][000001D54A9B1CC0 49] iPhone12Pro, [000001D5491CE000][000001D54A9B4180 49] iPhone12ProMax, [000001D548D76500][000001D54AA00300 49] iPadPro105, [000001D5491CF400][000001D54AA70480 49] iPadPro129, [000001D548D74E00][000001D54AA78600 49] iPadPro97, [000001D5491CD600][000001D54AA84780 49] iPadPro2_129, [000001D548D76F00][000001D54AA8C900 49] iPad5, [000001D5491CFB00][000001D54AA90A80 49] iPad6, [000001D548D74900][000001D54AA94C00 49] iPad7, [000001D5491CDD00][000001D54AAA6D80 49] iPad8, [000001D548D77A00][000001D54AAD4F00 49] iPadPro11, [000001D5491CF800][000001D54AB15080 49] iPadPro2_11, [000001D548D74400][000001D54AB55200 49] iPadPro3_129, [000001D5491CE400][000001D54AB65380 49] iPadPro4_129, [000001D548D74A00][000001D54AB73500 49] AppleTV, [000001D5491CFC00][000001D54AB77680 49] AppleTV4K, [000001D548D76A00][000001D54A9997C0 49] TVOS, [000001D5491CEF00][000001D54AB7B900 49] Mac, [000001D548D76300][000001D54AB7FA40 49] MacClient, [000001D5491CDA00][000001D54AB83B80 49] MacNoEditor, [000001D548D77600][000001D54AB8BD00 49] MacServer, [000001D5492A7800][000001D54AB8E1C0 49] Linux, [000001D548DFCA00][000001D54AB92340 49] LinuxNoEditor, [000001D5492A7200][000001D54AB964C0 49] LinuxAArch64NoEditor, [000001D548DFD000][000001D54AB9A640 49] LinuxClient, [000001D5492A4700][000001D54AB9E7C0 49] LinuxAArch64Client, [000001D548DFC100][000001D54ABA2940 49] LinuxServer, [000001D5492A6400][000001D54ABA6AC0 49] LinuxAArch64Server, [000001D548DFC600][000001D54ABAAC40 49] Android, [000001D5492A5700][000001D54ABAEDC0 49] Android_Low, [000001D548DFCB00][000001D54ABB2F40 49] Android_Mid, [000001D5492A7F00][000001D54ABB70C0 49] Android_High, [000001D548D75E00][000001D54ABBB240 49] Android_Default, [000001D5492A7100][000001D54ABBF3C0 49] Android_Adreno4xx, [000001D548D75B00][000001D54ABC3540 49] Android_Adreno5xx_Low, [000001D5492A5D00][000001D54ABC76C0 49] Android_Adreno5xx, [000001D548D75C00][000001D54AB87800 49] Android_Adreno6xx, [000001D5492A4500][000001D54ABCB940 49] Android_Adreno6xx_Vulkan, [000001D548D77800][000001D54ABCFA80 49] Android_Mali_T6xx, [000001D5492A4200][000001D54ABD3BC0 49] Android_Mali_T7xx, [000001D548D75900][000001D54ABDBD40 49] Android_Mali_T8xx, [000001D5492A4B00][000001D54ABDE200 49] Android_Mali_G71, [000001D548D75200][000001D54ABE2380 49] Android_Mali_G72, [000001D5492A7300][000001D54ABE6500 49] Android_Mali_G72_Vulkan, [000001D548D76D00][000001D54ABEA680 49] Android_Mali_G76, [000001D5492A7000][000001D54ABEE800 49] Android_Mali_G76_Vulkan, [000001D548D75000][000001D54ABF6980 49] Android_Mali_G77, [000001D5492A6200][000001D54ABFAB00 49] Android_Mali_G77_Vulkan, [000001D548D76700][000001D54AC02C80 49] Android_Vulkan_SM5, [000001D5492A6600][000001D54AC06E00 49] Android_PowerVR_G6xxx, [000001D548D74100][000001D54AC0AF80 49] Android_PowerVR_GT7xxx, [000001D5492A5900][000001D54AC2D100 49] Android_PowerVR_GE8xxx, [000001D548D74600][000001D54AC31280 49] Android_PowerVR_GM9xxx, [000001D5492A6000][000001D54AC35400 49] Android_PowerVR_GM9xxx_Vulkan, [000001D548D76900][000001D54AC39580 49] Android_TegraK1, [000001D5492A6900][000001D54AC3D700 49] Android_Unknown_Vulkan, [000001D548D74200][000001D54AC9B880 49] Lumin, [000001D5492A5500][000001D54ABD79C0 49] Lumin_Desktop, [000001D548D77200][000001D54ACC5B00 49] HoloLens, 
+[2021.02.18-17.00.30:334][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.02.18-17.00.30:335][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.02.18-17.00.30:335][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.02.18-17.00.30:335][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.02.18-17.00.30:335][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.02.18-17.00.30:412][  0]LogNetVersion: Game 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2577159539)
+[2021.02.18-17.00.31:421][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.02.18-17.00.31:504][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.078812 seconds
+[2021.02.18-17.00.31:514][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.02.18-17.00.31:514][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.02.18-17.00.31:514][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.02.18-17.00.32:717][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.02.18-17.00.32:729][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.02.18-17.00.33:512][  0]SourceControl: Source control is disabled
+[2021.02.18-17.00.33:512][  0]SourceControl: Source control is disabled
+[2021.02.18-17.00.33:521][  0]SourceControl: Source control is disabled
+[2021.02.18-17.00.33:534][  0]SourceControl: Source control is disabled
+[2021.02.18-17.00.33:555][  0]SourceControl: Source control is disabled
+[2021.02.18-17.00.33:562][  0]LogUProjectInfo: Found projects:
+[2021.02.18-17.00.33:685][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.02.18-17.00.33:746][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.18-17.00.33:746][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.18-17.00.33:884][  0]LogCollectionManager: Loaded 0 collections in 0.002058 seconds
+[2021.02.18-17.00.33:963][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/Collections/' took 0.00s
+[2021.02.18-17.00.33:963][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lenas/Documents/Unreal Projects/UEGame/Game/Content/Developers/lenas/Collections/' took 0.00s
+[2021.02.18-17.00.33:963][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lenas/Documents/Unreal Projects/UEGame/Game/Content/Collections/' took 0.00s
+[2021.02.18-17.00.33:963][  0]LogOcInput: OculusInput pre-init called
+[2021.02.18-17.00.34:018][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.02.18-17.00.34:019][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.02.18-17.00.34:350][  0]LogEngine: Initializing Engine...
+[2021.02.18-17.00.34:357][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.02.18-17.00.34:358][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.02.18-17.00.34:364][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.02.18-17.00.34:744][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.02.18-17.00.34:895][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.02.18-17.00.35:171][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.02.18-17.00.35:190][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.02.18-17.00.35:191][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.02.18-17.00.35:192][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.18-17.00.35:192][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.18-17.00.35:192][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.18-17.00.35:192][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.18-17.00.35:192][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.18-17.00.35:193][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.18-17.00.35:193][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.18-17.00.35:193][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.18-17.00.35:197][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.18-17.00.35:197][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.18-17.00.35:438][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.18-17.00.35:438][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.02.18-17.00.35:502][  0]LogAudioMixer: Display: Using Audio Device PLE2483H (2- NVIDIA High Definition Audio)
+[2021.02.18-17.00.35:510][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.18-17.00.35:515][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.18-17.00.35:515][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.18-17.00.35:517][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.18-17.00.35:518][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.18-17.00.35:518][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.18-17.00.35:520][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.18-17.00.35:520][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.18-17.00.35:520][  0]LogInit: FAudioDevice initialized.
+[2021.02.18-17.00.35:521][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.02.18-17.00.35:522][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.02.18-17.00.35:712][  0]LogDerivedDataCache: Saved boot cache 0.18s 77MB C:/Users/lenas/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.02.18-17.00.35:718][  0]LogInit: Texture streaming: Enabled
+[2021.02.18-17.00.35:771][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2021.02.18-17.00.35:788][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.02.18-17.00.35:788][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.02.18-17.00.35:815][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.02.18-17.00.35:921][  0]LogInit: Transaction tracking system initialized
+[2021.02.18-17.00.36:020][  0]BlueprintLog: New page: Editor Load
+[2021.02.18-17.00.36:705][  0]LocalizationService: Localization service is disabled
+[2021.02.18-17.00.37:041][  0]TimingProfiler: Initialize
+[2021.02.18-17.00.37:043][  0]TimingProfiler: OnSessionChanged
+[2021.02.18-17.00.37:044][  0]LoadingProfiler: Initialize
+[2021.02.18-17.00.37:044][  0]LoadingProfiler: OnSessionChanged
+[2021.02.18-17.00.37:044][  0]NetworkingProfiler: Initialize
+[2021.02.18-17.00.37:045][  0]NetworkingProfiler: OnSessionChanged
+[2021.02.18-17.00.37:045][  0]MemoryProfiler: Initialize
+[2021.02.18-17.00.37:045][  0]MemoryProfiler: OnSessionChanged
+[2021.02.18-17.00.37:561][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.02.18-17.00.37:561][  0]LogCook: Display: Mobile HDR setting 1
+[2021.02.18-17.00.38:195][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lenas/Documents/Unreal Projects/UEGame/Game/Content/' took 0.02s
+[2021.02.18-17.00.38:493][  0]SourceControl: Source control is disabled
+[2021.02.18-17.00.38:494][  0]LogUnrealEdMisc: Loading editor; pre map load, took 15.906
+[2021.02.18-17.00.38:496][  0]Cmd: MAP LOAD FILE="../../../../../../Users/lenas/Documents/Unreal Projects/UEGame/Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.18-17.00.38:499][  0]LightingResults: New page: Lighting Build
+[2021.02.18-17.00.38:511][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.02.18-17.00.38:514][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.18-17.00.38:519][  0]MapCheck: New page: Map Check
+[2021.02.18-17.00.38:519][  0]LightingResults: New page: Lighting Build
+[2021.02.18-17.00.38:562][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.02.18-17.00.39:120][  0]LogTexture: Display: Building textures: DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2021.02.18-17.00.39:243][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.02.18-17.00.39:245][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.18-17.00.39:306][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.18-17.00.39:327][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.02.18-17.00.39:329][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.18-17.00.39:330][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,615ms to complete.
+[2021.02.18-17.00.39:330][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.836
+[2021.02.18-17.00.39:375][  0]LogUnrealEdMisc: Total Editor Startup Time, took 16.788
+[2021.02.18-17.00.39:728][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.18-17.00.39:742][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.18-17.00.39:748][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.18-17.00.39:756][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.18-17.00.39:805][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0136 seconds. Added 3601 classes and 859 folders.
+[2021.02.18-17.00.39:819][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.02.18-17.00.39:828][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.18-17.00.39:828][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.18-17.00.39:828][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.18-17.00.39:829][  0]LogPakFile: OnPakFileMounted2Time == 0.000428
+[2021.02.18-17.00.39:835][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.02.18-17.00.39:835][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.18-17.00.39:835][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.02.18-17.00.39:835][  0]LogPakFile: OnPakFileMounted2Time == 0.000433
+[2021.02.18-17.00.39:837][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.02.18-17.00.39:837][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.18-17.00.39:837][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.02.18-17.00.39:837][  0]LogPakFile: OnPakFileMounted2Time == 0.000438
+[2021.02.18-17.00.39:839][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.18-17.00.39:840][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.18-17.00.39:840][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.18-17.00.39:840][  0]LogPakFile: OnPakFileMounted2Time == 0.000442
+[2021.02.18-17.00.39:841][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.02.18-17.00.39:841][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.18-17.00.39:841][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.02.18-17.00.39:841][  0]LogPakFile: OnPakFileMounted2Time == 0.000446
+[2021.02.18-17.00.39:844][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.02.18-17.00.39:844][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.18-17.00.39:844][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.02.18-17.00.39:844][  0]LogPakFile: OnPakFileMounted2Time == 0.000452
+[2021.02.18-17.00.39:845][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.02.18-17.00.39:845][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.18-17.00.39:845][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.02.18-17.00.39:845][  0]LogPakFile: OnPakFileMounted2Time == 0.000455
+[2021.02.18-17.00.39:847][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.02.18-17.00.39:847][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.18-17.00.39:847][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.02.18-17.00.39:847][  0]LogPakFile: OnPakFileMounted2Time == 0.000458
+[2021.02.18-17.00.39:849][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.18-17.00.39:850][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.18-17.00.39:850][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.18-17.00.39:850][  0]LogPakFile: OnPakFileMounted2Time == 0.000464
+[2021.02.18-17.00.39:852][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.02.18-17.00.39:852][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.18-17.00.39:852][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.02.18-17.00.39:852][  0]LogPakFile: OnPakFileMounted2Time == 0.000469
+[2021.02.18-17.00.39:854][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.02.18-17.00.39:854][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.18-17.00.39:854][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.02.18-17.00.39:854][  0]LogPakFile: OnPakFileMounted2Time == 0.000473
+[2021.02.18-17.00.39:856][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.18-17.00.39:856][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.18-17.00.39:856][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.18-17.00.39:856][  0]LogPakFile: OnPakFileMounted2Time == 0.000498
+[2021.02.18-17.00.39:858][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.18-17.00.39:858][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.18-17.00.39:858][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.18-17.00.39:858][  0]LogPakFile: OnPakFileMounted2Time == 0.000504
+[2021.02.18-17.00.39:860][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.18-17.00.39:860][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.18-17.00.39:861][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.18-17.00.39:861][  0]LogPakFile: OnPakFileMounted2Time == 0.000509
+[2021.02.18-17.00.39:862][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.02.18-17.00.39:862][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.18-17.00.39:862][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.02.18-17.00.39:862][  0]LogPakFile: OnPakFileMounted2Time == 0.000513
+[2021.02.18-17.00.39:864][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.18-17.00.39:864][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.18-17.00.39:864][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.18-17.00.39:864][  0]LogPakFile: OnPakFileMounted2Time == 0.000517
+[2021.02.18-17.00.39:866][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.02.18-17.00.39:866][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.18-17.00.39:866][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.02.18-17.00.39:866][  0]LogPakFile: OnPakFileMounted2Time == 0.000523
+[2021.02.18-17.00.39:868][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.18-17.00.39:868][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.18-17.00.39:868][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.18-17.00.39:868][  0]LogPakFile: OnPakFileMounted2Time == 0.000528
+[2021.02.18-17.00.39:870][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.18-17.00.39:870][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.18-17.00.39:870][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.18-17.00.39:870][  0]LogPakFile: OnPakFileMounted2Time == 0.000534
+[2021.02.18-17.00.39:872][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.18-17.00.39:872][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.18-17.00.39:872][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.18-17.00.39:872][  0]LogPakFile: OnPakFileMounted2Time == 0.000538
+[2021.02.18-17.00.39:874][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.18-17.00.39:874][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.18-17.00.39:874][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.18-17.00.39:874][  0]LogPakFile: OnPakFileMounted2Time == 0.000547
+[2021.02.18-17.00.39:876][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.18-17.00.39:876][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.18-17.00.39:876][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.18-17.00.39:876][  0]LogPakFile: OnPakFileMounted2Time == 0.000557
+[2021.02.18-17.00.39:878][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.02.18-17.00.39:878][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.18-17.00.39:878][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.02.18-17.00.39:878][  0]LogPakFile: OnPakFileMounted2Time == 0.000561
+[2021.02.18-17.00.39:880][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.18-17.00.39:880][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.18-17.00.39:880][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.18-17.00.39:880][  0]LogPakFile: OnPakFileMounted2Time == 0.000565
+[2021.02.18-17.00.39:881][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.18-17.00.39:881][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.18-17.00.39:881][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.18-17.00.39:881][  0]LogPakFile: OnPakFileMounted2Time == 0.000569
+[2021.02.18-17.00.39:883][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.02.18-17.00.39:883][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.18-17.00.39:883][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.02.18-17.00.39:883][  0]LogPakFile: OnPakFileMounted2Time == 0.000574
+[2021.02.18-17.00.40:015][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.02.18-17.00.40:021][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.02.18-17.00.40:287][  0]LogSlate: Took 0.001082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.02.18-17.00.40:297][  0]LogSlate: Took 0.000927 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.02.18-17.00.40:303][  0]LogSlate: Took 0.000802 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.02.18-17.00.40:488][  0]LogRenderer: Reallocating scene render targets to support 1172x564 Format 10 NumSamples 1 (Frame:1).
+[2021.02.18-17.00.40:910][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.02.18-17.00.40:910][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.02.18-17.00.40:910][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.02.18-17.00.40:910][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.02.18-17.00.40:910][  0]LogLoad: (Engine Initialization) Total time: 18.32 seconds
+[2021.02.18-17.00.40:910][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.02.18-17.00.40:911][  0]LogInit: First time updating LLM stats...
+[2021.02.18-17.00.40:991][  0]LogAssetRegistry: Asset discovery search completed in 12.2193 seconds
+[2021.02.18-17.00.40:993][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000179 seconds (updated 0 objects)
+[2021.02.18-17.00.41:040][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.02.18-17.00.41:999][ 31]LogSlate: Took 0.001133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.18-17.00.46:291][242]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.02.18-17.00.46:406][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Materials\M_MaterialPortal1.uasset: Failed to load '/Game/TandP/portal/Textures/T_PortalTexture3': Can't find file.
+[2021.02.18-17.00.46:406][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Materials\M_MaterialPortal1.uasset: Failed to load '/Game/TandP/portal/Textures/T_PortalTexture3': Can't find file.
+[2021.02.18-17.00.46:407][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Materials\M_MaterialPortal1.uasset: Failed to load '/Game/TandP/portal/Textures/T_PortalTexture3': Can't find file.
+[2021.02.18-17.00.46:409][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Meshs\SM_Portal.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialPortal1': Can't find file.
+[2021.02.18-17.00.46:409][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Meshs\SM_Portal.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialPortal1': Can't find file.
+[2021.02.18-17.00.46:410][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Meshs\SM_Portal.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialPortal2': Can't find file.
+[2021.02.18-17.00.46:410][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Meshs\SM_Portal.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialPortal2': Can't find file.
+[2021.02.18-17.00.46:410][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Meshs\SM_Portal.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialPortal1': Can't find file.
+[2021.02.18-17.00.46:411][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Meshs\SM_Portal.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialPortal2': Can't find file.
+[2021.02.18-17.00.46:412][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Meshs\SM_Portal2.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialPortal3': Can't find file.
+[2021.02.18-17.00.46:412][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Meshs\SM_Portal2.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialPortal3': Can't find file.
+[2021.02.18-17.00.46:413][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Meshs\SM_Portal2.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialPortal3': Can't find file.
+[2021.02.18-17.00.46:414][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Particles\P_Portal.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialPPortal': Can't find file.
+[2021.02.18-17.00.46:415][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Particles\P_Portal.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialPPortal': Can't find file.
+[2021.02.18-17.00.46:415][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Particles\P_Portal.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialPPortal2': Can't find file.
+[2021.02.18-17.00.46:416][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Particles\P_Portal.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialPPortal2': Can't find file.
+[2021.02.18-17.00.46:416][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Particles\P_Portal.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialPPortal3': Can't find file.
+[2021.02.18-17.00.46:416][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Particles\P_Portal.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialPPortal3': Can't find file.
+[2021.02.18-17.00.46:417][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Particles\P_Portal.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialSmoke': Can't find file.
+[2021.02.18-17.00.46:417][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Particles\P_Portal.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialSmoke': Can't find file.
+[2021.02.18-17.00.46:417][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Particles\P_Portal.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialPPortal': Can't find file.
+[2021.02.18-17.00.46:417][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Particles\P_Portal.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialPPortal2': Can't find file.
+[2021.02.18-17.00.46:418][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Particles\P_Portal.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialPPortal3': Can't find file.
+[2021.02.18-17.00.46:418][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Particles\P_Portal.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialSmoke': Can't find file.
+[2021.02.18-17.00.46:466][242]LogBlueprint: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\AdvancedVillagePack\Blueprints\BP_Butterfly.uasset: [Compiler] Function ' Play Animation ' is unsafe to call in a construction script.
+[2021.02.18-17.00.46:467][242]LogBlueprint: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\AdvancedVillagePack\Blueprints\BP_Butterfly.uasset: [Compiler] Function ' Set Play Rate ' is unsafe to call in a construction script.
+[2021.02.18-17.00.46:812][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\ThirdPersonBP\Blueprints\MainMenuWidget.uasset: Failed to load '/Game/ThirdPersonBP/MenuAsset/Bouton_retour': Can't find file.
+[2021.02.18-17.00.46:812][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\ThirdPersonBP\Blueprints\MainMenuWidget.uasset: Failed to load '/Game/ThirdPersonBP/MenuAsset/Bouton_retour': Can't find file.
+[2021.02.18-17.00.46:813][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\ThirdPersonBP\Blueprints\MainMenuWidget.uasset: Failed to load '/Game/ThirdPersonBP/MenuAsset/Bouton_retour': Can't find file.
+[2021.02.18-17.00.46:816][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\ThirdPersonBP\Blueprints\MainMenuHUD.uasset: Failed to load '/Game/ThirdPersonBP/MenuAsset/Bouton_retour': Can't find file.
+[2021.02.18-17.00.46:816][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\ThirdPersonBP\Blueprints\MainMenuHUD.uasset: Failed to load '/Game/ThirdPersonBP/MenuAsset/Bouton_retour': Can't find file.
+[2021.02.18-17.00.46:819][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\ThirdPersonBP\Blueprints\MainMenuHUD.uasset: Failed to load '/Game/ThirdPersonBP/MenuAsset/Bouton_retour': Can't find file.
+[2021.02.18-17.00.46:819][242]LoadErrors: Failed to load /Game/ThirdPersonBP/MenuAsset/Bouton_retour.Bouton_retour Referenced by Image_505
+[2021.02.18-17.00.47:056][242]LogTexture: Display: Building textures: T_Foliage_Var01_D (AutoDXT, 512X512)
+[2021.02.18-17.00.47:056][242]LogTexture: Display: Building textures: T_Pack_TreeLeafs_Mask (AutoDXT, 1024X1024)
+[2021.02.18-17.00.47:056][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\ThirdPersonBP\Blueprints\MainMenuWidget.uasset: Failed to load '/Game/ThirdPersonBP/MenuAsset/Bouton_retour': Can't find file.
+[2021.02.18-17.00.47:060][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Particles\P_Portal.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialPPortal3': Can't find file.
+[2021.02.18-17.00.47:060][242]LoadErrors: Failed to load /Game/TandP/portal/Materials/M_MaterialPPortal3.M_MaterialPPortal3 Referenced by ParticleModuleRequired_0
+[2021.02.18-17.00.47:060][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Particles\P_Portal.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialPPortal2': Can't find file.
+[2021.02.18-17.00.47:060][242]LoadErrors: Failed to load /Game/TandP/portal/Materials/M_MaterialPPortal2.M_MaterialPPortal2 Referenced by ParticleModuleRequired_2
+[2021.02.18-17.00.47:061][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Particles\P_Portal.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialSmoke': Can't find file.
+[2021.02.18-17.00.47:061][242]LoadErrors: Failed to load /Game/TandP/portal/Materials/M_MaterialSmoke.M_MaterialSmoke Referenced by ParticleModuleRequired_3
+[2021.02.18-17.00.47:062][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Particles\P_Portal.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialPPortal': Can't find file.
+[2021.02.18-17.00.47:062][242]LoadErrors: Failed to load /Game/TandP/portal/Materials/M_MaterialPPortal.M_MaterialPPortal Referenced by ParticleModuleRequired_4
+[2021.02.18-17.00.47:063][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Meshs\SM_Portal2.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialPortal3': Can't find file.
+[2021.02.18-17.00.47:063][242]LoadErrors: Failed to load /Game/TandP/portal/Materials/M_MaterialPortal3.M_MaterialPortal3 Referenced by SM_Portal2
+[2021.02.18-17.00.47:064][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Meshs\SM_Portal2.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialPortal3': Can't find file.
+[2021.02.18-17.00.47:066][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Meshs\SM_Portal.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialPortal1': Can't find file.
+[2021.02.18-17.00.47:066][242]LoadErrors: Failed to load /Game/TandP/portal/Materials/M_MaterialPortal1.M_MaterialPortal1 Referenced by SM_Portal
+[2021.02.18-17.00.47:066][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Meshs\SM_Portal.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialPortal2': Can't find file.
+[2021.02.18-17.00.47:066][242]LoadErrors: Failed to load /Game/TandP/portal/Materials/M_MaterialPortal2.M_MaterialPortal2 Referenced by SM_Portal
+[2021.02.18-17.00.47:067][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Meshs\SM_Portal.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialPortal1': Can't find file.
+[2021.02.18-17.00.47:068][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Meshs\SM_Portal.uasset: Failed to load '/Game/TandP/portal/Materials/M_MaterialPortal2': Can't find file.
+[2021.02.18-17.00.47:068][242]LogLinker: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Materials\M_MaterialPortal1.uasset: Failed to load '/Game/TandP/portal/Textures/T_PortalTexture3': Can't find file.
+[2021.02.18-17.00.47:069][242]LoadErrors: Failed to load /Game/TandP/portal/Textures/T_PortalTexture3.T_PortalTexture3 Referenced by MaterialExpressionTextureSample_0
+[2021.02.18-17.00.48:174][242]LogTexture: Display: Building textures: T_Pack_TreeLeafs_D (AutoDXT, 1024X1024)
+[2021.02.18-17.00.48:182][242]LogTexture: Display: Building textures: T_Pack_TreeLeafs_N (BC5, 1024X1024)
+[2021.02.18-17.00.48:182][242]LogTexture: Display: Building textures: T_Pack_TreeTrunks_RM (AutoDXT, 4096X4096)
+[2021.02.18-17.00.48:182][242]LogTexture: Display: Building textures: T_Landscape_Soil_N (BC5, 512X512)
+[2021.02.18-17.00.48:182][242]LogTexture: Display: Building textures: T_Pack_05_E (AutoDXT, 4096X4096)
+[2021.02.18-17.00.48:182][242]LogTexture: Display: Building textures: T_Pack_03_RM (AutoDXT, 4096X4096)
+[2021.02.18-17.00.48:182][242]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.02.18-17.00.48:182][242]LogStaticMesh: Building static mesh SM_Well...
+[2021.02.18-17.00.48:342][242]LogTexture: Display: Building textures: T_Pack_09_RM (AutoDXT, 4096X4096)
+[2021.02.18-17.00.48:342][242]LogTexture: Display: Building textures: T_Pack_08_D (AutoDXT, 1024X1024)
+[2021.02.18-17.00.48:391][242]LogStaticMesh: Built static mesh [0.34s] /Game/AdvancedVillagePack/Meshes/SM_Well.SM_Well
+[2021.02.18-17.00.48:787][242]LogStaticMesh: Building static mesh SM_Flower_Var03...
+[2021.02.18-17.00.49:004][242]LogStaticMesh: Built static mesh [0.24s] /Game/AdvancedVillagePack/Meshes/SM_Flower_Var03.SM_Flower_Var03
+[2021.02.18-17.00.49:186][242]LogStaticMesh: Building static mesh SM_Flower_Var02...
+[2021.02.18-17.00.49:282][242]LogTexture: Display: Building textures: T_Pack_09_D (AutoDXT, 4096X4096)
+[2021.02.18-17.00.49:283][242]LogStaticMesh: Built static mesh [0.10s] /Game/AdvancedVillagePack/Meshes/SM_Flower_Var02.SM_Flower_Var02
+[2021.02.18-17.00.51:432][242]LogTexture: Display: Building textures: T_Pack_06_D (AutoDXT, 4096X4096)
+[2021.02.18-17.01.12:069][242]LogTexture: Display: Building textures: T_Pack_06_N (BC5, 4096X4096)
+[2021.02.18-17.01.12:074][242]LogTexture: Display: Building textures: T_Pfx_Spark (AutoDXT, 32X32)
+[2021.02.18-17.01.12:074][242]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2021.02.18-17.01.12:319][242]LogStaticMesh: Building static mesh SM_Tree_Var02...
+[2021.02.18-17.01.12:436][242]LogStaticMesh: Built static mesh [0.12s] /Game/AdvancedVillagePack/Meshes/SM_Tree_Var02.SM_Tree_Var02
+[2021.02.18-17.01.13:420][242]LogMaterial: Display: Missing cached shader map for material M_Pfx_TranslucentLit, compiling. 
+[2021.02.18-17.01.13:585][242]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 84
+[2021.02.18-17.01.13:586][242]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 74
+[2021.02.18-17.01.13:586][242]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 64
+[2021.02.18-17.01.13:586][242]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 54
+[2021.02.18-17.01.13:586][242]LogStaticMesh: Building static mesh SM_Torch_Var02...
+[2021.02.18-17.01.13:632][242]LogStaticMesh: Built static mesh [0.05s] /Game/AdvancedVillagePack/Meshes/SM_Torch_Var02.SM_Torch_Var02
+[2021.02.18-17.01.13:723][242]LogStaticMesh: Building static mesh SM_Watermellon...
+[2021.02.18-17.01.13:730][242]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Watermellon.SM_Watermellon
+[2021.02.18-17.01.13:765][242]LogStaticMesh: Building static mesh SM_StoneFlat_Var03...
+[2021.02.18-17.01.13:769][242]LogStaticMesh: Built static mesh [0.00s] /Game/AdvancedVillagePack/Meshes/SM_StoneFlat_Var03.SM_StoneFlat_Var03
+[2021.02.18-17.01.13:780][242]LogStaticMesh: Building static mesh SM_Stone_Medium_Var05...
+[2021.02.18-17.01.13:797][242]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Stone_Medium_Var05.SM_Stone_Medium_Var05
+[2021.02.18-17.01.13:806][242]LogStaticMesh: Building static mesh SM_Stone_Medium_Var03...
+[2021.02.18-17.01.13:831][242]LogStaticMesh: Built static mesh [0.03s] /Game/AdvancedVillagePack/Meshes/SM_Stone_Medium_Var03.SM_Stone_Medium_Var03
+[2021.02.18-17.01.13:835][242]LogStaticMesh: Building static mesh SM_Stone_Medium_Var02...
+[2021.02.18-17.01.13:856][242]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Stone_Medium_Var02.SM_Stone_Medium_Var02
+[2021.02.18-17.01.13:863][242]LogStaticMesh: Building static mesh SM_Stone_Big_Var05...
+[2021.02.18-17.01.13:943][242]LogStaticMesh: Built static mesh [0.08s] /Game/AdvancedVillagePack/Meshes/SM_Stone_Big_Var05.SM_Stone_Big_Var05
+[2021.02.18-17.01.13:963][242]LogStaticMesh: Building static mesh SM_SackWithTomatoes...
+[2021.02.18-17.01.14:209][242]LogStaticMesh: Built static mesh [0.25s] /Game/AdvancedVillagePack/Meshes/SM_SackWithTomatoes.SM_SackWithTomatoes
+[2021.02.18-17.01.14:238][242]LogStaticMesh: Building static mesh SM_Pumpkin_Var03...
+[2021.02.18-17.01.14:265][242]LogStaticMesh: Built static mesh [0.03s] /Game/AdvancedVillagePack/Meshes/SM_Pumpkin_Var03.SM_Pumpkin_Var03
+[2021.02.18-17.01.14:279][242]LogStaticMesh: Building static mesh SM_Potato...
+[2021.02.18-17.01.14:291][242]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Potato.SM_Potato
+[2021.02.18-17.01.14:293][242]LogStaticMesh: Building static mesh SM_Pot_Var06...
+[2021.02.18-17.01.14:310][242]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Pot_Var06.SM_Pot_Var06
+[2021.02.18-17.01.14:314][242]LogStaticMesh: Building static mesh SM_Pot_Var05...
+[2021.02.18-17.01.14:342][242]LogStaticMesh: Built static mesh [0.03s] /Game/AdvancedVillagePack/Meshes/SM_Pot_Var05.SM_Pot_Var05
+[2021.02.18-17.01.14:382][242]LogStaticMesh: Building static mesh SM_Mushroom_Var06...
+[2021.02.18-17.01.14:412][242]LogStaticMesh: Built static mesh [0.03s] /Game/AdvancedVillagePack/Meshes/SM_Mushroom_Var06.SM_Mushroom_Var06
+[2021.02.18-17.01.14:416][242]LogStaticMesh: Building static mesh SM_Mushroom_Var05...
+[2021.02.18-17.01.14:426][242]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Mushroom_Var05.SM_Mushroom_Var05
+[2021.02.18-17.01.14:450][242]LogStaticMesh: Building static mesh SM_Mushroom_Var01...
+[2021.02.18-17.01.14:463][242]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Mushroom_Var01.SM_Mushroom_Var01
+[2021.02.18-17.01.14:488][242]LogStaticMesh: Building static mesh SM_Hay_Stack...
+[2021.02.18-17.01.14:501][242]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Hay_Stack.SM_Hay_Stack
+[2021.02.18-17.01.14:507][242]LogStaticMesh: Building static mesh SM_Hay_Small_Var02...
+[2021.02.18-17.01.14:509][242]LogStaticMesh: Built static mesh [0.00s] /Game/AdvancedVillagePack/Meshes/SM_Hay_Small_Var02.SM_Hay_Small_Var02
+[2021.02.18-17.01.14:521][242]LogStaticMesh: Building static mesh SM_Fence_Var03...
+[2021.02.18-17.01.14:537][242]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Fence_Var03.SM_Fence_Var03
+[2021.02.18-17.01.14:575][242]LogStaticMesh: Building static mesh SM_Cart_Var01...
+[2021.02.18-17.01.14:684][242]LogStaticMesh: Built static mesh [0.11s] /Game/AdvancedVillagePack/Meshes/SM_Cart_Var01.SM_Cart_Var01
+[2021.02.18-17.01.14:726][242]LogStaticMesh: Building static mesh SM_Apple...
+[2021.02.18-17.01.14:738][242]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Apple.SM_Apple
+[2021.02.18-17.01.14:770][242]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2021.02.18-17.01.14:877][242]LogStaticMesh: Building static mesh SM_Well_Extra02...
+[2021.02.18-17.01.14:939][242]LogStaticMesh: Built static mesh [0.06s] /Game/AdvancedVillagePack/Meshes/SM_Well_Extra02.SM_Well_Extra02
+[2021.02.18-17.01.14:942][242]LogStaticMesh: Building static mesh SM_Well_Extra01...
+[2021.02.18-17.01.14:958][242]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Well_Extra01.SM_Well_Extra01
+[2021.02.18-17.01.14:999][242]LogMaterial: Display: Missing cached shader map for material M_MaterialPortal1, compiling. 
+[2021.02.18-17.01.15:001][242]LogMaterial: Warning: [AssetLog] C:\Users\lenas\Documents\Unreal Projects\UEGame\Game\Content\portal\Materials\M_MaterialPortal1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.18-17.01.15:002][242]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.18-17.01.15:015][242]LogStaticMesh: Building static mesh SM_Flower_Var01...
+[2021.02.18-17.01.15:043][242]LogStaticMesh: Built static mesh [0.03s] /Game/AdvancedVillagePack/Meshes/SM_Flower_Var01.SM_Flower_Var01
+[2021.02.18-17.01.15:063][242]LogStaticMesh: Building static mesh SM_House_Var01_Extra05...
+[2021.02.18-17.01.15:079][242]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_House_Var01_Extra05.SM_House_Var01_Extra05
+[2021.02.18-17.01.15:097][242]LogStaticMesh: Building static mesh SM_House_Var01_Extra01...
+[2021.02.18-17.01.15:140][242]LogStaticMesh: Built static mesh [0.04s] /Game/AdvancedVillagePack/Meshes/SM_House_Var01_Extra01.SM_House_Var01_Extra01
+[2021.02.18-17.01.15:168][242]LogStaticMesh: Building static mesh SM_Stone_Small_Var05...
+[2021.02.18-17.01.15:181][242]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Stone_Small_Var05.SM_Stone_Small_Var05
+[2021.02.18-17.01.15:192][242]LogStaticMesh: Building static mesh SM_Stone_Small_Var02...
+[2021.02.18-17.01.15:201][242]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Stone_Small_Var02.SM_Stone_Small_Var02
+[2021.02.18-17.01.15:302][242]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedVillagePack/Animations/Butterfly_Anim_Var02_Anim.Butterfly_Anim_Var02_Anim
+[2021.02.18-17.01.15:302][242]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update CurveLinearColor_0
+[2021.02.18-17.01.16:782][242]LogAssetEditorSubsystem: Opening Asset editor for World /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase
+[2021.02.18-17.01.16:817][242]Cmd: MAP LOAD FILE="../../../../../../Users/lenas/Documents/Unreal Projects/UEGame/Game/Content/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.18-17.01.16:820][242]LightingResults: New page: Lighting Build
+[2021.02.18-17.01.16:828][242]LoadErrors: New page: Loading map: AdvancedVillagePack_Showcase.umap
+[2021.02.18-17.01.16:890][242]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.18-17.01.16:898][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.18-17.01.16:904][242]MapCheck: New page: Map Check
+[2021.02.18-17.01.16:905][242]LightingResults: New page: Lighting Build
+[2021.02.18-17.01.17:022][242]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.18-17.01.17:162][242]LogUObjectHash: Compacting FUObjectHashTables data took  10.58ms
+[2021.02.18-17.01.17:185][242]LogAudio: Display: Audio Device (ID: 1) registered with world 'AdvancedVillagePack_Showcase'.
+[2021.02.18-17.01.19:479][242]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2021.02.18-17.01.19:480][242]LogAIModule: Creating AISystem for world AdvancedVillagePack_Showcase
+[2021.02.18-17.01.19:620][242]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.02.18-17.01.19:638][242]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.18-17.01.19:639][242]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,923ms to complete.
+[2021.02.18-17.01.19:640][242]LogFileHelpers: Loading map 'AdvancedVillagePack_Showcase' took 2.829
+[2021.02.18-17.01.27:103][368]LogRenderer: Reallocating scene render targets to support 1320x652 Format 10 NumSamples 1 (Frame:100).
+[2021.02.18-17.01.27:320][370]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 65
+[2021.02.18-17.01.27:860][384]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 55
+[2021.02.18-17.01.28:330][396]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 45
+[2021.02.18-17.01.30:810][447]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 35
+[2021.02.18-17.01.43:257][645]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.18-17.01.43:293][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.18-17.01.43:294][645]PIE: New page: PIE session: AdvancedVillagePack_Showcase (18 févr. 2021 à 19:01:43)
+[2021.02.18-17.01.43:307][645]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.02.18-17.01.43:315][645]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.02.18-17.01.43:317][645]LogPlayLevel: Creating play world package: /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2021.02.18-17.01.44:032][645]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2021.02.18-17.01.44:202][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.883591s)
+[2021.02.18-17.01.44:205][645]LogAIModule: Creating AISystem for world AdvancedVillagePack_Showcase
+[2021.02.18-17.01.44:209][645]LogPlayLevel: PIE: World Init took: (0.006658s)
+[2021.02.18-17.01.44:210][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase to /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase (0.892377s)
+[2021.02.18-17.01.44:286][645]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.02.18-17.01.44:296][645]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.02.18-17.01.44:296][645]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.18-17.01.44:296][645]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.18-17.01.44:296][645]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.18-17.01.44:296][645]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.18-17.01.44:296][645]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.18-17.01.44:296][645]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.18-17.01.44:296][645]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.18-17.01.44:296][645]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.18-17.01.44:301][645]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.18-17.01.44:301][645]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.18-17.01.44:337][645]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.18-17.01.44:337][645]LogAudioMixer: Display: 1: FrontRight
+[2021.02.18-17.01.44:385][645]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2021.02.18-17.01.44:385][645]LogAudioMixer: Display: Using Audio Device PLE2483H (2- NVIDIA High Definition Audio)
+[2021.02.18-17.01.44:387][645]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.18-17.01.44:387][645]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.18-17.01.44:388][645]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.18-17.01.44:389][645]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.18-17.01.44:390][645]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.18-17.01.44:390][645]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.18-17.01.44:440][645]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.18-17.01.44:440][645]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.18-17.01.44:440][645]LogInit: FAudioDevice initialized.
+[2021.02.18-17.01.44:440][645]LogAudio: Display: Audio Device (ID: 2) registered with world 'AdvancedVillagePack_Showcase'.
+[2021.02.18-17.01.44:488][645]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2021.02.18-17.01.44:597][645]LogWorld: Bringing World /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase up for play (max tick rate 60) at 2021.02.18-18.01.44
+[2021.02.18-17.01.44:624][645]LogWorld: Bringing up level for play took: 0.129716
+[2021.02.18-17.01.44:625][645]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.02.18-17.01.44:636][645]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2021.02.18-17.01.44:654][645]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0026 seconds. Added 20 classes and 0 folders.
+[2021.02.18-17.01.44:720][645]PIE: Server logged in
+[2021.02.18-17.01.44:811][645]PIE: Play in editor total start time 1,529 seconds.
+[2021.02.18-17.01.45:544][650]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2021.02.18-17.01.46:074][660]LogNet: Browse: /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase
+[2021.02.18-17.01.46:075][660]LogLoad: LoadMap: /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase
+[2021.02.18-17.01.46:075][660]LogWorld: BeginTearingDown for /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2021.02.18-17.01.46:080][660]LogWorld: UWorld::CleanupWorld for AdvancedVillagePack_Showcase, bSessionEnded=true, bCleanupResources=true
+[2021.02.18-17.01.46:122][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.18-17.01.46:179][660]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.18-17.01.46:220][660]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.02.18-17.01.46:275][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.02.18-17.01.46:289][660]LogPlayLevel: Creating play world package: /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2021.02.18-17.01.47:077][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.787811s)
+[2021.02.18-17.01.47:080][660]LogAIModule: Creating AISystem for world AdvancedVillagePack_Showcase
+[2021.02.18-17.01.47:081][660]LogPlayLevel: PIE: World Init took: (0.003119s)
+[2021.02.18-17.01.47:081][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase to /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase (0.791733s)
+[2021.02.18-17.01.47:081][660]LogAudio: Display: Audio Device (ID: 2) registered with world 'AdvancedVillagePack_Showcase'.
+[2021.02.18-17.01.47:081][660]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2021.02.18-17.01.47:147][660]LogWorld: Bringing World /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase up for play (max tick rate 60) at 2021.02.18-18.01.47
+[2021.02.18-17.01.47:171][660]LogWorld: Bringing up level for play took: 0.088196
+[2021.02.18-17.01.47:185][660]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2021.02.18-17.01.47:229][660]LogLoad: Took 1.154219 seconds to LoadMap(/Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase)
+[2021.02.18-17.01.49:796][708]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.02.18-17.01.50:419][722]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.02.18-17.01.51:337][743]LogNet: Browse: /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase
+[2021.02.18-17.01.51:338][743]LogLoad: LoadMap: /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase
+[2021.02.18-17.01.51:338][743]LogWorld: BeginTearingDown for /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2021.02.18-17.01.51:343][743]LogWorld: UWorld::CleanupWorld for AdvancedVillagePack_Showcase, bSessionEnded=true, bCleanupResources=true
+[2021.02.18-17.01.51:382][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.18-17.01.51:418][743]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.18-17.01.51:543][743]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.02.18-17.01.51:551][743]LogPlayLevel: Creating play world package: /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2021.02.18-17.01.52:247][743]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.02.18-17.01.52:247][743]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.02.18-17.01.52:409][743]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.02.18-17.01.52:415][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.863628s)
+[2021.02.18-17.01.52:417][743]LogAIModule: Creating AISystem for world AdvancedVillagePack_Showcase
+[2021.02.18-17.01.52:419][743]LogPlayLevel: PIE: World Init took: (0.003405s)
+[2021.02.18-17.01.52:419][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase to /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase (0.867888s)
+[2021.02.18-17.01.52:419][743]LogAudio: Display: Audio Device (ID: 2) registered with world 'AdvancedVillagePack_Showcase'.
+[2021.02.18-17.01.52:419][743]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2021.02.18-17.01.52:477][743]LogWorld: Bringing World /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase up for play (max tick rate 60) at 2021.02.18-18.01.52
+[2021.02.18-17.01.52:498][743]LogWorld: Bringing up level for play took: 0.077727
+[2021.02.18-17.01.52:512][743]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2021.02.18-17.01.52:552][743]LogLoad: Took 1.214687 seconds to LoadMap(/Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase)
+[2021.02.18-17.02.06:748][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.18-17.02.06:748][326]LogWorld: BeginTearingDown for /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2021.02.18-17.02.06:750][326]LogWorld: UWorld::CleanupWorld for AdvancedVillagePack_Showcase, bSessionEnded=true, bCleanupResources=true
+[2021.02.18-17.02.06:762][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.18-17.02.06:784][326]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.18-17.02.06:790][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.18-17.02.06:805][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.18-17.02.06:811][326]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.18-17.02.06:814][326]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.18-17.02.06:879][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.02.18-17.02.06:898][327]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.02.18-17.02.09:199][423]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.18-17.02.09:218][423]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.18-17.02.09:218][423]PIE: New page: PIE session: AdvancedVillagePack_Showcase (18 févr. 2021 à 19:02:09)
+[2021.02.18-17.02.09:218][423]LogPlayLevel: Creating play world package: /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2021.02.18-17.02.09:587][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.369123s)
+[2021.02.18-17.02.09:589][423]LogAIModule: Creating AISystem for world AdvancedVillagePack_Showcase
+[2021.02.18-17.02.09:590][423]LogPlayLevel: PIE: World Init took: (0.002184s)
+[2021.02.18-17.02.09:590][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase to /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase (0.371836s)
+[2021.02.18-17.02.09:606][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.02.18-17.02.09:608][423]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.02.18-17.02.09:608][423]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.18-17.02.09:608][423]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.18-17.02.09:608][423]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.18-17.02.09:608][423]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.18-17.02.09:608][423]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.18-17.02.09:608][423]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.18-17.02.09:608][423]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.18-17.02.09:608][423]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.18-17.02.09:609][423]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.18-17.02.09:609][423]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.18-17.02.09:623][423]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.18-17.02.09:623][423]LogAudioMixer: Display: 1: FrontRight
+[2021.02.18-17.02.09:642][423]LogAudioMixer: Display: Using Audio Device PLE2483H (2- NVIDIA High Definition Audio)
+[2021.02.18-17.02.09:642][423]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.18-17.02.09:642][423]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.18-17.02.09:642][423]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.18-17.02.09:643][423]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.18-17.02.09:643][423]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.18-17.02.09:643][423]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.18-17.02.09:660][423]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.18-17.02.09:660][423]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.18-17.02.09:660][423]LogInit: FAudioDevice initialized.
+[2021.02.18-17.02.09:660][423]LogAudio: Display: Audio Device (ID: 3) registered with world 'AdvancedVillagePack_Showcase'.
+[2021.02.18-17.02.09:673][423]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2021.02.18-17.02.09:718][423]LogWorld: Bringing World /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase up for play (max tick rate 60) at 2021.02.18-18.02.09
+[2021.02.18-17.02.09:728][423]LogWorld: Bringing up level for play took: 0.054992
+[2021.02.18-17.02.09:728][423]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.02.18-17.02.09:731][423]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2021.02.18-17.02.09:748][423]PIE: Server logged in
+[2021.02.18-17.02.09:748][423]PIE: Play in editor total start time 0,538 seconds.
+[2021.02.18-17.02.09:788][424]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.060672 > MaxSimulationTimeStep (0.050) for 'Character_0', movement 'Walking'
+[2021.02.18-17.02.10:516][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.18-17.02.10:524][452]LogWorld: BeginTearingDown for /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2021.02.18-17.02.10:526][452]LogWorld: UWorld::CleanupWorld for AdvancedVillagePack_Showcase, bSessionEnded=true, bCleanupResources=true
+[2021.02.18-17.02.10:540][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.18-17.02.10:555][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.18-17.02.10:560][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.18-17.02.10:568][452]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.18-17.02.10:579][452]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.18-17.02.10:580][452]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.18-17.02.10:598][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.18-17.02.10:646][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.02.18-17.02.10:715][453]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.02.18-17.02.12:442][529]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.18-17.02.12:463][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.18-17.02.12:463][529]PIE: New page: PIE session: AdvancedVillagePack_Showcase (18 févr. 2021 à 19:02:12)
+[2021.02.18-17.02.12:463][529]LogPlayLevel: Creating play world package: /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2021.02.18-17.02.12:833][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.368823s)
+[2021.02.18-17.02.12:834][529]LogAIModule: Creating AISystem for world AdvancedVillagePack_Showcase
+[2021.02.18-17.02.12:835][529]LogPlayLevel: PIE: World Init took: (0.001957s)
+[2021.02.18-17.02.12:835][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase to /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase (0.371203s)
+[2021.02.18-17.02.12:847][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.02.18-17.02.12:848][529]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.02.18-17.02.12:848][529]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.18-17.02.12:848][529]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.18-17.02.12:848][529]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.18-17.02.12:849][529]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.18-17.02.12:849][529]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.18-17.02.12:849][529]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.18-17.02.12:849][529]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.18-17.02.12:849][529]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.18-17.02.12:850][529]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.18-17.02.12:850][529]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.18-17.02.12:863][529]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.18-17.02.12:863][529]LogAudioMixer: Display: 1: FrontRight
+[2021.02.18-17.02.12:881][529]LogAudioMixer: Display: Using Audio Device PLE2483H (2- NVIDIA High Definition Audio)
+[2021.02.18-17.02.12:881][529]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.18-17.02.12:881][529]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.18-17.02.12:881][529]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.18-17.02.12:882][529]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.18-17.02.12:882][529]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.18-17.02.12:882][529]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.18-17.02.12:899][529]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.18-17.02.12:899][529]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.18-17.02.12:899][529]LogInit: FAudioDevice initialized.
+[2021.02.18-17.02.12:899][529]LogAudio: Display: Audio Device (ID: 4) registered with world 'AdvancedVillagePack_Showcase'.
+[2021.02.18-17.02.12:912][529]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2021.02.18-17.02.12:960][529]LogWorld: Bringing World /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase up for play (max tick rate 60) at 2021.02.18-18.02.12
+[2021.02.18-17.02.12:970][529]LogWorld: Bringing up level for play took: 0.056928
+[2021.02.18-17.02.12:970][529]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.02.18-17.02.12:973][529]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2021.02.18-17.02.12:991][529]PIE: Server logged in
+[2021.02.18-17.02.12:991][529]PIE: Play in editor total start time 0,535 seconds.
+[2021.02.18-17.02.13:030][530]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.060221 > MaxSimulationTimeStep (0.050) for 'Character_0', movement 'Walking'
+[2021.02.18-17.02.13:817][555]LogNet: Browse: /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase
+[2021.02.18-17.02.13:817][555]LogLoad: LoadMap: /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase
+[2021.02.18-17.02.13:817][555]LogWorld: BeginTearingDown for /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2021.02.18-17.02.13:819][555]LogWorld: UWorld::CleanupWorld for AdvancedVillagePack_Showcase, bSessionEnded=true, bCleanupResources=true
+[2021.02.18-17.02.13:832][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.18-17.02.13:855][555]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.18-17.02.13:892][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.02.18-17.02.13:897][555]LogPlayLevel: Creating play world package: /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2021.02.18-17.02.14:250][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.353043s)
+[2021.02.18-17.02.14:252][555]LogAIModule: Creating AISystem for world AdvancedVillagePack_Showcase
+[2021.02.18-17.02.14:252][555]LogPlayLevel: PIE: World Init took: (0.001561s)
+[2021.02.18-17.02.14:252][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase to /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase (0.355030s)
+[2021.02.18-17.02.14:252][555]LogAudio: Display: Audio Device (ID: 4) registered with world 'AdvancedVillagePack_Showcase'.
+[2021.02.18-17.02.14:252][555]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2021.02.18-17.02.14:278][555]LogWorld: Bringing World /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase up for play (max tick rate 60) at 2021.02.18-18.02.14
+[2021.02.18-17.02.14:288][555]LogWorld: Bringing up level for play took: 0.033958
+[2021.02.18-17.02.14:296][555]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2021.02.18-17.02.14:312][555]LogLoad: Took 0.495861 seconds to LoadMap(/Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase)
+[2021.02.18-17.02.16:600][648]LogNet: Browse: /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase
+[2021.02.18-17.02.16:600][648]LogLoad: LoadMap: /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase
+[2021.02.18-17.02.16:600][648]LogWorld: BeginTearingDown for /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2021.02.18-17.02.16:603][648]LogWorld: UWorld::CleanupWorld for AdvancedVillagePack_Showcase, bSessionEnded=true, bCleanupResources=true
+[2021.02.18-17.02.16:620][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.18-17.02.16:671][648]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.18-17.02.16:709][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.02.18-17.02.16:715][648]LogPlayLevel: Creating play world package: /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2021.02.18-17.02.17:075][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.359845s)
+[2021.02.18-17.02.17:076][648]LogAIModule: Creating AISystem for world AdvancedVillagePack_Showcase
+[2021.02.18-17.02.17:077][648]LogPlayLevel: PIE: World Init took: (0.001482s)
+[2021.02.18-17.02.17:077][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase to /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase (0.361645s)
+[2021.02.18-17.02.17:077][648]LogAudio: Display: Audio Device (ID: 4) registered with world 'AdvancedVillagePack_Showcase'.
+[2021.02.18-17.02.17:077][648]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2021.02.18-17.02.17:102][648]LogWorld: Bringing World /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase up for play (max tick rate 60) at 2021.02.18-18.02.17
+[2021.02.18-17.02.17:112][648]LogWorld: Bringing up level for play took: 0.033812
+[2021.02.18-17.02.17:120][648]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2021.02.18-17.02.17:136][648]LogLoad: Took 0.535659 seconds to LoadMap(/Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase)
+[2021.02.18-17.02.46:263][938]LogNet: Browse: /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase
+[2021.02.18-17.02.46:264][938]LogLoad: LoadMap: /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase
+[2021.02.18-17.02.46:264][938]LogWorld: BeginTearingDown for /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2021.02.18-17.02.46:265][938]LogWorld: UWorld::CleanupWorld for AdvancedVillagePack_Showcase, bSessionEnded=true, bCleanupResources=true
+[2021.02.18-17.02.46:278][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.18-17.02.46:301][938]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.18-17.02.46:339][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.02.18-17.02.46:346][938]LogPlayLevel: Creating play world package: /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2021.02.18-17.02.46:731][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.384202s)
+[2021.02.18-17.02.46:732][938]LogAIModule: Creating AISystem for world AdvancedVillagePack_Showcase
+[2021.02.18-17.02.46:733][938]LogPlayLevel: PIE: World Init took: (0.001836s)
+[2021.02.18-17.02.46:733][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase to /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase (0.386433s)
+[2021.02.18-17.02.46:733][938]LogAudio: Display: Audio Device (ID: 4) registered with world 'AdvancedVillagePack_Showcase'.
+[2021.02.18-17.02.46:733][938]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2021.02.18-17.02.46:822][938]LogWorld: Bringing World /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase up for play (max tick rate 60) at 2021.02.18-18.02.46
+[2021.02.18-17.02.46:832][938]LogWorld: Bringing up level for play took: 0.097013
+[2021.02.18-17.02.46:840][938]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2021.02.18-17.02.46:857][938]LogLoad: Took 0.593131 seconds to LoadMap(/Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase)
+[2021.02.18-17.02.47:397][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.18-17.02.47:397][953]LogWorld: BeginTearingDown for /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2021.02.18-17.02.47:398][953]LogWorld: UWorld::CleanupWorld for AdvancedVillagePack_Showcase, bSessionEnded=true, bCleanupResources=true
+[2021.02.18-17.02.47:409][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.18-17.02.47:422][953]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.18-17.02.47:426][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.18-17.02.47:444][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.18-17.02.47:446][953]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.18-17.02.47:447][953]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.18-17.02.47:509][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.02.18-17.02.47:527][954]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.02.18-17.02.54:360][269]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PR_background_D_E2_LOW)
+[2021.02.18-17.02.54:782][278]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PR_background_D_E2_LOW)
+[2021.02.18-17.03.23:110][504]LogAssetTools: Warning: Failed to import 'C:\Users\lenas\Downloads\Bush-28\Bush 5 N131014.max'. Unknown extension 'max'.
+[2021.02.18-17.03.23:115][504]LogAssetTools: Warning: Failed to import 'C:\Users\lenas\Downloads\Bush-28\Bush 5 N131014.3ds'. Unknown extension '3ds'.
+[2021.02.18-17.03.23:121][504]LogAssetTools: Warning: Failed to import 'C:\Users\lenas\Downloads\Bush-28\Bush 5 N131014.gsm'. Unknown extension 'gsm'.
+[2021.02.18-17.08.01:085][318]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.08.41:051][584]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.02.18-17.11.49:798][146]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\lenas\Downloads\AnyConv.com__Bush 5 N131014.fbx)
+[2021.02.18-17.11.50:003][146]LogFbx: Loading FBX Scene from C:\Users\lenas\Downloads\AnyConv.com__Bush 5 N131014.fbx
+[2021.02.18-17.11.50:280][146]LogFbx: FBX Scene Loaded Succesfully
+[2021.02.18-17.11.55:354][146]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.02.18-17.11.55:699][146]LogMaterial: Display: Missing cached shader map for material wire_177148027, compiling. 
+[2021.02.18-17.11.56:409][146]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.02.18-17.11.56:409][146]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.02.18-17.11.56:411][146]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.02.18-17.11.58:194][146]LogStaticMesh: Building static mesh AnyConv_com__Bush_5_N131014_sub01...
+[2021.02.18-17.12.10:844][146]LogStaticMesh: Built static mesh [12.65s] /Game/Labyrinthe/AnyConv_com__Bush_5_N131014_sub01.AnyConv_com__Bush_5_N131014_sub01
+[2021.02.18-17.12.12:347][146]LogStaticMesh: Building static mesh AnyConv_com__Bush_5_N131014_sub02...
+[2021.02.18-17.12.18:998][146]LogStaticMesh: Built static mesh [6.65s] /Game/Labyrinthe/AnyConv_com__Bush_5_N131014_sub02.AnyConv_com__Bush_5_N131014_sub02
+[2021.02.18-17.12.20:048][146]LogStaticMesh: Building static mesh AnyConv_com__Bush_5_N131014_sub03...
+[2021.02.18-17.12.23:406][146]LogStaticMesh: Built static mesh [3.36s] /Game/Labyrinthe/AnyConv_com__Bush_5_N131014_sub03.AnyConv_com__Bush_5_N131014_sub03
+[2021.02.18-17.12.24:552][146]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.02.18-17.12.33:576][239]LogSlate: Took 0.009449 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.02.18-17.12.42:875][354]LogActorFactory: Actor Factory created AnyConv_com__Bush_5_N131014_sub01
+[2021.02.18-17.12.46:481][430]LogActorFactory: Actor Factory created AnyConv_com__Bush_5_N131014_sub01
+[2021.02.18-17.12.53:873][548]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.12.58:709][626]LogActorFactory: Actor Factory created AnyConv_com__Bush_5_N131014_sub03
+[2021.02.18-17.12.59:606][648]LogActorFactory: Actor Factory created AnyConv_com__Bush_5_N131014_sub03
+[2021.02.18-17.13.01:011][671]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.13.02:772][695]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Labyrinthe/AnyConv_com__Bush_5_N131014_sub03.AnyConv_com__Bush_5_N131014_sub03
+[2021.02.18-17.13.07:283][695]LogRenderer: Reallocating scene render targets to support 1320x804 Format 10 NumSamples 1 (Frame:1).
+[2021.02.18-17.13.07:283][695]LogSlate: Took 0.001179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.18-17.13.19:370][857]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Labyrinthe/AnyConv_com__Bush_5_N131014_sub02.AnyConv_com__Bush_5_N131014_sub02
+[2021.02.18-17.15.20:845][393]LogActorFactory: Actor Factory created AnyConv_com__Bush_5_N131014_sub03
+[2021.02.18-17.15.21:725][413]LogActorFactory: Actor Factory created AnyConv_com__Bush_5_N131014_sub03
+[2021.02.18-17.15.26:771][477]Cmd: DELETE
+[2021.02.18-17.15.26:772][477]Cmd: ACTOR DELETE
+[2021.02.18-17.15.26:992][477]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.18-17.15.26:993][477]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.18-17.15.26:993][477]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.18-17.15.27:082][477]LogUObjectHash: Compacting FUObjectHashTables data took  17.30ms
+[2021.02.18-17.15.27:175][477]LogEditorActor: Deleted 3 Actors (0.382 secs)
+[2021.02.18-17.16.44:613][927]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.16.58:300][ 46]LogActorFactory: Actor Factory created SM_Stone_Big_Var03
+[2021.02.18-17.16.59:241][ 59]LogActorFactory: Actor Factory created SM_Stone_Big_Var03
+[2021.02.18-17.17.04:936][121]LogStaticMesh: Building static mesh SM_Sack_Potato...
+[2021.02.18-17.17.05:058][121]LogStaticMesh: Built static mesh [0.13s] /Game/AdvancedVillagePack/Meshes/SM_Sack_Potato.SM_Sack_Potato
+[2021.02.18-17.17.05:600][128]LogActorFactory: Actor Factory created SM_Sack_Potato
+[2021.02.18-17.17.08:948][190]LogActorFactory: Actor Factory created SM_Sack_Potato
+[2021.02.18-17.17.10:226][205]Cmd: DELETE
+[2021.02.18-17.17.10:227][205]Cmd: ACTOR DELETE
+[2021.02.18-17.17.10:362][205]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.18-17.17.10:384][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.02.18-17.17.10:397][205]LogEditorActor: Deleted 1 Actors (0.167 secs)
+[2021.02.18-17.17.15:928][269]LogActorFactory: Actor Factory created SM_Mushroom_Var04
+[2021.02.18-17.17.16:430][278]LogActorFactory: Actor Factory created SM_Mushroom_Var04
+[2021.02.18-17.17.21:679][334]LogActorFactory: Actor Factory created SM_GrassPatch_Var01
+[2021.02.18-17.17.24:860][388]LogTexture: Display: Building textures: T_Foliage_Var03_O (AutoDXT, 512X512)
+[2021.02.18-17.17.24:860][388]LogTexture: Display: Building textures: T_Foliage_Var03_D (AutoDXT, 512X512)
+[2021.02.18-17.17.24:985][389]LogActorFactory: Actor Factory created SM_GrassPatch_Var03
+[2021.02.18-17.17.28:990][455]LogActorFactory: Actor Factory created SM_Fence_Var03
+[2021.02.18-17.17.29:903][468]LogActorFactory: Actor Factory created SM_Fence_Var03
+[2021.02.18-17.18.13:780][920]LogActorFactory: Actor Factory created SM_Plane_1x1
+[2021.02.18-17.18.15:404][949]LogActorFactory: Actor Factory created SM_Plane_1x1
+[2021.02.18-17.18.20:706][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plane_1x1)
+[2021.02.18-17.18.22:063][ 20]Cmd: DELETE
+[2021.02.18-17.18.22:063][ 20]Cmd: ACTOR DELETE
+[2021.02.18-17.18.22:284][ 20]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.18-17.18.22:305][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2021.02.18-17.18.22:322][ 20]LogEditorActor: Deleted 1 Actors (0.259 secs)
+[2021.02.18-17.18.31:376][118]LogActorFactory: Actor Factory created SM_Sack_Var02
+[2021.02.18-17.18.32:357][136]LogActorFactory: Actor Factory created SM_Sack_Var02
+[2021.02.18-17.18.40:288][232]LogActorFactory: Actor Factory created SM_Stone_Small_Var01
+[2021.02.18-17.18.41:324][249]LogActorFactory: Actor Factory created SM_Stone_Small_Var01
+[2021.02.18-17.18.43:146][266]LogActorFactory: Actor Factory created SM_Stone_Big_Var03
+[2021.02.18-17.18.43:651][273]LogActorFactory: Actor Factory created SM_Stone_Big_Var03
+[2021.02.18-17.18.44:757][285]LogActorFactory: Actor Factory created SM_Stone_Big_Var01
+[2021.02.18-17.18.45:736][298]LogActorFactory: Actor Factory created SM_Stone_Big_Var01
+[2021.02.18-17.18.48:378][323]LogActorFactory: Actor Factory created SM_Stone_Big_Var04
+[2021.02.18-17.18.48:974][333]LogActorFactory: Actor Factory created SM_Stone_Big_Var04
+[2021.02.18-17.18.56:594][408]LogActorFactory: Actor Factory created SM_Well_Extra01
+[2021.02.18-17.18.59:626][467]LogActorFactory: Actor Factory created SM_Well_Extra01
+[2021.02.18-17.19.00:905][482]Cmd: DELETE
+[2021.02.18-17.19.00:905][482]Cmd: ACTOR DELETE
+[2021.02.18-17.19.01:046][482]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.18-17.19.01:064][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.02.18-17.19.01:072][482]LogEditorActor: Deleted 1 Actors (0.168 secs)
+[2021.02.18-17.19.31:526][866]LogActorFactory: Actor Factory created SM_StreetLight_LightsOn
+[2021.02.18-17.19.33:146][896]LogActorFactory: Actor Factory created SM_StreetLight_LightsOn
+[2021.02.18-17.19.48:113][ 44]LogActorFactory: Actor Factory created SM_Fence_Var02
+[2021.02.18-17.19.49:023][ 56]LogActorFactory: Actor Factory created SM_Fence_Var02
+[2021.02.18-17.19.56:356][130]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.02.18-17.19.56:360][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.18-17.19.57:643][140]LogSlate: Window 'AnyConv_com__Bush_5_N131014_sub03' being destroyed
+[2021.02.18-17.19.57:699][140]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.02.18-17.19.57:699][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.18-17.20.03:652][230]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2021.02.18-17.20.05:190][230]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.18-17.20.05:253][230]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/Labyrinthe/AnyConv_com__Bush_5_N131014_sub03.AnyConv_com__Bush_5_N131014_sub03
+	Asset Name: /Game/Labyrinthe/AnyConv_com__Bush_5_N131014_sub02.AnyConv_com__Bush_5_N131014_sub02
+	Asset Name: /Game/Labyrinthe/wire_177148027.wire_177148027
+	Asset Name: /Game/Labyrinthe/AnyConv_com__Bush_5_N131014_sub01.AnyConv_com__Bush_5_N131014_sub01
+[2021.02.18-17.20.21:395][230]LogUObjectHash: Compacting FUObjectHashTables data took  11.38ms
+[2021.02.18-17.21.36:251][500]LogRenderer: Reallocating scene render targets to support 1320x864 Format 10 NumSamples 1 (Frame:6971).
+[2021.02.18-17.22.04:478][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_StreetLight_LightsOn)
+[2021.02.18-17.22.06:387][839]LogUObjectHash: Compacting FUObjectHashTables data took  40.76ms
+[2021.02.18-17.22.10:478][839]LogSavePackage: Moving '../../../../../../Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/AdvancedVillagePack_Showcase_Aut1B8DC2944BD377B778C547984CC7656E.tmp' to '../../../../../../Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/Autosaves/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase_Auto1.umap'
+[2021.02.18-17.22.10:507][839]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase' took 4.362
+[2021.02.18-17.22.10:508][839]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 4.362
+[2021.02.18-17.22.54:020][619]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.22.57:123][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var03)
+[2021.02.18-17.22.59:891][715]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.23.00:144][716]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape1)
+[2021.02.18-17.23.01:712][738]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.23.02:094][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var01)
+[2021.02.18-17.23.02:915][752]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape1)
+[2021.02.18-17.23.18:694][948]Cmd: TRANSACTION UNDO
+[2021.02.18-17.23.18:695][948]LogEditorTransaction: Undo Move Actors
+[2021.02.18-17.23.23:150][970]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.23.24:313][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var01)
+[2021.02.18-17.23.48:690][376]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.23.52:880][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var03)
+[2021.02.18-17.24.31:018][  1]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.24.31:693][ 13]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2021.02.18-17.24.32:088][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var19)
+[2021.02.18-17.24.33:053][ 34]Cmd: DELETE
+[2021.02.18-17.24.33:054][ 34]Cmd: ACTOR DELETE
+[2021.02.18-17.24.33:267][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.18-17.24.33:307][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   6.87ms
+[2021.02.18-17.24.33:360][ 34]LogEditorActor: Deleted 1 Actors (0.283 secs)
+[2021.02.18-17.24.33:367][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var01)
+[2021.02.18-17.24.42:734][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var03)
+[2021.02.18-17.24.43:080][191]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.02.18-17.24.44:097][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var04)
+[2021.02.18-17.24.47:417][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var03)
+[2021.02.18-17.24.48:218][283]Cmd: DELETE
+[2021.02.18-17.24.48:219][283]Cmd: ACTOR DELETE
+[2021.02.18-17.24.48:383][283]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.18-17.24.48:392][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.02.18-17.24.48:401][283]LogEditorActor: Deleted 1 Actors (0.182 secs)
+[2021.02.18-17.24.49:063][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var03)
+[2021.02.18-17.24.53:304][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var02)
+[2021.02.18-17.24.58:634][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var03)
+[2021.02.18-17.25.11:814][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var01)
+[2021.02.18-17.25.25:351][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var04)
+[2021.02.18-17.25.38:862][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var03)
+[2021.02.18-17.26.26:069][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var02)
+[2021.02.18-17.26.27:474][ 43]Cmd: DELETE
+[2021.02.18-17.26.27:474][ 43]Cmd: ACTOR DELETE
+[2021.02.18-17.26.27:634][ 43]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.18-17.26.27:652][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.02.18-17.26.27:668][ 43]LogEditorActor: Deleted 1 Actors (0.193 secs)
+[2021.02.18-17.26.29:742][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var03)
+[2021.02.18-17.26.31:390][121]Cmd: DUPLICATE
+[2021.02.18-17.26.31:391][121]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.26.43:199][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var03)
+[2021.02.18-17.26.45:811][366]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.26.46:446][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var25)
+[2021.02.18-17.26.56:946][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var25)
+[2021.02.18-17.27.26:112][103]Cmd: DUPLICATE
+[2021.02.18-17.27.26:112][103]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.27.33:755][244]Cmd: DUPLICATE
+[2021.02.18-17.27.33:755][244]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.27.51:460][566]Cmd: DUPLICATE
+[2021.02.18-17.27.51:460][566]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.28.12:130][959]Cmd: DUPLICATE
+[2021.02.18-17.28.12:131][959]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.28.43:812][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var30)
+[2021.02.18-17.28.49:038][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var31)
+[2021.02.18-17.29.00:685][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var32)
+[2021.02.18-17.29.01:675][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var32)
+[2021.02.18-17.29.16:271][939]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var30)
+[2021.02.18-17.29.16:884][946]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var31)
+[2021.02.18-17.29.17:465][952]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var28)
+[2021.02.18-17.29.18:150][959]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var29)
+[2021.02.18-17.29.18:892][967]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var03)
+[2021.02.18-17.29.20:374][984]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var25)
+[2021.02.18-17.29.21:009][991]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var26)
+[2021.02.18-17.29.22:860][ 15]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape1)
+[2021.02.18-17.29.23:856][ 28]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var27)
+[2021.02.18-17.29.30:749][125]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.29.31:270][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var32)
+[2021.02.18-17.30.09:721][705]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.30.11:823][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var32)
+[2021.02.18-17.30.18:312][828]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.30.19:089][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var33)
+[2021.02.18-17.30.23:997][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var32)
+[2021.02.18-17.30.24:951][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var33)
+[2021.02.18-17.30.42:108][156]Cmd: TRANSACTION UNDO
+[2021.02.18-17.30.42:109][156]LogEditorTransaction: Undo Set Scale
+[2021.02.18-17.30.42:569][160]Cmd: TRANSACTION UNDO
+[2021.02.18-17.30.42:569][160]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.18-17.30.43:177][170]Cmd: TRANSACTION UNDO
+[2021.02.18-17.30.43:177][170]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.18-17.30.43:808][177]Cmd: TRANSACTION UNDO
+[2021.02.18-17.30.43:808][177]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.18-17.30.44:530][183]Cmd: TRANSACTION UNDO
+[2021.02.18-17.30.44:530][183]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.18-17.30.45:406][193]Cmd: TRANSACTION UNDO
+[2021.02.18-17.30.45:406][193]LogEditorTransaction: Undo Move Actors
+[2021.02.18-17.30.45:905][199]Cmd: TRANSACTION UNDO
+[2021.02.18-17.30.45:906][199]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.18-17.30.46:327][201]Cmd: TRANSACTION UNDO
+[2021.02.18-17.30.46:327][201]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.18-17.30.46:705][203]Cmd: TRANSACTION UNDO
+[2021.02.18-17.30.46:706][203]LogEditorTransaction: Undo Move Actors
+[2021.02.18-17.30.47:053][206]Cmd: TRANSACTION UNDO
+[2021.02.18-17.30.47:053][206]LogEditorTransaction: Undo Set Scale
+[2021.02.18-17.30.47:551][211]Cmd: TRANSACTION UNDO
+[2021.02.18-17.30.47:552][211]LogEditorTransaction: Undo Set Scale
+[2021.02.18-17.30.48:041][216]Cmd: TRANSACTION UNDO
+[2021.02.18-17.30.48:041][216]LogEditorTransaction: Undo Set Scale
+[2021.02.18-17.30.49:345][235]Cmd: TRANSACTION UNDO
+[2021.02.18-17.30.49:345][235]LogEditorTransaction: Undo Set Scale
+[2021.02.18-17.30.50:717][254]Cmd: TRANSACTION UNDO
+[2021.02.18-17.30.50:717][254]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.18-17.32.02:382][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var27)
+[2021.02.18-17.32.05:510][825]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.32.06:734][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var32)
+[2021.02.18-17.32.08:832][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var33)
+[2021.02.18-17.32.10:241][887]Cmd: DUPLICATE
+[2021.02.18-17.32.10:242][887]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.32.23:994][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var34)
+[2021.02.18-17.32.35:423][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var27)
+[2021.02.18-17.32.37:369][219]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var26)
+[2021.02.18-17.32.39:132][240]Cmd: DUPLICATE
+[2021.02.18-17.32.39:132][240]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.32.45:757][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var34)
+[2021.02.18-17.32.47:227][334]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var35)
+[2021.02.18-17.33.03:000][596]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.02.18-17.33.04:010][612]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.33.04:739][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var32)
+[2021.02.18-17.33.05:886][641]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape1)
+[2021.02.18-17.33.06:733][654]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var33)
+[2021.02.18-17.33.08:087][674]Cmd: DUPLICATE
+[2021.02.18-17.33.08:088][674]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.33.15:394][674]LogSlate: Window 'Message' being destroyed
+[2021.02.18-17.33.15:418][674]Message dialog closed, result: No, title: Message, text: Landscape has large number(64) of components, so it will use large amount memory to copy it to the clipboard. Do you want to proceed?
+[2021.02.18-17.33.20:620][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var32)
+[2021.02.18-17.33.21:458][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var33)
+[2021.02.18-17.33.26:106][816]Cmd: DUPLICATE
+[2021.02.18-17.33.26:106][816]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.34.06:208][416]Cmd: DUPLICATE
+[2021.02.18-17.34.06:208][416]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.34.12:653][520]Cmd: EDIT CUT
+[2021.02.18-17.34.13:023][520]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.18-17.34.13:031][520]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.18-17.34.13:247][520]LogUObjectHash: Compacting FUObjectHashTables data took  44.31ms
+[2021.02.18-17.34.13:364][520]LogEditorActor: Deleted 2 Actors (0.708 secs)
+[2021.02.18-17.34.13:380][520]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2021.02.18-17.34.14:558][539]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.34.15:638][557]Cmd: TRANSACTION UNDO
+[2021.02.18-17.34.15:638][557]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2021.02.18-17.34.17:259][595]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.34.21:156][661]Cmd: TRANSACTION UNDO
+[2021.02.18-17.34.21:157][661]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.18-17.34.23:268][714]Cmd: TRANSACTION UNDO
+[2021.02.18-17.34.23:268][714]LogEditorTransaction: Undo Cut
+[2021.02.18-17.34.25:879][737]Cmd: DUPLICATE
+[2021.02.18-17.34.25:879][737]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.34.29:671][779]Cmd: TRANSACTION UNDO
+[2021.02.18-17.34.29:671][779]LogEditorTransaction: Undo Move Actors
+[2021.02.18-17.34.42:748][974]Cmd: DUPLICATE
+[2021.02.18-17.34.42:749][974]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.35.10:345][487]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.02.18-17.35.11:271][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var31)
+[2021.02.18-17.35.12:490][516]LogEditorViewport: Clicking on Actor (CTRL LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.02.18-17.35.13:462][527]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.35.14:101][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var28)
+[2021.02.18-17.35.32:764][750]Cmd: DUPLICATE
+[2021.02.18-17.35.32:764][750]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.35.35:332][750]LogSlate: Window 'Message' being destroyed
+[2021.02.18-17.35.35:343][750]Message dialog closed, result: Cancel, title: Message, text: Landscape has large number(64) of components, so it will use large amount memory to copy it to the clipboard. Do you want to proceed?
+[2021.02.18-17.35.41:244][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var19)
+[2021.02.18-17.35.42:366][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stone_Big_Var19)
+[2021.02.18-17.35.43:905][894]Cmd: DELETE
+[2021.02.18-17.35.43:907][894]Cmd: ACTOR DELETE
+[2021.02.18-17.35.44:056][894]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.18-17.35.44:070][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.02.18-17.35.44:137][894]LogEditorActor: Deleted 1 Actors (0.229 secs)
+[2021.02.18-17.35.49:056][  0]Cmd: TRANSACTION UNDO
+[2021.02.18-17.35.49:056][  0]LogEditorTransaction: Undo Delete Actors
+[2021.02.18-17.35.49:958][ 12]Cmd: TRANSACTION UNDO
+[2021.02.18-17.35.49:959][ 12]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.18-17.36.13:146][439]Cmd: DELETE
+[2021.02.18-17.36.13:146][439]Cmd: ACTOR DELETE
+[2021.02.18-17.36.13:446][439]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.18-17.36.13:448][439]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.18-17.36.13:451][439]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.18-17.36.13:451][439]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.18-17.36.13:456][439]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.18-17.36.13:458][439]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.18-17.36.13:458][439]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.18-17.36.13:459][439]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.18-17.36.13:459][439]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.18-17.36.13:462][439]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.18-17.36.13:464][439]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.18-17.36.13:476][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.02.18-17.36.13:498][439]LogEditorActor: Deleted 11 Actors (0.350 secs)
+[2021.02.18-17.36.38:194][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var42)
+[2021.02.18-17.36.42:256][ 54]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.36.45:239][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var41)
+[2021.02.18-17.36.45:984][ 94]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape1)
+[2021.02.18-17.36.53:375][192]Cmd: DUPLICATE
+[2021.02.18-17.36.53:375][192]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.36.55:064][192]LogSlate: Window 'Message' being destroyed
+[2021.02.18-17.36.55:115][192]Message dialog closed, result: No, title: Message, text: Landscape has large number(64) of components, so it will use large amount memory to copy it to the clipboard. Do you want to proceed?
+[2021.02.18-17.37.18:526][581]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.37.21:176][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var48)
+[2021.02.18-17.37.27:215][741]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var47)
+[2021.02.18-17.37.33:058][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var48)
+[2021.02.18-17.37.39:114][956]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.02.18-17.37.39:632][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var47)
+[2021.02.18-17.37.46:549][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var50)
+[2021.02.18-17.37.50:976][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var49)
+[2021.02.18-17.37.58:610][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var52)
+[2021.02.18-17.38.03:843][398]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.38.04:622][411]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var49)
+[2021.02.18-17.38.06:782][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var50)
+[2021.02.18-17.38.10:221][501]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.38.13:465][558]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.02.18-17.38.14:249][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var52)
+[2021.02.18-17.38.15:904][599]Cmd: DUPLICATE
+[2021.02.18-17.38.15:904][599]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.39.03:352][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var34)
+[2021.02.18-17.39.06:361][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var27)
+[2021.02.18-17.39.13:331][541]Cmd: DUPLICATE
+[2021.02.18-17.39.13:331][541]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.39.14:667][541]LogSlate: Window 'Message' being destroyed
+[2021.02.18-17.39.14:682][541]Message dialog closed, result: No, title: Message, text: Landscape has large number(64) of components, so it will use large amount memory to copy it to the clipboard. Do you want to proceed?
+[2021.02.18-17.39.25:683][760]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var57)
+[2021.02.18-17.39.27:221][785]Cmd: DUPLICATE
+[2021.02.18-17.39.27:221][785]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.39.32:092][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var57)
+[2021.02.18-17.39.33:604][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var54)
+[2021.02.18-17.39.40:337][ 26]Cmd: DUPLICATE
+[2021.02.18-17.39.40:337][ 26]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.39.53:471][265]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.39.57:761][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var59)
+[2021.02.18-17.40.30:011][957]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.02.18-17.40.31:261][980]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.40.32:195][999]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.40.37:024][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var32)
+[2021.02.18-17.40.40:594][141]Cmd: DUPLICATE
+[2021.02.18-17.40.40:594][141]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.40.49:254][302]Cmd: DUPLICATE
+[2021.02.18-17.40.49:254][302]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.40.53:543][381]Cmd: DUPLICATE
+[2021.02.18-17.40.53:543][381]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.41.03:131][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var70)
+[2021.02.18-17.41.04:249][576]Cmd: DELETE
+[2021.02.18-17.41.04:249][576]Cmd: ACTOR DELETE
+[2021.02.18-17.41.04:398][576]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.18-17.41.04:412][576]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.02.18-17.41.04:421][576]LogEditorActor: Deleted 1 Actors (0.172 secs)
+[2021.02.18-17.41.15:768][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var71)
+[2021.02.18-17.41.17:591][864]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.02.18-17.41.18:423][878]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.41.19:098][889]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.41.20:040][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var31)
+[2021.02.18-17.41.21:709][937]Cmd: DUPLICATE
+[2021.02.18-17.41.21:709][937]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.41.32:089][141]Cmd: DUPLICATE
+[2021.02.18-17.41.32:089][141]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.41.37:962][254]Cmd: DUPLICATE
+[2021.02.18-17.41.37:962][254]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.41.48:162][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var72)
+[2021.02.18-17.41.58:647][637]Cmd: DUPLICATE
+[2021.02.18-17.41.58:648][637]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.42.06:917][795]Cmd: DUPLICATE
+[2021.02.18-17.42.06:918][795]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.42.17:567][982]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.42.17:972][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var77)
+[2021.02.18-17.42.18:530][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var77)
+[2021.02.18-17.42.21:036][ 44]Cmd: DUPLICATE
+[2021.02.18-17.42.21:037][ 44]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.42.34:774][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var46)
+[2021.02.18-17.42.38:893][389]Cmd: DUPLICATE
+[2021.02.18-17.42.38:893][389]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.42.46:029][520]Cmd: DUPLICATE
+[2021.02.18-17.42.46:029][520]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.42.49:569][588]Cmd: DUPLICATE
+[2021.02.18-17.42.49:570][588]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.43.00:504][793]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.43.01:588][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var81)
+[2021.02.18-17.43.03:356][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var79)
+[2021.02.18-17.43.04:557][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var82)
+[2021.02.18-17.43.10:546][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var81)
+[2021.02.18-17.43.13:241][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var84)
+[2021.02.18-17.43.15:672][ 66]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.43.16:457][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var83)
+[2021.02.18-17.43.21:271][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var84)
+[2021.02.18-17.43.24:090][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var81)
+[2021.02.18-17.43.28:317][285]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var82)
+[2021.02.18-17.43.30:630][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var79)
+[2021.02.18-17.43.33:927][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var80)
+[2021.02.18-17.43.39:832][477]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var78)
+[2021.02.18-17.43.41:968][516]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.43.42:854][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var78)
+[2021.02.18-17.43.48:219][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var83)
+[2021.02.18-17.43.53:506][713]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.43.53:745][714]Cmd: DUPLICATE
+[2021.02.18-17.43.53:745][714]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.43.55:015][714]LogSlate: Window 'Message' being destroyed
+[2021.02.18-17.43.55:039][714]Message dialog closed, result: No, title: Message, text: Landscape has large number(64) of components, so it will use large amount memory to copy it to the clipboard. Do you want to proceed?
+[2021.02.18-17.43.55:787][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var83)
+[2021.02.18-17.43.57:429][757]Cmd: DUPLICATE
+[2021.02.18-17.43.57:430][757]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.44.01:401][830]Cmd: DUPLICATE
+[2021.02.18-17.44.01:401][830]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.44.24:639][274]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var78)
+[2021.02.18-17.44.26:120][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var77)
+[2021.02.18-17.44.36:418][455]Cmd: TRANSACTION UNDO
+[2021.02.18-17.44.36:419][455]LogEditorTransaction: Undo Move Actors
+[2021.02.18-17.44.39:571][484]Cmd: TRANSACTION UNDO
+[2021.02.18-17.44.39:571][484]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.18-17.44.47:179][596]Cmd: TRANSACTION UNDO
+[2021.02.18-17.44.47:179][596]LogEditorTransaction: Undo Move Actors
+[2021.02.18-17.44.48:218][596]Cmd: TRANSACTION UNDO
+[2021.02.18-17.44.48:218][596]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.18-17.44.49:054][607]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.44.49:958][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var72)
+[2021.02.18-17.44.54:837][704]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.44.55:568][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var74)
+[2021.02.18-17.45.11:792][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var80)
+[2021.02.18-17.45.22:754][194]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.45.59:539][911]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2021.02.18-17.46.04:288][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var43)
+[2021.02.18-17.46.16:692][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var40)
+[2021.02.18-17.46.17:771][300]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var39)
+[2021.02.18-17.46.18:723][312]LogEditorViewport: Clicking on Actor (CTRL LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.02.18-17.46.19:581][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var42)
+[2021.02.18-17.46.30:124][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var36)
+[2021.02.18-17.46.31:429][485]Cmd: DUPLICATE
+[2021.02.18-17.46.31:429][485]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.46.37:198][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var39)
+[2021.02.18-17.46.54:560][886]Cmd: TRANSACTION UNDO
+[2021.02.18-17.46.54:560][886]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.18-17.47.02:714][ 12]Cmd: TRANSACTION UNDO
+[2021.02.18-17.47.02:714][ 12]LogEditorTransaction: Undo Move Actors
+[2021.02.18-17.47.03:308][ 20]Cmd: TRANSACTION UNDO
+[2021.02.18-17.47.03:308][ 20]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.18-17.47.04:247][ 40]Cmd: TRANSACTION UNDO
+[2021.02.18-17.47.04:248][ 40]LogEditorTransaction: Undo Move Actors
+[2021.02.18-17.47.05:613][ 42]Cmd: TRANSACTION UNDO
+[2021.02.18-17.47.05:613][ 42]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.18-17.47.16:006][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var39)
+[2021.02.18-17.47.16:684][267]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var40)
+[2021.02.18-17.47.17:178][274]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape1)
+[2021.02.18-17.47.17:922][286]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var41)
+[2021.02.18-17.47.18:347][292]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var42)
+[2021.02.18-17.47.19:452][313]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var44)
+[2021.02.18-17.47.20:417][330]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var43)
+[2021.02.18-17.47.21:920][355]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var46)
+[2021.02.18-17.47.22:646][366]LogEditorViewport: Clicking on Actor (CTRL LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.02.18-17.47.23:410][380]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var45)
+[2021.02.18-17.47.35:864][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var86)
+[2021.02.18-17.47.45:625][822]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.47.59:349][ 46]Cmd: TRANSACTION UNDO
+[2021.02.18-17.47.59:349][ 46]LogEditorTransaction: Undo Move Actors
+[2021.02.18-17.48.12:092][271]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.48.13:085][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var58)
+[2021.02.18-17.48.13:972][301]Cmd: DUPLICATE
+[2021.02.18-17.48.13:972][301]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.48.20:256][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var78)
+[2021.02.18-17.48.21:207][431]Cmd: DUPLICATE
+[2021.02.18-17.48.21:207][431]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.48.24:682][492]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.48.25:499][499]LogUObjectHash: Compacting FUObjectHashTables data took  28.73ms
+[2021.02.18-17.48.28:940][499]LogSavePackage: Moving '../../../../../../Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/AdvancedVillagePack_Showcase913D6E1B4566CEEB296975868828AF66.tmp' to '../../../../../../Users/lenas/Documents/Unreal Projects/UEGame/Game/Content/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.umap'
+[2021.02.18-17.48.29:634][499]AssetCheck: New page: Asset Save: AdvancedVillagePack_Showcase
+[2021.02.18-17.48.29:636][499]LogContentValidation: Display: Validating World /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase
+[2021.02.18-17.48.38:656][649]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.48.39:524][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var89)
+[2021.02.18-17.48.41:030][690]Cmd: DUPLICATE
+[2021.02.18-17.48.41:030][690]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.49.00:745][ 72]Cmd: DUPLICATE
+[2021.02.18-17.49.00:745][ 72]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.49.22:109][482]Cmd: DUPLICATE
+[2021.02.18-17.49.22:109][482]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.49.25:336][544]Cmd: DUPLICATE
+[2021.02.18-17.49.25:337][544]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.49.30:200][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var92)
+[2021.02.18-17.49.35:828][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var93)
+[2021.02.18-17.49.40:688][834]Cmd: DUPLICATE
+[2021.02.18-17.49.40:688][834]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.49.50:118][  8]Cmd: EDIT CUT
+[2021.02.18-17.49.50:286][  8]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.18-17.49.50:294][  8]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.18-17.49.50:318][  8]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2021.02.18-17.49.50:348][  8]LogEditorActor: Deleted 2 Actors (0.219 secs)
+[2021.02.18-17.49.51:603][ 35]Cmd: TRANSACTION UNDO
+[2021.02.18-17.49.51:604][ 35]LogEditorTransaction: Undo Cut
+[2021.02.18-17.49.53:451][ 59]Cmd: DUPLICATE
+[2021.02.18-17.49.53:451][ 59]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.50.00:776][194]Cmd: DUPLICATE
+[2021.02.18-17.50.00:776][194]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.50.09:655][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var99)
+[2021.02.18-17.50.10:312][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var99)
+[2021.02.18-17.50.11:671][408]Cmd: DUPLICATE
+[2021.02.18-17.50.11:672][408]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.50.16:373][495]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.51.07:916][199]Cmd: TRANSACTION UNDO
+[2021.02.18-17.51.07:916][199]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.18-17.51.37:865][508]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.51.38:579][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var89)
+[2021.02.18-17.51.56:480][829]Cmd: DUPLICATE
+[2021.02.18-17.51.56:481][829]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.52.11:555][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var72)
+[2021.02.18-17.52.12:442][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var98)
+[2021.02.18-17.52.22:310][276]Cmd: DUPLICATE
+[2021.02.18-17.52.22:310][276]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.52.25:396][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var99)
+[2021.02.18-17.52.35:800][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var110)
+[2021.02.18-17.52.38:962][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var111)
+[2021.02.18-17.52.50:073][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var111)
+[2021.02.18-17.52.51:876][773]Cmd: DUPLICATE
+[2021.02.18-17.52.51:876][773]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.52.57:474][878]Cmd: DUPLICATE
+[2021.02.18-17.52.57:474][878]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.53.05:712][ 10]Cmd: TRANSACTION UNDO
+[2021.02.18-17.53.05:712][ 10]LogEditorTransaction: Undo Move Actors
+[2021.02.18-17.53.15:863][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var112)
+[2021.02.18-17.53.21:325][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var111)
+[2021.02.18-17.53.29:334][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var113)
+[2021.02.18-17.53.44:072][573]Cmd: DELETE
+[2021.02.18-17.53.44:074][573]Cmd: ACTOR DELETE
+[2021.02.18-17.53.44:203][573]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.18-17.53.44:223][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.02.18-17.53.44:271][573]LogEditorActor: Deleted 1 Actors (0.196 secs)
+[2021.02.18-17.53.44:767][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var112)
+[2021.02.18-17.53.47:303][621]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.53.47:648][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var111)
+[2021.02.18-17.53.50:084][662]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.53.50:859][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var110)
+[2021.02.18-17.53.54:769][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var101)
+[2021.02.18-17.53.56:731][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var109)
+[2021.02.18-17.54.00:923][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var110)
+[2021.02.18-17.54.03:569][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var109)
+[2021.02.18-17.54.09:958][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var112)
+[2021.02.18-17.54.18:782][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var111)
+[2021.02.18-17.54.25:732][234]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var110)
+[2021.02.18-17.54.32:381][346]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var109)
+[2021.02.18-17.54.38:710][446]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.54.39:396][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var101)
+[2021.02.18-17.54.44:800][537]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.54.45:130][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var102)
+[2021.02.18-17.54.50:268][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var103)
+[2021.02.18-17.54.56:032][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var104)
+[2021.02.18-17.55.06:179][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var105)
+[2021.02.18-17.55.07:060][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var104)
+[2021.02.18-17.55.13:066][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var105)
+[2021.02.18-17.55.18:105][ 91]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.55.18:706][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var106)
+[2021.02.18-17.55.26:183][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var107)
+[2021.02.18-17.55.35:667][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var108)
+[2021.02.18-17.55.50:442][670]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.55.52:501][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.02.18-17.55.55:730][705]LogSavePackage: Moving '../../../../../../Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/AdvancedVillagePack_ShowcaseB41BAD3349EA220CF1015B8613EE4BA6.tmp' to '../../../../../../Users/lenas/Documents/Unreal Projects/UEGame/Game/Content/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.umap'
+[2021.02.18-17.55.55:871][705]AssetCheck: New page: Asset Save: AdvancedVillagePack_Showcase
+[2021.02.18-17.55.55:872][705]LogContentValidation: Display: Validating World /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase
+[2021.02.18-17.56.09:149][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var44)
+[2021.02.18-17.56.12:600][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var41)
+[2021.02.18-17.56.14:679][ 42]Cmd: DUPLICATE
+[2021.02.18-17.56.14:679][ 42]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.56.22:485][184]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Fence_Var41)
+[2021.02.18-17.56.24:892][248]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.56.38:492][510]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var95)
+[2021.02.18-17.56.39:524][526]Cmd: DELETE
+[2021.02.18-17.56.39:524][526]Cmd: ACTOR DELETE
+[2021.02.18-17.56.39:727][526]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.18-17.56.39:741][526]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.02.18-17.56.39:760][526]LogEditorActor: Deleted 1 Actors (0.235 secs)
+[2021.02.18-17.56.46:459][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var53)
+[2021.02.18-17.56.47:625][696]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.56.48:489][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var49)
+[2021.02.18-17.56.50:103][737]Cmd: DUPLICATE
+[2021.02.18-17.56.50:104][737]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.56.57:874][886]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.56.58:248][889]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.57.24:653][396]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.57.25:640][414]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.57.26:234][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var85)
+[2021.02.18-17.57.27:579][444]Cmd: DUPLICATE
+[2021.02.18-17.57.27:579][444]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.57.32:049][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var58)
+[2021.02.18-17.57.34:529][571]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.57.35:337][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var58)
+[2021.02.18-17.57.45:432][764]Cmd: DUPLICATE
+[2021.02.18-17.57.45:433][764]Cmd: ACTOR DUPLICATE
+[2021.02.18-17.57.46:705][764]LogSlate: Window 'Message' being destroyed
+[2021.02.18-17.57.46:726][764]Message dialog closed, result: No, title: Message, text: Landscape has large number(64) of components, so it will use large amount memory to copy it to the clipboard. Do you want to proceed?
+[2021.02.18-17.57.51:901][856]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.57.56:097][935]Cmd: TRANSACTION UNDO
+[2021.02.18-17.57.56:098][935]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.18-17.58.00:486][ 17]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.02.18-17.58.10:954][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var57)
+[2021.02.18-17.58.19:656][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var119)
+[2021.02.18-17.58.30:133][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var118)
+[2021.02.18-17.58.40:598][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.02.18-17.58.43:777][741]LogSavePackage: Moving '../../../../../../Users/lenas/Documents/Unreal Projects/UEGame/Game/Saved/AdvancedVillagePack_Showcase849C1071443A5B2AB7D2C49DFE6C0C30.tmp' to '../../../../../../Users/lenas/Documents/Unreal Projects/UEGame/Game/Content/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.umap'
+[2021.02.18-17.58.43:890][741]AssetCheck: New page: Asset Save: AdvancedVillagePack_Showcase
+[2021.02.18-17.58.43:891][741]LogContentValidation: Display: Validating World /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase
+[2021.02.18-18.03.29:752][216]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.

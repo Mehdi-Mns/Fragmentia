@@ -1,0 +1,1504 @@
+﻿Log file open, 01/22/21 19:47:58
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Game
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.002431
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14830424
+LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=LenaStm -epicuserid=6db38a4f5a0c4cbab2adac4263132cc0 -epiclocale=fr
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/lenas/Documents/UEGame/Game/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.22-18.47.59:530][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.22-18.47.59:530][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.22-18.47.59:530][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/lenas/Documents/UEGame/Game/Saved/Config/Windows/Engine.ini]
+[2021.01.22-18.47.59:530][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.22-18.47.59:530][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/lenas/Documents/UEGame/Game/Saved/Config/Windows/Engine.ini]
+[2021.01.22-18.47.59:530][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/lenas/Documents/UEGame/Game/Saved/Config/Windows/Engine.ini]
+[2021.01.22-18.47.59:530][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.22-18.47.59:530][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.22-18.47.59:530][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.22-18.47.59:530][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.22-18.47.59:530][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.22-18.47.59:530][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.22-18.47.59:530][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.22-18.47.59:530][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.22-18.47.59:530][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.22-18.47.59:530][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.22-18.47.59:530][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.22-18.47.59:530][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.22-18.47.59:530][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.22-18.47.59:530][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.01.22-18.47.59:530][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/lenas/Documents/UEGame/Game/Saved/Config/Windows/Engine.ini]
+[2021.01.22-18.47.59:530][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.22-18.47.59:530][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.22-18.47.59:531][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.22-18.47.59:531][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.22-18.47.59:531][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.22-18.47.59:531][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.22-18.47.59:531][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.01.22-18.47.59:531][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.22-18.47.59:531][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.22-18.47.59:531][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.22-18.47.59:531][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.22-18.47.59:531][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.22-18.47.59:531][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.22-18.47.59:531][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.01.22-18.47.59:531][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/lenas/Documents/UEGame/Game/Saved/Config/Windows/Engine.ini]
+[2021.01.22-18.47.59:531][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/lenas/Documents/UEGame/Game/Saved/Config/Windows/Engine.ini]
+[2021.01.22-18.47.59:559][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/lenas/Documents/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/lenas/Documents/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/lenas/Documents/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/lenas/Documents/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.22-18.47.59:559][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/lenas/Documents/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/lenas/Documents/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.22-18.47.59:560][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.22-18.47.59:561][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.22-18.47.59:561][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.22-18.47.59:561][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.01.22-18.47.59:561][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.22-18.47.59:561][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.22-18.47.59:561][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.22-18.47.59:561][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.01.22-18.47.59:561][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.22-18.47.59:561][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.01.22-18.47.59:561][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.22-18.47.59:561][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.22-18.47.59:561][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.22-18.47.59:561][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/lenas/Documents/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.01.22-18.47.59:561][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.22-18.47.59:561][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.22-18.47.59:561][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/lenas/Documents/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.01.22-18.47.59:561][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.01.22-18.47.59:561][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.01.22-18.47.59:561][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.01.22-18.47.59:561][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.22-18.47.59:563][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.22-18.47.59:563][  0]LogHAL: Display: Platform has ~ 8 GB [8452796416 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.22-18.47.59:564][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.22-18.47.59:564][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/lenas/Documents/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/lenas/Documents/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/lenas/Documents/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/lenas/Documents/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.22-18.47.59:564][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/lenas/Documents/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/lenas/Documents/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.22-18.47.59:565][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.22-18.47.59:566][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.01.22-18.47.59:566][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.22-18.47.59:566][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.01.22-18.47.59:566][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.22-18.47.59:566][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.22-18.47.59:566][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.22-18.47.59:566][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/lenas/Documents/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.01.22-18.47.59:566][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.22-18.47.59:566][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.22-18.47.59:566][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/lenas/Documents/UEGame/Game/Saved/Config/Windows/Scalability.ini]
+[2021.01.22-18.47.59:566][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.01.22-18.47.59:566][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.01.22-18.47.59:566][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.01.22-18.47.59:566][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.22-18.47.59:566][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.22-18.47.59:567][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.22-18.47.59:567][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.01.22-18.47.59:567][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/lenas/Documents/UEGame/Game/Saved/Config/Windows/Engine.ini]
+[2021.01.22-18.47.59:567][  0]LogInit: Computer: SANTAMARIA
+[2021.01.22-18.47.59:568][  0]LogInit: User: lenas
+[2021.01.22-18.47.59:568][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.01.22-18.47.59:568][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.22-18.47.59:568][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.01.22-18.47.59:568][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.22-18.47.59:568][  0]LogMemory: Process Physical Memory: 134.89 MB used, 134.90 MB peak
+[2021.01.22-18.47.59:568][  0]LogMemory: Process Virtual Memory: 118.84 MB used, 118.84 MB peak
+[2021.01.22-18.47.59:568][  0]LogMemory: Physical Memory: 7498.49 MB used,  562.73 MB free, 8061.21 MB total
+[2021.01.22-18.47.59:568][  0]LogMemory: Virtual Memory: 134210352.00 MB used,  7373.60 MB free, 134217728.00 MB total
+[2021.01.22-18.47.59:578][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.01.22-18.48.00:029][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.01.22-18.48.00:032][  0]LogInit: Using OS detected language (fr-FR).
+[2021.01.22-18.48.00:032][  0]LogInit: Using OS detected locale (fr-FR).
+[2021.01.22-18.48.00:077][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2021.01.22-18.48.00:078][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2021.01.22-18.48.00:078][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2021.01.22-18.48.00:079][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2021.01.22-18.48.00:079][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2021.01.22-18.48.00:079][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2021.01.22-18.48.00:080][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2021.01.22-18.48.00:080][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2021.01.22-18.48.00:099][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.22-18.48.00:268][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.01.22-18.48.00:368][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.22-18.48.00:368][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.22-18.48.00:970][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.22-18.48.00:970][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.01.22-18.48.00:970][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.01.22-18.48.00:970][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.22-18.48.01:251][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2021.01.22-18.48.01:251][  0]LogD3D11RHI:       6052/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.01.22-18.48.01:305][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2021.01.22-18.48.01:305][  0]LogD3D11RHI:       128/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.01.22-18.48.01:324][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.22-18.48.01:324][  0]LogD3D11RHI:       0/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.22-18.48.01:324][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.22-18.48.01:454][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.22-18.48.01:454][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.22-18.48.01:454][  0]LogWindows: EnumDisplayDevices:
+[2021.01.22-18.48.01:456][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2021.01.22-18.48.01:457][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.01.22-18.48.01:458][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.01.22-18.48.01:460][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:1)
+[2021.01.22-18.48.01:461][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2021.01.22-18.48.01:463][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2021.01.22-18.48.01:465][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2021.01.22-18.48.01:465][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.01.22-18.48.01:465][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2021.01.22-18.48.01:465][  0]LogD3D11RHI:   Driver Version: 431.53 (internal:26.21.14.3153, unified:431.53)
+[2021.01.22-18.48.01:465][  0]LogD3D11RHI:      Driver Date: 7-12-2019
+[2021.01.22-18.48.01:466][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.01.22-18.48.01:612][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.01.22-18.48.01:613][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.22-18.48.01:613][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.01.22-18.48.02:027][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 4)
+[2021.01.22-18.48.02:180][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.01.22-18.48.03:360][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.01.22-18.48.03:459][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.01.22-18.48.03:459][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.01.22-18.48.03:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.01.22-18.48.03:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.01.22-18.48.03:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.01.22-18.48.03:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.22-18.48.03:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.01.22-18.48.03:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.22-18.48.03:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.01.22-18.48.03:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.01.22-18.48.03:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.01.22-18.48.03:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.01.22-18.48.03:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.01.22-18.48.03:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.22-18.48.03:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.01.22-18.48.03:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.01.22-18.48.03:770][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.01.22-18.48.03:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.01.22-18.48.03:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.01.22-18.48.03:928][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.01.22-18.48.03:928][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.01.22-18.48.03:975][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.01.22-18.48.04:029][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.01.22-18.48.04:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.01.22-18.48.04:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.01.22-18.48.04:210][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.01.22-18.48.04:210][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.01.22-18.48.04:253][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.22-18.48.04:302][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.01.22-18.48.04:340][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.01.22-18.48.04:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.01.22-18.48.04:370][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.22-18.48.04:441][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.22-18.48.04:903][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.01.22-18.48.04:903][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../../../Users/lenas/Documents/UEGame/Game/Intermediate/Shaders/WorkingDirectory/32712/).
+[2021.01.22-18.48.04:904][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/'.
+[2021.01.22-18.48.04:906][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.22-18.48.04:906][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.22-18.48.08:192][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.22-18.48.08:600][  0]LogDerivedDataCache: Loaded boot cache 0.41s 77MB C:/Users/lenas/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.01.22-18.48.08:601][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lenas/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.01.22-18.48.08:602][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/lenas/Documents/UEGame/Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.22-18.48.08:602][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.22-18.48.08:602][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/lenas/Documents/UEGame/Game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.22-18.48.08:602][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.22-18.48.08:634][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.22-18.48.08:634][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.22-18.48.08:634][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.22-18.48.08:714][  0]LogDerivedDataCache: Speed tests for C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.08 seconds
+[2021.01.22-18.48.08:714][  0]LogDerivedDataCache: Display: Performance to C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.20ms. RandomReadSpeed=52.34MBs, RandomWriteSpeed=15.93MBs. Assigned SpeedClass 'Local'
+[2021.01.22-18.48.08:715][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.22-18.48.08:716][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.22-18.48.08:716][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.22-18.48.08:901][  0]LogSlate: Using FreeType 2.10.0
+[2021.01.22-18.48.08:913][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.22-18.48.09:065][  0]LogAssetRegistry: FAssetRegistry took 0.0173 seconds to start up
+[2021.01.22-18.48.10:601][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.22-18.48.10:601][  0]LogInit: Active device profile: [000001B982A02200][000001B981F7ED00 49] Windows
+[2021.01.22-18.48.10:601][  0]LogInit: Profiles: [000001B982A02200][000001B981F7ED00 49] Windows, [000001B9829AA100][000001B981F86E80 49] WindowsNoEditor, [000001B982A01600][000001B981F8B000 49] WindowsServer, [000001B9829A9300][000001B981F8F180 49] WindowsClient, [000001B982A02000][000001B981F93300 49] IOS, [000001B9829AA500][000001B981F97480 49] iPadAir, [000001B982A01300][000001B981F835C0 49] iPadAir2, [000001B98295A100][000001B981F9F800 49] IPadPro, [000001B98295A200][000001B981F9B840 49] iPadAir3, [000001B9829A8D00][000001B981FA3980 49] iPadAir4, [000001B98295A500][000001B981FABB00 49] iPadMini2, [000001B9829A8800][000001B981FAFC80 49] iPadMini3, [000001B982959200][000001B981FB2140 49] iPadMini4, [000001B9829AB700][000001B981FB62C0 49] iPadMini5, [000001B982971A00][000001B981FBE580 49] iPhone6, [000001B982971B00][000001B981FBA5C0 49] iPodTouch6, [000001B98295BF00][000001B981FC6880 49] iPhone7, [000001B982959F00][000001B981FC28C0 49] iPodTouch7, [000001B982973300][000001B981FCAA40 49] iPhone5S, [000001B98295B100][000001B981FCEBC0 49] iPhone6Plus, [000001B982971400][000001B981FD2D40 49] iPhone6S, [000001B982958300][000001B981FD6EC0 49] iPhone6SPlus, [000001B982970300][000001B981FDB040 49] iPhone7Plus, [000001B982958400][000001B981FDF1C0 49] iPhoneSE, [000001B982972600][000001B981FE3340 49] iPhone8, [000001B982959400][000001B981FE74C0 49] iPhone8Plus, [000001B982971900][000001B981FEB640 49] iPhoneX, [000001B98295B900][000001B981FA7780 49] iPhoneXS, [000001B982973600][000001B981FEF8C0 49] iPhoneXSMax, [000001B98295BA00][000001B981FF3A00 49] iPhoneXR, [000001B982973F00][000001B981FFBB80 49] iPhone11, [000001B982958A00][000001B981FFFD00 49] iPhone11Pro, [000001B982972700][000001B9820021C0 49] iPhone11ProMax, [000001B98295AA00][000001B982006340 49] iPhoneSE2, [000001B982970500][000001B98200A4C0 49] iPhone12Mini, [000001B982958600][000001B983020640 49] iPhone12, [000001B982971D00][000001B9830247C0 49] iPhone12Pro, [000001B982959800][000001B983028940 49] iPhone12ProMax, [000001B982970C00][000001B98302CAC0 49] iPadPro105, [000001B982A02500][000001B983030C40 49] iPadPro129, [000001B982972F00][000001B983034DC0 49] iPadPro97, [000001B982A02A00][000001B983038F40 49] iPadPro2_129, [000001B982972300][000001B98303D0C0 49] iPad5, [000001B982A03200][000001B983041240 49] iPad6, [000001B982970D00][000001B9830453C0 49] iPad7, [000001B982A02900][000001B983049540 49] iPad8, [000001B982970200][000001B98304D6C0 49] iPadPro11, [000001B982A02100][000001B981FF7800 49] iPadPro2_11, [000001B982972400][000001B983051940 49] iPadPro3_129, [000001B982A00600][000001B983055A80 49] iPadPro4_129, [000001B982971000][000001B98305DC00 49] AppleTV, [000001B982A02800][000001B9830600C0 49] AppleTV4K, [000001B982973B00][000001B983064240 49] TVOS, [000001B982A00300][000001B9830683C0 49] Mac, [000001B982973E00][000001B98306C540 49] MacClient, [000001B982A02E00][000001B9830706C0 49] MacNoEditor, [000001B982970B00][000001B983074840 49] MacServer, [000001B982A02F00][000001B9830789C0 49] Linux, [000001B982972A00][000001B98307CB40 49] LinuxNoEditor, [000001B982A02B00][000001B983080CC0 49] LinuxAArch64NoEditor, [000001B982971600][000001B983084E40 49] LinuxClient, [000001B982A01900][000001B983088FC0 49] LinuxAArch64Client, [000001B982970100][000001B98308D140 49] LinuxServer, [000001B982A00A00][000001B9830912C0 49] LinuxAArch64Server, [000001B982972900][000001B983095440 49] Android, [000001B982A00100][000001B9830995C0 49] Android_Low, [000001B982972D00][000001B98309D740 49] Android_Mid, [000001B982A02C00][000001B983059880 49] Android_High, [000001B982972200][000001B9830A19C0 49] Android_Default, [000001B982A03000][000001B9830A5B00 49] Android_Adreno4xx, [000001B982973000][000001B9830A9C40 49] Android_Adreno5xx_Low, [000001B982A01000][000001B9830B0100 49] Android_Adreno5xx, [000001B982971C00][000001B9830B4280 49] Android_Adreno6xx, [000001B982A00200][000001B9830B8400 49] Android_Adreno6xx_Vulkan, [000001B982970F00][000001B9830BC580 49] Android_Mali_T6xx, [000001B982A01500][000001B9830C0700 49] Android_Mali_T7xx, [000001B982972B00][000001B9830C4880 49] Android_Mali_T8xx, [000001B982A02D00][000001B9830C8A00 49] Android_Mali_G71, [000001B982971800][000001B9830CCB80 49] Android_Mali_G72, [000001B982A01A00][000001B9830D0D00 49] Android_Mali_G72_Vulkan, [000001B9829AAB00][000001B9830D4E80 49] Android_Mali_G76, [000001B98295B700][000001B9830D9000 49] Android_Mali_G76_Vulkan, [000001B9829A9700][000001B9830DD180 49] Android_Mali_G77, [000001B98295BD00][000001B9830E1300 49] Android_Mali_G77_Vulkan, [000001B9829ABC00][000001B9830E5480 49] Android_Vulkan_SM5, [000001B982958500][000001B9830E9600 49] Android_PowerVR_G6xxx, [000001B9829AA600][000001B9830ED780 49] Android_PowerVR_GT7xxx, [000001B982958900][000001B9830AD8C0 49] Android_PowerVR_GE8xxx, [000001B9829AB100][000001B9830F1A00 49] Android_PowerVR_GM9xxx, [000001B98295B300][000001B9830F5B40 49] Android_PowerVR_GM9xxx_Vulkan, [000001B9829A9500][000001B9830F9C80 49] Android_TegraK1, [000001B982958200][000001B983100140 49] Android_Unknown_Vulkan, [000001B9829A9000][000001B9831042C0 49] Lumin, [000001B982959300][000001B983108440 49] Lumin_Desktop, [000001B9829AAD00][000001B98310C5C0 49] HoloLens, 
+[2021.01.22-18.48.11:178][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.22-18.48.11:178][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.22-18.48.11:178][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.22-18.48.11:178][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.22-18.48.11:179][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.22-18.48.11:348][  0]LogNetVersion: Game 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2577159539)
+[2021.01.22-18.48.14:428][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.01.22-18.48.14:754][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.314201 seconds
+[2021.01.22-18.48.14:785][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.01.22-18.48.14:785][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.01.22-18.48.14:785][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.22-18.48.17:331][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.22-18.48.17:349][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.22-18.48.18:334][  0]SourceControl: Source control is disabled
+[2021.01.22-18.48.18:334][  0]SourceControl: Source control is disabled
+[2021.01.22-18.48.18:393][  0]SourceControl: Source control is disabled
+[2021.01.22-18.48.18:411][  0]SourceControl: Source control is disabled
+[2021.01.22-18.48.18:444][  0]SourceControl: Source control is disabled
+[2021.01.22-18.48.18:467][  0]LogUProjectInfo: Found projects:
+[2021.01.22-18.48.19:958][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.22-18.48.20:083][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.22-18.48.20:083][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.22-18.48.20:566][  0]LogCollectionManager: Loaded 0 collections in 0.004207 seconds
+[2021.01.22-18.48.20:701][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lenas/Documents/UEGame/Game/Saved/Collections/' took 0.03s
+[2021.01.22-18.48.20:701][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lenas/Documents/UEGame/Game/Content/Developers/lenas/Collections/' took 0.01s
+[2021.01.22-18.48.20:701][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lenas/Documents/UEGame/Game/Content/Collections/' took 0.00s
+[2021.01.22-18.48.20:734][  0]LogOcInput: OculusInput pre-init called
+[2021.01.22-18.48.20:836][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.01.22-18.48.20:836][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.01.22-18.48.21:170][  0]LogEngine: Initializing Engine...
+[2021.01.22-18.48.21:177][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.22-18.48.21:177][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.01.22-18.48.21:184][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2021.01.22-18.48.23:051][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.22-18.48.24:329][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.22-18.48.24:386][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.01.22-18.48.24:428][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.01.22-18.48.24:429][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.01.22-18.48.24:432][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.22-18.48.24:433][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.22-18.48.24:433][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.22-18.48.24:433][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.22-18.48.24:433][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.22-18.48.24:433][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.22-18.48.24:433][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.22-18.48.24:434][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.22-18.48.24:450][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.22-18.48.24:451][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.22-18.48.24:666][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.22-18.48.24:666][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.01.22-18.48.26:129][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2021.01.22-18.48.26:186][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.22-18.48.26:231][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.22-18.48.26:232][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.22-18.48.26:243][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.22-18.48.26:246][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.22-18.48.26:246][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.22-18.48.26:279][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.22-18.48.26:279][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.22-18.48.26:279][  0]LogInit: FAudioDevice initialized.
+[2021.01.22-18.48.26:285][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.01.22-18.48.26:298][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.22-18.48.27:765][  0]LogDerivedDataCache: Saved boot cache 1.47s 77MB C:/Users/lenas/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.01.22-18.48.27:798][  0]LogInit: Texture streaming: Enabled
+[2021.01.22-18.48.27:894][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2021.01.22-18.48.27:945][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.22-18.48.27:945][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.01.22-18.48.28:002][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.01.22-18.48.28:401][  0]LogInit: Transaction tracking system initialized
+[2021.01.22-18.48.28:627][  0]BlueprintLog: New page: Editor Load
+[2021.01.22-18.48.31:601][  0]LocalizationService: Localization service is disabled
+[2021.01.22-18.48.31:864][  0]TimingProfiler: Initialize
+[2021.01.22-18.48.31:868][  0]TimingProfiler: OnSessionChanged
+[2021.01.22-18.48.31:869][  0]LoadingProfiler: Initialize
+[2021.01.22-18.48.31:869][  0]LoadingProfiler: OnSessionChanged
+[2021.01.22-18.48.31:869][  0]NetworkingProfiler: Initialize
+[2021.01.22-18.48.31:870][  0]NetworkingProfiler: OnSessionChanged
+[2021.01.22-18.48.31:870][  0]MemoryProfiler: Initialize
+[2021.01.22-18.48.31:870][  0]MemoryProfiler: OnSessionChanged
+[2021.01.22-18.48.33:001][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.01.22-18.48.33:001][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.22-18.48.33:584][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lenas/Documents/UEGame/Game/Content/' took 0.04s
+[2021.01.22-18.48.34:215][  0]SourceControl: Source control is disabled
+[2021.01.22-18.48.34:217][  0]LogUnrealEdMisc: Loading editor; pre map load, took 39.769
+[2021.01.22-18.48.34:220][  0]Cmd: MAP LOAD FILE="../../../../../../Users/lenas/Documents/UEGame/Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.22-18.48.34:222][  0]LightingResults: New page: Lighting Build
+[2021.01.22-18.48.34:235][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.01.22-18.48.34:240][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.22-18.48.34:246][  0]MapCheck: New page: Map Check
+[2021.01.22-18.48.34:246][  0]LightingResults: New page: Lighting Build
+[2021.01.22-18.48.34:332][  0]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2021.01.22-18.48.34:953][  0]LogTexture: Display: Building textures: DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2021.01.22-18.48.34:965][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.01.22-18.48.34:967][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.22-18.48.35:035][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.22-18.48.35:063][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.01.22-18.48.35:065][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.22-18.48.35:066][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,485ms to complete.
+[2021.01.22-18.48.35:066][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.848
+[2021.01.22-18.48.35:131][  0]LogUnrealEdMisc: Total Editor Startup Time, took 40.682
+[2021.01.22-18.48.35:451][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.22-18.48.35:462][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.22-18.48.35:471][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.22-18.48.35:483][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.22-18.48.35:565][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0374 seconds. Added 3601 classes and 859 folders.
+[2021.01.22-18.48.35:579][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.01.22-18.48.35:588][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.22-18.48.35:588][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.22-18.48.35:588][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.22-18.48.35:589][  0]LogPakFile: OnPakFileMounted2Time == 0.000489
+[2021.01.22-18.48.35:593][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.01.22-18.48.35:593][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.22-18.48.35:593][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.01.22-18.48.35:593][  0]LogPakFile: OnPakFileMounted2Time == 0.000493
+[2021.01.22-18.48.35:595][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.01.22-18.48.35:595][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.22-18.48.35:595][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.01.22-18.48.35:595][  0]LogPakFile: OnPakFileMounted2Time == 0.000498
+[2021.01.22-18.48.35:597][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.22-18.48.35:597][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.22-18.48.35:597][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.22-18.48.35:597][  0]LogPakFile: OnPakFileMounted2Time == 0.000503
+[2021.01.22-18.48.35:599][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.01.22-18.48.35:599][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.22-18.48.35:599][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.01.22-18.48.35:599][  0]LogPakFile: OnPakFileMounted2Time == 0.000507
+[2021.01.22-18.48.35:601][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.01.22-18.48.35:601][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.22-18.48.35:601][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.01.22-18.48.35:601][  0]LogPakFile: OnPakFileMounted2Time == 0.000511
+[2021.01.22-18.48.35:603][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.01.22-18.48.35:603][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.22-18.48.35:603][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.01.22-18.48.35:603][  0]LogPakFile: OnPakFileMounted2Time == 0.000515
+[2021.01.22-18.48.35:605][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.01.22-18.48.35:605][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.22-18.48.35:605][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.01.22-18.48.35:605][  0]LogPakFile: OnPakFileMounted2Time == 0.000520
+[2021.01.22-18.48.35:607][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.22-18.48.35:607][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.22-18.48.35:607][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.22-18.48.35:607][  0]LogPakFile: OnPakFileMounted2Time == 0.000524
+[2021.01.22-18.48.35:610][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.01.22-18.48.35:610][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.22-18.48.35:610][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.01.22-18.48.35:610][  0]LogPakFile: OnPakFileMounted2Time == 0.000528
+[2021.01.22-18.48.35:612][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.01.22-18.48.35:612][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.22-18.48.35:612][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.01.22-18.48.35:612][  0]LogPakFile: OnPakFileMounted2Time == 0.000531
+[2021.01.22-18.48.35:614][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.22-18.48.35:614][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.22-18.48.35:614][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.22-18.48.35:614][  0]LogPakFile: OnPakFileMounted2Time == 0.000536
+[2021.01.22-18.48.35:616][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.22-18.48.35:616][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.22-18.48.35:616][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.22-18.48.35:616][  0]LogPakFile: OnPakFileMounted2Time == 0.000540
+[2021.01.22-18.48.35:619][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.22-18.48.35:619][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.22-18.48.35:619][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.22-18.48.35:619][  0]LogPakFile: OnPakFileMounted2Time == 0.000543
+[2021.01.22-18.48.35:621][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.01.22-18.48.35:621][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.22-18.48.35:621][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.01.22-18.48.35:621][  0]LogPakFile: OnPakFileMounted2Time == 0.000548
+[2021.01.22-18.48.35:623][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.22-18.48.35:623][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.22-18.48.35:623][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.22-18.48.35:623][  0]LogPakFile: OnPakFileMounted2Time == 0.000552
+[2021.01.22-18.48.35:625][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.01.22-18.48.35:625][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.22-18.48.35:625][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.01.22-18.48.35:625][  0]LogPakFile: OnPakFileMounted2Time == 0.000557
+[2021.01.22-18.48.35:628][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.22-18.48.35:628][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.22-18.48.35:628][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.22-18.48.35:628][  0]LogPakFile: OnPakFileMounted2Time == 0.000561
+[2021.01.22-18.48.35:630][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.22-18.48.35:630][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.22-18.48.35:630][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.22-18.48.35:630][  0]LogPakFile: OnPakFileMounted2Time == 0.000566
+[2021.01.22-18.48.35:632][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.22-18.48.35:632][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.22-18.48.35:632][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.22-18.48.35:632][  0]LogPakFile: OnPakFileMounted2Time == 0.000569
+[2021.01.22-18.48.35:633][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.22-18.48.35:634][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.22-18.48.35:634][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.22-18.48.35:634][  0]LogPakFile: OnPakFileMounted2Time == 0.000573
+[2021.01.22-18.48.35:636][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.22-18.48.35:636][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.22-18.48.35:636][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.22-18.48.35:636][  0]LogPakFile: OnPakFileMounted2Time == 0.000578
+[2021.01.22-18.48.35:638][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.01.22-18.48.35:638][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.22-18.48.35:638][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.01.22-18.48.35:638][  0]LogPakFile: OnPakFileMounted2Time == 0.000582
+[2021.01.22-18.48.35:640][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.22-18.48.35:640][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.22-18.48.35:640][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.22-18.48.35:640][  0]LogPakFile: OnPakFileMounted2Time == 0.000586
+[2021.01.22-18.48.35:642][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.22-18.48.35:643][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.22-18.48.35:643][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.22-18.48.35:643][  0]LogPakFile: OnPakFileMounted2Time == 0.000590
+[2021.01.22-18.48.35:645][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.01.22-18.48.35:645][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.22-18.48.35:645][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.01.22-18.48.35:645][  0]LogPakFile: OnPakFileMounted2Time == 0.000594
+[2021.01.22-18.48.35:820][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.01.22-18.48.35:826][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.01.22-18.48.36:089][  0]LogSlate: Took 0.001741 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.22-18.48.36:095][  0]LogSlate: Took 0.001846 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.22-18.48.36:106][  0]LogSlate: Took 0.000836 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.22-18.48.36:414][  0]LogRenderer: Reallocating scene render targets to support 1076x504 Format 10 NumSamples 1 (Frame:1).
+[2021.01.22-18.48.37:311][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.22-18.48.37:311][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.01.22-18.48.37:311][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.01.22-18.48.37:311][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.01.22-18.48.37:312][  0]LogLoad: (Engine Initialization) Total time: 42.86 seconds
+[2021.01.22-18.48.37:312][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.22-18.48.37:312][  0]LogInit: First time updating LLM stats...
+[2021.01.22-18.48.37:454][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.22-18.48.37:470][  0]LogSlate: Took 0.006596 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.01.22-18.48.37:581][  1]LogAssetRegistry: Asset discovery search completed in 28.5224 seconds
+[2021.01.22-18.48.37:585][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000441 seconds (updated 0 objects)
+[2021.01.22-18.55.10:091][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.01.22-18.55.10:130][176]LogSlate: Took 0.000781 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.22-18.55.10:261][176]LogBlueprint: Warning: [AssetLog] C:\Users\lenas\Documents\UEGame\Game\Content\AdvancedVillagePack\Blueprints\BP_Butterfly.uasset: [Compiler] Function ' Play Animation ' is unsafe to call in a construction script.
+[2021.01.22-18.55.10:261][176]LogBlueprint: Warning: [AssetLog] C:\Users\lenas\Documents\UEGame\Game\Content\AdvancedVillagePack\Blueprints\BP_Butterfly.uasset: [Compiler] Function ' Set Play Rate ' is unsafe to call in a construction script.
+[2021.01.22-18.55.11:384][176]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update CurveLinearColor_0
+[2021.01.22-18.55.12:138][176]LogAssetEditorSubsystem: Opening Asset editor for World /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase
+[2021.01.22-18.55.12:139][176]Cmd: MAP LOAD FILE="../../../../../../Users/lenas/Documents/UEGame/Game/Content/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.22-18.55.12:140][176]LightingResults: New page: Lighting Build
+[2021.01.22-18.55.12:140][176]LoadErrors: New page: Loading map: AdvancedVillagePack_Showcase.umap
+[2021.01.22-18.55.12:152][176]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.22-18.55.12:154][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.22-18.55.12:155][176]MapCheck: New page: Map Check
+[2021.01.22-18.55.12:155][176]LightingResults: New page: Lighting Build
+[2021.01.22-18.55.12:174][176]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.22-18.55.12:245][176]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.01.22-18.55.12:248][176]LogAudio: Display: Audio Device (ID: 1) registered with world 'AdvancedVillagePack_Showcase'.
+[2021.01.22-18.55.13:357][176]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.22-18.55.13:357][176]LogAIModule: Creating AISystem for world AdvancedVillagePack_Showcase
+[2021.01.22-18.55.13:447][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.01.22-18.55.13:453][176]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.22-18.55.13:454][176]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,45ms to complete.
+[2021.01.22-18.55.13:454][176]LogFileHelpers: Loading map 'AdvancedVillagePack_Showcase' took 1.315
+[2021.01.22-18.55.47:974][280]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.01.22-18.56.09:334][344]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.01.22-18.56.59:813][494]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.01.22-18.57.11:426][812]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor03)
+[2021.01.22-18.59.50:511][423]LogEditorViewport: Clicking on Actor (LMB): BP_Tree_C (BP_Tree199)
+[2021.01.22-19.11.27:248][849]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.22-19.11.27:390][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.22-19.11.27:409][849]PIE: New page: PIE session: AdvancedVillagePack_Showcase (22 janv. 2021 à 21:11:27)
+[2021.01.22-19.11.27:538][849]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.01.22-19.11.27:622][849]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.01.22-19.11.27:643][849]LogPlayLevel: Creating play world package: /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2021.01.22-19.11.28:392][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.742001s)
+[2021.01.22-19.11.28:447][849]LogAIModule: Creating AISystem for world AdvancedVillagePack_Showcase
+[2021.01.22-19.11.28:469][849]LogPlayLevel: PIE: World Init took: (0.077621s)
+[2021.01.22-19.11.28:471][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase to /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase (0.830376s)
+[2021.01.22-19.11.28:591][849]LogUObjectHash: Compacting FUObjectHashTables data took  23.88ms
+[2021.01.22-19.11.28:705][849]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.01.22-19.11.28:709][849]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.22-19.11.28:710][849]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.22-19.11.28:710][849]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.22-19.11.28:710][849]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.22-19.11.28:710][849]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.22-19.11.28:710][849]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.22-19.11.28:710][849]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.22-19.11.28:710][849]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.22-19.11.28:718][849]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.22-19.11.28:719][849]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.22-19.11.28:745][849]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.22-19.11.28:745][849]LogAudioMixer: Display: 1: FrontRight
+[2021.01.22-19.11.28:766][849]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2021.01.22-19.11.28:773][849]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.22-19.11.28:773][849]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.22-19.11.28:774][849]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.22-19.11.28:795][849]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.22-19.11.28:796][849]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.22-19.11.28:796][849]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.22-19.11.28:813][849]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.22-19.11.28:813][849]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.22-19.11.28:813][849]LogInit: FAudioDevice initialized.
+[2021.01.22-19.11.28:814][849]LogAudio: Display: Audio Device (ID: 2) registered with world 'AdvancedVillagePack_Showcase'.
+[2021.01.22-19.11.29:049][849]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.22-19.11.29:222][849]LogWorld: Bringing World /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase up for play (max tick rate 60) at 2021.01.22-20.11.29
+[2021.01.22-19.11.29:251][849]LogWorld: Bringing up level for play took: 0.177286
+[2021.01.22-19.11.29:258][849]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.01.22-19.11.29:269][849]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2021.01.22-19.11.29:307][849]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0106 seconds. Added 20 classes and 0 folders.
+[2021.01.22-19.11.29:394][849]PIE: Server logged in
+[2021.01.22-19.11.29:542][849]PIE: Play in editor total start time 2,182 seconds.
+[2021.01.22-19.13.38:780][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.22-19.13.38:782][858]LogWorld: BeginTearingDown for /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2021.01.22-19.13.38:793][858]LogWorld: UWorld::CleanupWorld for AdvancedVillagePack_Showcase, bSessionEnded=true, bCleanupResources=true
+[2021.01.22-19.13.38:811][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.22-19.13.38:877][858]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.22-19.13.38:978][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.22-19.13.39:016][858]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.22-19.13.39:020][858]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.22-19.13.39:029][858]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.22-19.13.39:063][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.22-19.13.39:140][858]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.01.22-19.13.39:176][859]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.01.22-19.14.45:122][189]Cmd: SELECT NONE
+[2021.01.22-19.14.46:240][235]Cmd: SELECT NONE
+[2021.01.22-19.15.13:490][103]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2021.01.22-19.15.13:634][103]LogSlate: Took 0.001615 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.22-19.15.45:661][996]Cmd: TRANSACTION UNDO
+[2021.01.22-19.15.45:661][996]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.01.22-19.24.04:913][327]LogUObjectHash: Compacting FUObjectHashTables data took  23.74ms
+[2021.01.22-19.24.05:055][327]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase' took 0.327
+[2021.01.22-19.30.58:612][561]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.01.22-19.34.05:725][116]LogUObjectHash: Compacting FUObjectHashTables data took  20.06ms
+[2021.01.22-19.34.05:874][116]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase' took 0.337
+[2021.01.22-19.43.55:421][912]LogRenderer: Reallocating scene render targets to support 1076x572 Format 10 NumSamples 1 (Frame:10845).
+[2021.01.22-19.44.14:368][415]Cmd: TRANSACTION UNDO
+[2021.01.22-19.44.14:369][415]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.01.22-19.44.32:665][929]Cmd: TRANSACTION UNDO
+[2021.01.22-19.44.32:665][929]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2021.01.22-19.44.40:327][117]Cmd: TRANSACTION UNDO
+[2021.01.22-19.44.40:331][117]LogEditorTransaction: Undo Select None
+[2021.01.22-19.44.47:129][282]Cmd: TRANSACTION UNDO
+[2021.01.22-19.44.47:129][282]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.22-19.44.49:536][328]Cmd: SELECT NONE
+[2021.01.22-19.46.49:048][291]LogUObjectHash: Compacting FUObjectHashTables data took  19.29ms
+[2021.01.22-19.46.49:107][291]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase' took 0.178
+[2021.01.22-19.50.05:971][127]Cmd: TRANSACTION UNDO
+[2021.01.22-19.50.05:973][127]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.01.22-19.56.49:434][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   8.99ms
+[2021.01.22-19.56.49:468][ 33]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase' took 0.072
+[2021.01.22-20.01.42:999][509]Cmd: TRANSACTION UNDO
+[2021.01.22-20.01.43:002][509]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.01.22-20.01.43:157][509]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2021.01.22-20.01.51:594][681]Cmd: TRANSACTION UNDO
+[2021.01.22-20.01.51:594][681]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.01.22-20.02.05:703][963]Cmd: TRANSACTION UNDO
+[2021.01.22-20.02.05:703][963]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.01.22-20.02.07:932][  4]Cmd: TRANSACTION UNDO
+[2021.01.22-20.02.07:933][  4]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.01.22-20.02.16:094][186]LogEditorViewport: Clicking Background
+[2021.01.22-20.06.50:072][965]LogUObjectHash: Compacting FUObjectHashTables data took   9.21ms
+[2021.01.22-20.06.50:335][965]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2021.01.22-20.06.50:367][965]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2021.01.22-20.06.50:370][965]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2021.01.22-20.06.50:372][965]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2021.01.22-20.06.50:377][965]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2021.01.22-20.06.50:380][965]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2021.01.22-20.06.50:382][965]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.01.22-20.06.50:386][965]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2021.01.22-20.06.52:099][965]LogSavePackage: Moving '../../../../../../Users/lenas/Documents/UEGame/Game/Saved/AdvancedVillagePack_Showcase_AutB7F1B48B46FE7397E625A2952A7383B6.tmp' to '../../../../../../Users/lenas/Documents/UEGame/Game/Saved/Autosaves/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase_Auto1.umap'
+[2021.01.22-20.06.52:122][965]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase' took 2.147
+[2021.01.22-20.06.52:122][965]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.147
+[2021.01.22-20.16.52:313][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   6.79ms
+[2021.01.22-20.16.52:442][ 58]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2021.01.22-20.16.52:460][ 58]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2021.01.22-20.16.52:463][ 58]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2021.01.22-20.16.52:466][ 58]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2021.01.22-20.16.52:468][ 58]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2021.01.22-20.16.53:787][ 58]LogSavePackage: Moving '../../../../../../Users/lenas/Documents/UEGame/Game/Saved/AdvancedVillagePack_Showcase_Aut4595402942DD15D653D38180FECDFFAF.tmp' to '../../../../../../Users/lenas/Documents/UEGame/Game/Saved/Autosaves/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase_Auto2.umap'
+[2021.01.22-20.16.53:795][ 58]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase' took 1.513
+[2021.01.22-20.16.53:795][ 58]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.513
+[2021.01.22-20.44.59:431][966]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.01.22-20.48.54:860][727]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.01.22-20.48.55:814][750]Cmd: TRANSACTION UNDO
+[2021.01.22-20.48.55:814][750]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.22-20.48.56:368][757]Cmd: TRANSACTION UNDO
+[2021.01.22-20.48.56:368][757]LogEditorTransaction: Undo Marquee Select
+[2021.01.22-20.49.04:317][820]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.01.22-20.49.04:959][838]Cmd: TRANSACTION UNDO
+[2021.01.22-20.49.04:959][838]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.22-20.49.10:728][984]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2021.01.22-20.49.10:732][984]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2021.01.22-20.49.10:734][984]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2021.01.22-20.49.10:736][984]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2021.01.22-20.49.10:739][984]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2021.01.22-20.49.10:742][984]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2021.01.22-20.49.10:744][984]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2021.01.22-20.49.10:748][984]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2021.01.22-20.49.10:749][984]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2021.01.22-20.49.10:751][984]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2021.01.22-20.49.10:753][984]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2021.01.22-20.49.10:771][984]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2021.01.22-20.49.10:772][984]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2021.01.22-20.49.10:776][984]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2021.01.22-20.49.10:779][984]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2021.01.22-20.49.10:781][984]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2021.01.22-20.49.10:782][984]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2021.01.22-20.49.10:783][984]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2021.01.22-20.49.10:784][984]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2021.01.22-20.49.10:786][984]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2021.01.22-20.49.10:788][984]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2021.01.22-20.49.10:802][984]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2021.01.22-20.49.10:805][984]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2021.01.22-20.49.10:807][984]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2021.01.22-20.49.10:808][984]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2021.01.22-20.49.10:809][984]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2021.01.22-20.49.10:811][984]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2021.01.22-20.49.10:813][984]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.01.22-20.50.04:991][196]LogUObjectHash: Compacting FUObjectHashTables data took  20.62ms
+[2021.01.22-20.50.06:826][196]LogSavePackage: Moving '../../../../../../Users/lenas/Documents/UEGame/Game/Saved/AdvancedVillagePack_Showcase_Aut6664B67A4D42C8055760EAA33F781E92.tmp' to '../../../../../../Users/lenas/Documents/UEGame/Game/Saved/Autosaves/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase_Auto3.umap'
+[2021.01.22-20.50.06:843][196]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase' took 1.935
+[2021.01.22-20.50.06:844][196]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.935
+[2021.01.22-20.50.38:847][571]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.01.22-20.50.38:975][572]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape1)
+[2021.01.22-20.50.59:267][ 24]Cmd: DELETE
+[2021.01.22-20.50.59:267][ 24]Cmd: ACTOR DELETE
+[2021.01.22-20.50.59:395][ 24]LogEditorActor: Deleted Actor: BlockingVolume
+[2021.01.22-20.50.59:412][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.01.22-20.50.59:423][ 24]LogEditorActor: Deleted 1 Actors (0.135 secs)
+[2021.01.22-20.51.01:962][ 96]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.01.22-20.51.27:075][878]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.01.22-20.52.09:656][398]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2021.01.22-20.52.10:447][424]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.01.22-20.52.12:561][500]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.01.22-20.52.12:904][511]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.01.22-20.52.13:433][532]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume2)
+[2021.01.22-20.52.50:158][147]LogEditorViewport: Clicking Background
+[2021.01.22-20.52.52:476][249]Cmd: MODE SCALEGRID=0
+[2021.01.22-20.52.56:946][456]Cmd: MODE SCALEGRID=1
+[2021.01.22-20.53.00:707][626]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume2)
+[2021.01.22-20.54.53:029][ 64]Cmd: EDIT COPY
+[2021.01.22-20.55.00:851][328]Cmd: TRANSACTION UNDO
+[2021.01.22-20.55.00:851][328]LogEditorTransaction: Undo Move Actors
+[2021.01.22-20.55.03:372][399]Cmd: EDIT COPY
+[2021.01.22-20.55.04:105][421]Cmd: EDIT PASTE
+[2021.01.22-20.55.52:753][182]Cmd: EDIT COPY
+[2021.01.22-20.55.53:806][216]Cmd: EDIT PASTE
+[2021.01.22-20.57.02:271][499]Cmd: EDIT COPY
+[2021.01.22-20.57.04:749][576]Cmd: EDIT PASTE
+[2021.01.22-20.57.37:533][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.01.22-20.57.38:843][819]LogSavePackage: Moving '../../../../../../Users/lenas/Documents/UEGame/Game/Saved/AdvancedVillagePack_Showcase4BA071C44F1BA1C116150081AF11AA12.tmp' to '../../../../../../Users/lenas/Documents/UEGame/Game/Content/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.umap'
+[2021.01.22-20.57.39:071][819]AssetCheck: New page: Asset Save: AdvancedVillagePack_Showcase
+[2021.01.22-20.57.39:073][819]LogContentValidation: Display: Validating World /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase
+[2021.01.22-20.57.57:353][429]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.01.22-20.57.58:992][429]LogSavePackage: Moving '../../../../../../Users/lenas/Documents/UEGame/Game/Saved/AdvancedVillagePack_Showcase64262AC144D74317A010E9A352D63C9E.tmp' to '../../../../../../Users/lenas/Documents/UEGame/Game/Content/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.umap'
+[2021.01.22-20.57.59:049][429]AssetCheck: New page: Asset Save: AdvancedVillagePack_Showcase
+[2021.01.22-20.57.59:050][429]LogContentValidation: Display: Validating World /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase
+[2021.01.22-20.58.49:187][657]LogRenderer: Reallocating scene render targets to support 1112x592 Format 10 NumSamples 1 (Frame:131059).
+[2021.01.22-20.59.29:316][123]LogRenderer: Reallocating scene render targets to support 1116x592 Format 10 NumSamples 1 (Frame:132538).
+[2021.01.22-20.59.29:463][124]LogRenderer: Reallocating scene render targets to support 1128x592 Format 10 NumSamples 1 (Frame:132540).
+[2021.01.22-20.59.32:293][219]LogRenderer: Reallocating scene render targets to support 1128x612 Format 10 NumSamples 1 (Frame:132639).
+[2021.01.22-20.59.32:446][220]LogRenderer: Reallocating scene render targets to support 1128x640 Format 10 NumSamples 1 (Frame:132641).
+[2021.01.22-20.59.32:585][221]LogRenderer: Reallocating scene render targets to support 1128x652 Format 10 NumSamples 1 (Frame:132643).
+[2021.01.22-20.59.34:687][298]LogRenderer: Reallocating scene render targets to support 1136x652 Format 10 NumSamples 1 (Frame:132723).
+[2021.01.22-20.59.34:832][299]LogRenderer: Reallocating scene render targets to support 1192x652 Format 10 NumSamples 1 (Frame:132725).
+[2021.01.22-20.59.34:993][300]LogRenderer: Reallocating scene render targets to support 1252x652 Format 10 NumSamples 1 (Frame:132727).
+[2021.01.22-20.59.50:548][864]LogRenderer: Reallocating scene render targets to support 1252x668 Format 10 NumSamples 1 (Frame:133294).
+[2021.01.22-21.00.12:948][655]Cmd: TRANSACTION UNDO
+[2021.01.22-21.00.12:948][655]LogEditorTransaction: Undo Foliage Editing
+[2021.01.22-21.00.45:803][666]Cmd: TRANSACTION UNDO
+[2021.01.22-21.00.45:803][666]LogEditorTransaction: Undo Foliage Editing
+[2021.01.22-21.01.00:763][348]Cmd: TRANSACTION UNDO
+[2021.01.22-21.01.00:763][348]LogEditorTransaction: Undo Foliage Editing
+[2021.01.22-21.01.16:910][ 58]Cmd: TRANSACTION UNDO
+[2021.01.22-21.01.16:910][ 58]LogEditorTransaction: Undo Foliage Editing
+[2021.01.22-21.01.35:429][899]Cmd: TRANSACTION UNDO
+[2021.01.22-21.01.35:429][899]LogEditorTransaction: Undo Foliage Editing
+[2021.01.22-21.01.39:316][ 65]Cmd: TRANSACTION UNDO
+[2021.01.22-21.01.39:316][ 65]LogEditorTransaction: Undo Foliage Editing
+[2021.01.22-21.01.40:925][130]Cmd: TRANSACTION UNDO
+[2021.01.22-21.01.40:925][130]LogEditorTransaction: Undo Foliage Editing
+[2021.01.22-21.01.56:722][863]Cmd: TRANSACTION UNDO
+[2021.01.22-21.01.56:722][863]LogEditorTransaction: Undo Foliage Editing
+[2021.01.22-21.02.35:550][128]Cmd: TRANSACTION UNDO
+[2021.01.22-21.02.35:551][128]LogEditorTransaction: Undo Foliage Editing
+[2021.01.22-21.02.50:269][716]Cmd: TRANSACTION UNDO
+[2021.01.22-21.02.50:269][716]LogEditorTransaction: Undo Foliage Editing
+[2021.01.22-21.03.17:006][438]Cmd: TRANSACTION UNDO
+[2021.01.22-21.03.17:006][438]LogEditorTransaction: Undo Foliage Editing
+[2021.01.22-21.03.23:914][679]Cmd: TRANSACTION UNDO
+[2021.01.22-21.03.23:914][679]LogEditorTransaction: Undo Foliage Editing
+[2021.01.22-21.04.00:219][ 13]Cmd: TRANSACTION UNDO
+[2021.01.22-21.04.00:219][ 13]LogEditorTransaction: Undo Edit Density / 1Kuu
+[2021.01.22-21.04.19:871][801]LogUObjectHash: Compacting FUObjectHashTables data took  13.53ms
+[2021.01.22-21.04.21:536][801]LogSavePackage: Moving '../../../../../../Users/lenas/Documents/UEGame/Game/Saved/AdvancedVillagePack_Showcase78018E1B43011C50166A739AECA94F56.tmp' to '../../../../../../Users/lenas/Documents/UEGame/Game/Content/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.umap'
+[2021.01.22-21.04.21:613][801]AssetCheck: New page: Asset Save: AdvancedVillagePack_Showcase
+[2021.01.22-21.04.21:613][801]LogContentValidation: Display: Validating World /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase
+[2021.01.22-21.06.36:045][488]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.01.22-21.12.26:458][417]LogDirectoryWatcher: A directory notification failed for 'C:/Users/lenas/Documents/UEGame/Game/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2021.01.22-21.12.26:499][417]LogDirectoryWatcher: A directory notification failed for 'C:/Users/lenas/Documents/UEGame/Game/Content/Developers/lenas/Collections/' because it could not be accessed. Aborting watch request...
+[2021.01.22-21.12.28:220][418]LogDirectoryWatcher: A directory notification failed for 'C:/Users/lenas/Documents/UEGame/Game/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2021.01.22-21.15.55:449][972]LogMaterial: Display: Missing cached shader map for material template_red, compiling. 
+[2021.01.22-21.15.55:655][972]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2021.01.22-21.15.55:655][972]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.01.22-21.15.55:655][972]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.01.22-21.15.55:655][972]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.01.22-21.15.55:725][972]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/PhotoR_Backgrounds/Meshes/template_red.template_red
+[2021.01.22-21.15.55:759][972]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0120 seconds. Added 3 classes and 0 folders.
+[2021.01.22-21.15.55:780][972]LogMaterial: Display: Missing cached shader map for material template_red, compiling. 
+[2021.01.22-21.15.57:369][972]LogMaterial: Display: Missing cached shader map for material template_red, compiling. 
+[2021.01.22-21.15.57:519][972]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.01.22-21.15.58:429][972]LogSlate: Took 0.055867 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.22-21.16.04:605][ 61]LogSlate: Window 'template_red' being destroyed
+[2021.01.22-21.16.04:672][ 61]LogSlate: Window 'template_red' being destroyed
+[2021.01.22-21.16.04:968][ 61]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.01.22-21.16.04:970][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.22-21.16.24:784][346]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.01.22-21.16.26:760][374]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.01.22-21.16.28:395][394]LogUObjectHash: Compacting FUObjectHashTables data took  34.90ms
+[2021.01.22-21.16.28:590][394]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2021.01.22-21.16.29:321][394]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.01.22-21.16.35:341][394]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.01.22-21.16.35:353][394]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2021.01.22-21.16.35:353][394]LogTexture: Display: Building textures: grass_summer_b_n (BC5, 2048X2048)
+[2021.01.22-21.16.35:354][394]LogTexture: Display: Building textures: grass_summer_a_n (BC5, 2048X2048)
+[2021.01.22-21.16.35:354][394]LogTexture: Display: Building textures: grass_fall_b_n (BC5, 2048X2048)
+[2021.01.22-21.16.35:354][394]LogTexture: Display: Building textures: grass_summer_b_d (AutoDXT, 2048X2048)
+[2021.01.22-21.16.35:354][394]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.01.22-21.16.35:354][394]LogTexture: Display: Building textures: grass_summer_a_d (AutoDXT, 2048X2048)
+[2021.01.22-21.16.35:354][394]LogTexture: Display: Building textures: pr_background_mountain_e_N (BC5, 4096X4096)
+[2021.01.22-21.16.35:354][394]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.01.22-21.16.35:354][394]LogStaticMesh: Building static mesh PR_background_D_N2...
+[2021.01.22-21.16.36:503][394]LogTexture: Display: Building textures: pr_background_mountain_e_SPLAT (AutoDXT, 4096X4096)
+[2021.01.22-21.16.36:828][394]LogTexture: Display: Building textures: SM_ground_gravel_b_d (AutoDXT, 2048X2048)
+[2021.01.22-21.16.36:972][394]LogTexture: Display: Building textures: grass_spring_a_d (AutoDXT, 2048X2048)
+[2021.01.22-21.16.40:052][394]LogStaticMesh: Built static mesh [4.83s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_d/PR_background_D_N2.PR_background_D_N2
+[2021.01.22-21.16.41:107][394]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.01.22-21.16.41:109][394]LogStaticMesh: Building static mesh PR_background_D_S1...
+[2021.01.22-21.16.41:506][394]LogStaticMesh: Built static mesh [0.41s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_d/PR_background_D_S1.PR_background_D_S1
+[2021.01.22-21.16.42:345][394]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.01.22-21.16.42:345][394]LogStaticMesh: Building static mesh PR_background_D_E2...
+[2021.01.22-21.16.42:644][394]LogStaticMesh: Built static mesh [0.30s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_d/PR_background_D_E2.PR_background_D_E2
+[2021.01.22-21.16.43:170][394]LogStaticMesh: Building static mesh PR_background_D_N1...
+[2021.01.22-21.16.43:381][394]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.01.22-21.16.43:381][394]LogStaticMesh: Built static mesh [0.21s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_d/PR_background_D_N1.PR_background_D_N1
+[2021.01.22-21.16.43:801][394]LogStaticMesh: Building static mesh pr_background_mountain_d_4_summer...
+[2021.01.22-21.16.44:056][394]LogStaticMesh: Built static mesh [0.26s] /Game/PhotoR_Backgrounds/Meshes/Modular_Summer/Mountain_D/pr_background_mountain_d_4_summer.pr_background_mountain_d_4_summer
+[2021.01.22-21.16.44:414][394]LogTexture: Display: Building textures: SM_grass_c_n (BC5, 2048X2048)
+[2021.01.22-21.16.44:414][394]LogStaticMesh: Building static mesh pr_background_mountain_d_5_summer...
+[2021.01.22-21.16.44:711][394]LogStaticMesh: Built static mesh [0.30s] /Game/PhotoR_Backgrounds/Meshes/Modular_Summer/Mountain_D/pr_background_mountain_d_5_summer.pr_background_mountain_d_5_summer
+[2021.01.22-21.16.45:080][394]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.01.22-21.16.45:080][394]LogStaticMesh: Building static mesh pr_background_mountain_d_6_summer...
+[2021.01.22-21.16.45:297][394]LogStaticMesh: Built static mesh [0.22s] /Game/PhotoR_Backgrounds/Meshes/Modular_Summer/Mountain_D/pr_background_mountain_d_6_summer.pr_background_mountain_d_6_summer
+[2021.01.22-21.16.45:492][394]LogStaticMesh: Building static mesh pr_background_mountain_d_7_summer...
+[2021.01.22-21.16.45:580][394]LogStaticMesh: Built static mesh [0.09s] /Game/PhotoR_Backgrounds/Meshes/Modular_Summer/Mountain_D/pr_background_mountain_d_7_summer.pr_background_mountain_d_7_summer
+[2021.01.22-21.16.45:710][394]LogStaticMesh: Building static mesh pr_background_mountain_d_9_summer...
+[2021.01.22-21.16.45:790][394]LogStaticMesh: Built static mesh [0.08s] /Game/PhotoR_Backgrounds/Meshes/Modular_Summer/Mountain_D/pr_background_mountain_d_9_summer.pr_background_mountain_d_9_summer
+[2021.01.22-21.16.46:077][394]LogStaticMesh: Building static mesh pr_background_mountain_d_3_summer...
+[2021.01.22-21.16.46:293][394]LogStaticMesh: Built static mesh [0.22s] /Game/PhotoR_Backgrounds/Meshes/Modular_Summer/Mountain_D/pr_background_mountain_d_3_summer.pr_background_mountain_d_3_summer
+[2021.01.22-21.16.46:652][394]LogStaticMesh: Building static mesh pr_background_mountain_d_8_summer...
+[2021.01.22-21.16.46:801][394]LogStaticMesh: Built static mesh [0.15s] /Game/PhotoR_Backgrounds/Meshes/Modular_Summer/Mountain_D/pr_background_mountain_d_8_summer.pr_background_mountain_d_8_summer
+[2021.01.22-21.16.48:233][394]LogTexture: Display: Building textures: grass_spring_b_d (AutoDXT, 2048X2048)
+[2021.01.22-21.16.48:243][394]LogTexture: Display: Building textures: pr_background_mountain_a_winter_Splat (AutoDXT, 4096X4096)
+[2021.01.22-21.16.48:243][394]LogStaticMesh: Building static mesh pr_background_mountain_b_2_summer...
+[2021.01.22-21.16.50:975][394]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.01.22-21.16.51:487][394]LogStaticMesh: Built static mesh [3.38s] /Game/PhotoR_Backgrounds/Meshes/Modular_Summer/Mountain_B/pr_background_mountain_b_2_summer.pr_background_mountain_b_2_summer
+[2021.01.22-21.16.53:087][394]LogStaticMesh: Building static mesh pr_background_mountain_b_1_summer...
+[2021.01.22-21.16.59:395][394]LogTexture: Display: Building textures: SM_ground_gravel_a_d (AutoDXT, 2048X2048)
+[2021.01.22-21.16.59:436][394]LogTexture: Display: Building textures: SM_sand_pebbles_a_d (AutoDXT, 2048X2048)
+[2021.01.22-21.17.18:827][394]LogTexture: Display: Building textures: pr_background_mountain_a_SPLAT (AutoDXT, 4096X4096)
+[2021.01.22-21.17.22:154][394]LogTexture: Display: Building textures: pr_background_mountain_a_N (BC5, 4096X4096)
+[2021.01.22-21.17.22:331][394]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.01.22-21.17.22:419][394]LogTexture: Display: Building textures: pr_background_mountain_e_winter_SPLAT (AutoDXT, 4096X4096)
+[2021.01.22-21.17.22:419][394]LogTexture: Display: Building textures: SM_ground_gravel_a_n (BC5, 2048X2048)
+[2021.01.22-21.17.23:387][394]LogTexture: Display: Building textures: pr_background_mountain_c_SPLAT (AutoDXT, 4096X4096)
+[2021.01.22-21.17.39:311][394]LogTexture: Display: Building textures: pr_background_mountain_c_N (BC5, 4096X4096)
+[2021.01.22-21.17.56:045][394]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.01.22-21.17.56:073][394]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.01.22-21.17.56:073][394]LogTexture: Display: Building textures: SM_soil_desert_b_n (BC5, 2048X2048)
+[2021.01.22-21.17.56:073][394]LogTexture: Display: Building textures: SM_soil_desert_b_d (AutoDXT, 2048X2048)
+[2021.01.22-21.17.59:224][394]LogTexture: Display: Building textures: canyon_a_SPLAT (AutoDXT, 4096X4096)
+[2021.01.22-21.17.59:224][394]LogTexture: Display: Building textures: canyon_b_n (BGRA8, 4097X4097)
+[2021.01.22-21.17.59:253][394]LogTexture: Display: Building textures: canyon_b_SPLAT (AutoDXT, 4096X4096)
+[2021.01.22-21.18.15:272][394]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.01.22-21.18.15:824][394]LogTexture: Display: Building textures: SM_ground_gravel_c_d (AutoDXT, 2048X2048)
+[2021.01.22-21.18.16:517][394]LogTexture: Display: Building textures: canyon_a_n (BGRA8, 4097X4097)
+[2021.01.22-21.18.17:957][394]LogStaticMesh: Built static mesh [84.83s] /Game/PhotoR_Backgrounds/Meshes/Modular_Summer/Mountain_B/pr_background_mountain_b_1_summer.pr_background_mountain_b_1_summer
+[2021.01.22-21.18.22:220][394]LogTexture: Display: Building textures: SM_ground_gravel_b_n (BC5, 2048X2048)
+[2021.01.22-21.18.22:572][394]LogTexture: Display: Building textures: SM_snow_a_n (BC5, 2048X2048)
+[2021.01.22-21.18.22:572][394]LogStaticMesh: Building static mesh pr_background_mountain_b_3_summer...
+[2021.01.22-21.18.23:944][394]LogTexture: Display: Building textures: SM_snow_a_d (AutoDXT, 2048X2048)
+[2021.01.22-21.18.24:305][394]LogTexture: Display: Building textures: SM_ground_gravel_c_n (BC5, 2048X2048)
+[2021.01.22-21.18.25:746][394]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 256X256)
+[2021.01.22-21.18.26:076][394]LogTexture: Display: Building textures: pr_background_mountain_c_winter_SPLAT (AutoDXT, 4096X4096)
+[2021.01.22-21.18.26:076][394]LogTexture: Display: Building textures: pr_background_mountain_d_winter_SPLAT (AutoDXT, 4096X4096)
+[2021.01.22-21.18.26:076][394]LogTexture: Display: Building textures: pr_background_mountain_b_winter_SPLAT (AutoDXT, 4096X4096)
+[2021.01.22-21.18.26:468][394]LogStaticMesh: Built static mesh [4.68s] /Game/PhotoR_Backgrounds/Meshes/Modular_Summer/Mountain_B/pr_background_mountain_b_3_summer.pr_background_mountain_b_3_summer
+[2021.01.22-21.18.29:099][394]LogTexture: Display: Building textures: afghan_mountain_b_SPLAT (AutoDXT, 4096X4096)
+[2021.01.22-21.18.29:108][394]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.01.22-21.18.29:108][394]LogStaticMesh: Building static mesh PR_canyon_a_D...
+[2021.01.22-21.18.33:454][394]LogStaticMesh: Built static mesh [4.37s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Canyon_a/PR_canyon_a_D.PR_canyon_a_D
+[2021.01.22-21.18.34:589][394]LogTexture: Display: Building textures: afghan_mountain_b_n (BC5, 4096X4096)
+[2021.01.22-21.18.34:597][394]LogStaticMesh: Building static mesh PR_afgan_mountain_b_L...
+[2021.01.22-21.18.35:963][394]LogTexture: Display: Building textures: SM_soil_desert_a_d (AutoDXT, 2048X2048)
+[2021.01.22-21.18.36:635][394]LogStaticMesh: Built static mesh [2.07s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Afghan_Mountain_b/PR_afgan_mountain_b_L.PR_afgan_mountain_b_L
+[2021.01.22-21.18.37:034][394]LogTexture: Display: Building textures: pr_background_mountain_d_N (BC5, 4096X4096)
+[2021.01.22-21.18.37:034][394]LogStaticMesh: Building static mesh PR_afgan_mountain_b_U...
+[2021.01.22-21.18.37:402][394]LogStaticMesh: Built static mesh [0.37s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Afghan_Mountain_b/PR_afgan_mountain_b_U.PR_afgan_mountain_b_U
+[2021.01.22-21.18.37:694][394]LogStaticMesh: Building static mesh PR_afgan_mountain_b_R...
+[2021.01.22-21.18.37:971][394]LogStaticMesh: Built static mesh [0.28s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Afghan_Mountain_b/PR_afgan_mountain_b_R.PR_afgan_mountain_b_R
+[2021.01.22-21.18.38:609][394]LogTexture: Display: Building textures: pr_background_mountain_d_SPLAT (AutoDXT, 4096X4096)
+[2021.01.22-21.18.38:609][394]LogTexture: Display: Building textures: SM_sand_pebbles_a_n (BC5, 2048X2048)
+[2021.01.22-21.18.40:832][394]LogTexture: Display: Building textures: grass_fall_a_n (BC5, 2048X2048)
+[2021.01.22-21.18.40:839][394]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.01.22-21.18.40:840][394]LogTexture: Display: Building textures: grass_fall_a_d (AutoDXT, 2048X2048)
+[2021.01.22-21.18.42:070][394]LogTexture: Display: Building textures: SM_grass_c_d (AutoDXT, 2048X2048)
+[2021.01.22-21.18.42:273][394]LogMaterial: Display: Missing cached shader map for material pr_background_mountain_a_M_fall, compiling. 
+[2021.01.22-21.18.43:309][394]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2021.01.22-21.18.43:309][394]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.01.22-21.18.43:309][394]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.01.22-21.18.43:309][394]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.01.22-21.18.43:309][394]LogTexture: Display: Building textures: canyon_c_SPLAT (AutoDXT, 4096X4096)
+[2021.01.22-21.18.58:200][394]LogTexture: Display: Building textures: SM_soil_desert_a_n (BC5, 2048X2048)
+[2021.01.22-21.18.58:207][394]LogTexture: Display: Building textures: pr_background_mountain_b_SPLAT (AutoDXT, 4096X4096)
+[2021.01.22-21.18.58:207][394]LogTexture: Display: Building textures: pr_background_mountain_b_N (BC5, 4096X4096)
+[2021.01.22-21.18.58:208][394]LogTexture: Display: Building textures: SM_rock_a_n (BC5, 2048X2048)
+[2021.01.22-21.18.58:208][394]LogTexture: Display: Building textures: SM_rock_a_d (AutoDXT, 2048X2048)
+[2021.01.22-21.18.59:389][394]LogTexture: Display: Building textures: canyon_c_n (BGRA8, 4097X4097)
+[2021.01.22-21.19.00:136][394]LogMaterial: Display: Missing cached shader map for material canyon_outer_mesh_3_splat_map, compiling. 
+[2021.01.22-21.19.01:081][394]LogTexture: Display: Building textures: dersert_n (BC5, 4096X4096)
+[2021.01.22-21.19.01:088][394]LogStaticMesh: Building static mesh PR_canyon_b_U...
+[2021.01.22-21.19.02:456][394]LogStaticMesh: Built static mesh [1.42s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Canyon_b/PR_canyon_b_U.PR_canyon_b_U
+[2021.01.22-21.19.03:042][394]LogStaticMesh: Building static mesh PR_canyon_c_D...
+[2021.01.22-21.19.05:106][394]LogTexture: Display: Building textures: desert_SPLAT (AutoDXT, 4096X4096)
+[2021.01.22-21.19.06:662][394]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.01.22-21.19.07:818][394]LogStaticMesh: Built static mesh [4.80s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Canyon_c/PR_canyon_c_D.PR_canyon_c_D
+[2021.01.22-21.19.08:311][394]LogStaticMesh: Building static mesh PR_canyon_b_R...
+[2021.01.22-21.19.08:534][394]LogTexture: Display: Building textures: afghan_mountain_a_n (BC5, 4096X4096)
+[2021.01.22-21.19.10:431][394]LogStaticMesh: Built static mesh [2.10s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Canyon_b/PR_canyon_b_R.PR_canyon_b_R
+[2021.01.22-21.19.11:007][394]LogMaterial: Display: Missing cached shader map for material pr_background_mountain_e_M_summer, compiling. 
+[2021.01.22-21.19.34:368][394]LogTexture: Display: Building textures: afghan_mountain_a_SPLAT (AutoDXT, 4096X4096)
+[2021.01.22-21.19.34:374][394]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.01.22-21.19.34:374][394]LogMaterial: Display: Missing cached shader map for material pr_background_mountain_d_M_summer, compiling. 
+[2021.01.22-21.19.34:498][394]LogMaterial: Display: Missing cached shader map for material pr_background_mountain_a_M_spring, compiling. 
+[2021.01.22-21.19.35:241][394]LogStaticMesh: Building static mesh pr_background_mountain_d_1_summer...
+[2021.01.22-21.19.35:935][394]LogStaticMesh: Built static mesh [0.70s] /Game/PhotoR_Backgrounds/Meshes/Modular_Summer/Mountain_D/pr_background_mountain_d_1_summer.pr_background_mountain_d_1_summer
+[2021.01.22-21.19.36:492][394]LogStaticMesh: Building static mesh pr_background_mountain_d_2_summer...
+[2021.01.22-21.19.36:824][394]LogStaticMesh: Built static mesh [0.33s] /Game/PhotoR_Backgrounds/Meshes/Modular_Summer/Mountain_D/pr_background_mountain_d_2_summer.pr_background_mountain_d_2_summer
+[2021.01.22-21.19.37:506][394]LogStaticMesh: Building static mesh pr_background_mountain_c_5_summer...
+[2021.01.22-21.19.38:053][394]LogStaticMesh: Built static mesh [0.62s] /Game/PhotoR_Backgrounds/Meshes/Modular_Summer/Mountain_C/pr_background_mountain_c_5_summer.pr_background_mountain_c_5_summer
+[2021.01.22-21.19.38:135][394]LogMaterial: Display: Missing cached shader map for material pr_background_mountain_a_M_winter, compiling. 
+[2021.01.22-21.19.38:159][394]LogMaterial: Display: Missing cached shader map for material pr_background_mountain_e_M_winter, compiling. 
+[2021.01.22-21.19.39:876][394]LogMaterial: Display: Missing cached shader map for material mountain_b, compiling. 
+[2021.01.22-21.19.40:877][394]LogMaterial: Display: Missing cached shader map for material mountain_a_splat, compiling. 
+[2021.01.22-21.19.41:527][394]LogStaticMesh: Building static mesh PR_canyon_c_U...
+[2021.01.22-21.19.41:965][394]LogStaticMesh: Built static mesh [0.44s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Canyon_c/PR_canyon_c_U.PR_canyon_c_U
+[2021.01.22-21.19.42:530][394]LogStaticMesh: Building static mesh PR_canyon_c_L...
+[2021.01.22-21.19.42:781][394]LogStaticMesh: Built static mesh [0.25s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Canyon_c/PR_canyon_c_L.PR_canyon_c_L
+[2021.01.22-21.19.43:055][394]LogStaticMesh: Building static mesh PR_desert_D...
+[2021.01.22-21.19.43:361][394]LogStaticMesh: Built static mesh [0.31s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Desert/PR_desert_D.PR_desert_D
+[2021.01.22-21.19.43:644][394]LogStaticMesh: Building static mesh PR_canyon_c_R...
+[2021.01.22-21.19.43:935][394]LogStaticMesh: Built static mesh [0.29s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Canyon_c/PR_canyon_c_R.PR_canyon_c_R
+[2021.01.22-21.19.44:208][394]LogStaticMesh: Building static mesh pr_background_mountain_e_4_summer...
+[2021.01.22-21.19.44:359][394]LogStaticMesh: Built static mesh [0.15s] /Game/PhotoR_Backgrounds/Meshes/Modular_Summer/Mountain_E/pr_background_mountain_e_4_summer.pr_background_mountain_e_4_summer
+[2021.01.22-21.19.44:730][394]LogStaticMesh: Building static mesh pr_background_mountain_e_3_summer...
+[2021.01.22-21.19.45:029][394]LogStaticMesh: Built static mesh [0.30s] /Game/PhotoR_Backgrounds/Meshes/Modular_Summer/Mountain_E/pr_background_mountain_e_3_summer.pr_background_mountain_e_3_summer
+[2021.01.22-21.19.46:062][394]LogStaticMesh: Building static mesh pr_background_mountain_e_1_summer...
+[2021.01.22-21.19.46:615][394]LogStaticMesh: Built static mesh [0.69s] /Game/PhotoR_Backgrounds/Meshes/Modular_Summer/Mountain_E/pr_background_mountain_e_1_summer.pr_background_mountain_e_1_summer
+[2021.01.22-21.19.47:131][394]LogStaticMesh: Building static mesh PR_background_A_E1...
+[2021.01.22-21.19.47:375][394]LogStaticMesh: Built static mesh [0.24s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_a/PR_background_A_E1.PR_background_A_E1
+[2021.01.22-21.19.47:873][394]LogStaticMesh: Building static mesh PR_background_A_E2...
+[2021.01.22-21.19.48:165][394]LogStaticMesh: Built static mesh [0.29s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_a/PR_background_A_E2.PR_background_A_E2
+[2021.01.22-21.19.49:125][394]LogStaticMesh: Building static mesh PR_background_A_N1...
+[2021.01.22-21.19.49:647][394]LogStaticMesh: Built static mesh [0.55s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_a/PR_background_A_N1.PR_background_A_N1
+[2021.01.22-21.19.49:729][394]LogMaterial: Display: Missing cached shader map for material pr_background_mountain_c_M_fall, compiling. 
+[2021.01.22-21.19.49:763][394]LogMaterial: Display: Missing cached shader map for material pr_background_mountain_d_M_fall, compiling. 
+[2021.01.22-21.19.49:952][394]LogStaticMesh: Building static mesh PR_canyon_b_L...
+[2021.01.22-21.19.50:201][394]LogStaticMesh: Built static mesh [0.25s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Canyon_b/PR_canyon_b_L.PR_canyon_b_L
+[2021.01.22-21.19.50:942][394]LogStaticMesh: Building static mesh PR_canyon_a_R...
+[2021.01.22-21.19.51:473][394]LogStaticMesh: Built static mesh [0.53s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Canyon_a/PR_canyon_a_R.PR_canyon_a_R
+[2021.01.22-21.19.51:723][394]LogStaticMesh: Building static mesh PR_canyon_a_L...
+[2021.01.22-21.19.52:009][394]LogStaticMesh: Built static mesh [0.29s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Canyon_a/PR_canyon_a_L.PR_canyon_a_L
+[2021.01.22-21.19.52:340][394]LogMaterial: Display: Missing cached shader map for material canyon_outer_mesh_1_splat_map, compiling. 
+[2021.01.22-21.19.52:370][394]LogMaterial: Display: Missing cached shader map for material mountain_e, compiling. 
+[2021.01.22-21.19.52:407][394]LogMaterial: Display: Missing cached shader map for material pr_background_mountain_c_M_spring, compiling. 
+[2021.01.22-21.19.52:440][394]LogMaterial: Display: Missing cached shader map for material pr_background_mountain_b_M_spring, compiling. 
+[2021.01.22-21.19.52:492][394]LogMaterial: Display: Missing cached shader map for material pr_background_mountain_c_M_summer, compiling. 
+[2021.01.22-21.19.52:527][394]LogMaterial: Display: Missing cached shader map for material pr_background_mountain_c_M_winter, compiling. 
+[2021.01.22-21.19.52:563][394]LogMaterial: Display: Missing cached shader map for material pr_background_mountain_d_M_winter, compiling. 
+[2021.01.22-21.19.53:082][394]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 354
+[2021.01.22-21.19.53:638][394]LogStaticMesh: Building static mesh PR_afgan_mountain_a_D...
+[2021.01.22-21.19.53:862][394]LogStaticMesh: Built static mesh [0.23s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Afghan_Mountain_a/PR_afgan_mountain_a_D.PR_afgan_mountain_a_D
+[2021.01.22-21.19.54:139][394]LogStaticMesh: Building static mesh PR_afgan_mountain_a_L...
+[2021.01.22-21.19.54:475][394]LogStaticMesh: Built static mesh [0.34s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Afghan_Mountain_a/PR_afgan_mountain_a_L.PR_afgan_mountain_a_L
+[2021.01.22-21.19.54:738][394]LogStaticMesh: Building static mesh PR_afgan_mountain_a_R...
+[2021.01.22-21.19.55:026][394]LogStaticMesh: Built static mesh [0.29s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Afghan_Mountain_a/PR_afgan_mountain_a_R.PR_afgan_mountain_a_R
+[2021.01.22-21.19.55:317][394]LogStaticMesh: Building static mesh PR_afgan_mountain_a_U...
+[2021.01.22-21.19.55:664][394]LogStaticMesh: Built static mesh [0.35s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Afghan_Mountain_a/PR_afgan_mountain_a_U.PR_afgan_mountain_a_U
+[2021.01.22-21.19.55:965][394]LogStaticMesh: Building static mesh PR_afgan_mountain_b_D...
+[2021.01.22-21.19.56:309][394]LogStaticMesh: Built static mesh [0.34s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Afghan_Mountain_b/PR_afgan_mountain_b_D.PR_afgan_mountain_b_D
+[2021.01.22-21.19.56:935][394]LogStaticMesh: Building static mesh PR_background_A_N2...
+[2021.01.22-21.19.57:308][394]LogStaticMesh: Built static mesh [0.37s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_a/PR_background_A_N2.PR_background_A_N2
+[2021.01.22-21.19.57:802][394]LogStaticMesh: Building static mesh PR_background_A_S1...
+[2021.01.22-21.19.58:083][394]LogStaticMesh: Built static mesh [0.28s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_a/PR_background_A_S1.PR_background_A_S1
+[2021.01.22-21.19.58:636][394]LogStaticMesh: Building static mesh PR_background_A_S2...
+[2021.01.22-21.19.58:986][394]LogStaticMesh: Built static mesh [0.35s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_a/PR_background_A_S2.PR_background_A_S2
+[2021.01.22-21.19.59:501][394]LogStaticMesh: Building static mesh PR_background_A_W1...
+[2021.01.22-21.19.59:918][394]LogStaticMesh: Built static mesh [0.42s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_a/PR_background_A_W1.PR_background_A_W1
+[2021.01.22-21.20.00:438][394]LogStaticMesh: Building static mesh PR_background_A_W2...
+[2021.01.22-21.20.00:813][394]LogStaticMesh: Built static mesh [0.38s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_a/PR_background_A_W2.PR_background_A_W2
+[2021.01.22-21.20.01:491][394]LogStaticMesh: Building static mesh PR_background_B_E1...
+[2021.01.22-21.20.01:869][394]LogStaticMesh: Built static mesh [0.38s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_b/PR_background_B_E1.PR_background_B_E1
+[2021.01.22-21.20.02:497][394]LogStaticMesh: Building static mesh PR_background_B_E2...
+[2021.01.22-21.20.02:873][394]LogStaticMesh: Built static mesh [0.38s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_b/PR_background_B_E2.PR_background_B_E2
+[2021.01.22-21.20.03:430][394]LogStaticMesh: Building static mesh PR_background_B_N1...
+[2021.01.22-21.20.03:767][394]LogStaticMesh: Built static mesh [0.34s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_b/PR_background_B_N1.PR_background_B_N1
+[2021.01.22-21.20.04:387][394]LogStaticMesh: Building static mesh PR_background_B_N2...
+[2021.01.22-21.20.04:780][394]LogStaticMesh: Built static mesh [0.40s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_b/PR_background_B_N2.PR_background_B_N2
+[2021.01.22-21.20.05:340][394]LogStaticMesh: Building static mesh PR_background_B_S1...
+[2021.01.22-21.20.05:690][394]LogStaticMesh: Built static mesh [0.35s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_b/PR_background_B_S1.PR_background_B_S1
+[2021.01.22-21.20.06:237][394]LogStaticMesh: Building static mesh PR_background_B_S2...
+[2021.01.22-21.20.06:551][394]LogStaticMesh: Built static mesh [0.32s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_b/PR_background_B_S2.PR_background_B_S2
+[2021.01.22-21.20.07:158][394]LogStaticMesh: Building static mesh PR_background_B_W1...
+[2021.01.22-21.20.07:566][394]LogStaticMesh: Built static mesh [0.41s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_b/PR_background_B_W1.PR_background_B_W1
+[2021.01.22-21.20.08:151][394]LogStaticMesh: Building static mesh PR_background_B_W2...
+[2021.01.22-21.20.08:502][394]LogStaticMesh: Built static mesh [0.35s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_b/PR_background_B_W2.PR_background_B_W2
+[2021.01.22-21.20.09:160][394]LogStaticMesh: Building static mesh PR_background_C_E1...
+[2021.01.22-21.20.09:534][394]LogStaticMesh: Built static mesh [0.37s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_c/PR_background_C_E1.PR_background_C_E1
+[2021.01.22-21.20.10:234][394]LogStaticMesh: Building static mesh PR_background_C_E2...
+[2021.01.22-21.20.10:592][394]LogStaticMesh: Built static mesh [0.36s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_c/PR_background_C_E2.PR_background_C_E2
+[2021.01.22-21.20.11:143][394]LogStaticMesh: Building static mesh PR_background_C_N1...
+[2021.01.22-21.20.11:446][394]LogStaticMesh: Built static mesh [0.30s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_c/PR_background_C_N1.PR_background_C_N1
+[2021.01.22-21.20.12:024][394]LogStaticMesh: Building static mesh PR_background_C_N2...
+[2021.01.22-21.20.12:265][394]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 344
+[2021.01.22-21.20.12:348][394]LogStaticMesh: Built static mesh [0.32s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_c/PR_background_C_N2.PR_background_C_N2
+[2021.01.22-21.20.12:879][394]LogStaticMesh: Building static mesh PR_background_C_S1...
+[2021.01.22-21.20.13:126][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/8/temp.90BBA51E4188D649BF7B4DBF832D1F4E! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.13:131][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/8/temp.58F5D86340B1ED78ABB385805CBB7AF6! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.13:131][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_953B868C170D63BE5F582801650494A0.
+[2021.01.22-21.20.13:131][394]LogDerivedDataCache: Display: Failed to write MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_953B868C170D63BE5F582801650494A0 to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.13:213][394]LogStaticMesh: Built static mesh [0.33s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_c/PR_background_C_S1.PR_background_C_S1
+[2021.01.22-21.20.13:818][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/7/temp.5721B4D646959A39461AEABB3DCA18F0! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.13:818][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/7/temp.F8F39DD348A6BD8403D3B1A1879151B2! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.13:818][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy STATICMESH_14FB7BD55BAA4C14BCDC7C2AD14BCE50_228332BAE0224DD294E232B87D83948FQu__E7A73D26488163444FB4D0CE2AA690078C2DD60E.
+[2021.01.22-21.20.13:818][394]LogDerivedDataCache: Display: Failed to write STATICMESH_14FB7BD55BAA4C14BCDC7C2AD14BCE50_228332BAE0224DD294E232B87D83948FQu__E7A73D26488163444FB4D0CE2AA690078C2DD60E to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.13:818][394]LogStaticMesh: Building static mesh PR_background_C_S2...
+[2021.01.22-21.20.14:040][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/3/temp.82F0A30F4027A61B8F2D5F918CF27984! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.14:040][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/3/temp.A12D0CCE4D12A6846B76D1B4CDBA101A! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.14:040][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_C39C774F26D01F8D0D77C1D0ACB1E9D9.
+[2021.01.22-21.20.14:040][394]LogDerivedDataCache: Display: Failed to write MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_C39C774F26D01F8D0D77C1D0ACB1E9D9 to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.14:178][394]LogStaticMesh: Built static mesh [0.36s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_c/PR_background_C_S2.PR_background_C_S2
+[2021.01.22-21.20.14:650][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/4/temp.FBBB521E49200D85F59A9EBB3B3B37C2! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.14:651][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/4/temp.125F6D864FEBDB9BB03EDFAA9CA3DBCB! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.14:651][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy STATICMESH_14FB7BD55BAA4C14BCDC7C2AD14BCE50_228332BAE0224DD294E232B87D83948FQu__CD650FF112F7BB81ECE2130D5AF472807B3A9116.
+[2021.01.22-21.20.14:651][394]LogDerivedDataCache: Display: Failed to write STATICMESH_14FB7BD55BAA4C14BCDC7C2AD14BCE50_228332BAE0224DD294E232B87D83948FQu__CD650FF112F7BB81ECE2130D5AF472807B3A9116 to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.14:651][394]LogStaticMesh: Building static mesh PR_background_C_W1...
+[2021.01.22-21.20.14:862][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/0/temp.461DFD74478F1EFA0571F49543463A4D! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.14:862][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/0/temp.7961AB554BDB1654DC06EFB0B039B2C0! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.14:862][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_ABD244873E21A00AACF4D107CA555F2D.
+[2021.01.22-21.20.14:862][394]LogDerivedDataCache: Display: Failed to write MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_ABD244873E21A00AACF4D107CA555F2D to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.14:937][394]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 334
+[2021.01.22-21.20.14:937][394]LogStaticMesh: Built static mesh [0.29s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_c/PR_background_C_W1.PR_background_C_W1
+[2021.01.22-21.20.15:411][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/053C784D54F76F141AE927781D4F2B8AC (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:411][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/053C784D54F76F141AE927781D4F2B8AC (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:411][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/053C784D54F76F141AE927781D4F2B8AC (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:411][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/053C784D54F76F141AE927781D4F2B8AC (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:411][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/053C784D54F76F141AE927781D4F2B8AC (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:412][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/053C784D54F76F141AE927781D4F2B8AC (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:412][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/053C784D54F76F141AE927781D4F2B8AC (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:412][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/053C784D54F76F141AE927781D4F2B8AC (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:412][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/053C784D54F76F141AE927781D4F2B8AC (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:412][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/053C784D54F76F141AE927781D4F2B8AC (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:412][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/053C784D54F76F141AE927781D4F2B8AC (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:412][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/053C784D54F76F141AE927781D4F2B8AC (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:412][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/053C784D54F76F141AE927781D4F2B8AC (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:412][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/053C784D54F76F141AE927781D4F2B8AC (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:412][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/053C784D54F76F141AE927781D4F2B8AC (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:412][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/053C784D54F76F141AE927781D4F2B8AC (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:412][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/053C784D54F76F141AE927781D4F2B8AC (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:412][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/053C784D54F76F141AE927781D4F2B8AC (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:412][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/2/temp.8EFD066A4AB4BD6F7FEB40AEDC092A6C! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:412][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/053C784D54F76F141AE927781D4F2B8AC (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:412][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/053C784D54F76F141AE927781D4F2B8AC (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:413][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/053C784D54F76F141AE927781D4F2B8AC (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:413][394]LogShaderCompilers: Error: Could not write the shader compiler transfer filename to 'C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/053C784D54F76F141AE927781D4F2B8AC' (Free Disk Space: 0.
+[2021.01.22-21.20.15:413][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/1/temp.CBEA127F4E2F2374759B87B269654962! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:413][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/0/temp.B7F39DFD4DB147705E15EBB7A6689659! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:413][394]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 324
+[2021.01.22-21.20.15:413][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:413][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:413][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:413][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:413][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:413][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:413][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:413][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:413][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:413][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:413][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:413][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:413][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:413][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:413][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:413][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:413][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:414][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:414][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:414][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:414][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:414][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:414][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:414][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:414][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:414][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:414][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:414][394]LogFileManager: Error: Error flushing file: C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:414][394]LogShaderCompilers: Error: Could not write the shader compiler transfer filename to 'C:/Users/lenas/AppData/Local/Temp/UnrealShaderWorkingDir/EF31CA9A4E8FEF89C5C208A5F5241FFC/16F0969C14B84FC11C93B61AFB3B174E0' (Free Disk Space: 0.
+[2021.01.22-21.20.15:414][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/2/temp.404BB427458B7E1EE18ADD84083631D3! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:414][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy STATICMESH_14FB7BD55BAA4C14BCDC7C2AD14BCE50_228332BAE0224DD294E232B87D83948FQu__08375334039812E85FA8E161BD1F4D165A05243E.
+[2021.01.22-21.20.15:414][394]LogDerivedDataCache: Display: Failed to write STATICMESH_14FB7BD55BAA4C14BCDC7C2AD14BCE50_228332BAE0224DD294E232B87D83948FQu__08375334039812E85FA8E161BD1F4D165A05243E to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.15:414][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/1/temp.AE40E9A943F65DD0F283EC82086F52C0! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:415][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_19B145714115024612169A8F1B13335__C30F7F47926F9C5BB64256F8801FAA2A4774A3C7.
+[2021.01.22-21.20.15:415][394]LogDerivedDataCache: Display: Failed to write PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_19B145714115024612169A8F1B13335__C30F7F47926F9C5BB64256F8801FAA2A4774A3C7 to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.15:415][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/0/temp.F784F95F465511588F1BE4865D21B266! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:415][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy NavCollision_2983273BE5D6425391E8C0B3D1C0A55D_NavCollision_X_19B14571411502461__7DD5C955E90AE47EDF140E17484F819252089E47.
+[2021.01.22-21.20.15:415][394]LogDerivedDataCache: Display: Failed to write NavCollision_2983273BE5D6425391E8C0B3D1C0A55D_NavCollision_X_19B14571411502461__7DD5C955E90AE47EDF140E17484F819252089E47 to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.15:415][394]LogStaticMesh: Building static mesh PR_background_C_W2...
+[2021.01.22-21.20.15:415][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/1/temp.003F3CE447EB0BD15A1749AEF2A794E1! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:648][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/1/temp.9651FFB64DA4FA5D2FA604A0D7155704! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.15:648][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_CE6B3D27B5893E9583E5346C75928AFD.
+[2021.01.22-21.20.15:648][394]LogDerivedDataCache: Display: Failed to write MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_CE6B3D27B5893E9583E5346C75928AFD to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.15:734][394]LogStaticMesh: Built static mesh [0.32s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_c/PR_background_C_W2.PR_background_C_W2
+[2021.01.22-21.20.16:265][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/5/temp.53FCCB704A685C26281F43B45F20746D! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.16:265][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/9/temp.6E50687C4C45CDE10D69B388B0D6B19D! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.16:265][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/9/temp.248063DB48653F33F9A2FDB0EE87361A! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.16:265][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/5/temp.B4615510433E313DCE2446B85D189C17! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.16:265][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy STATICMESH_14FB7BD55BAA4C14BCDC7C2AD14BCE50_228332BAE0224DD294E232B87D83948FQu__F9EA93A376B9DAE36E591276F9B7310DCE57D006.
+[2021.01.22-21.20.16:265][394]LogDerivedDataCache: Display: Failed to write STATICMESH_14FB7BD55BAA4C14BCDC7C2AD14BCE50_228332BAE0224DD294E232B87D83948FQu__F9EA93A376B9DAE36E591276F9B7310DCE57D006 to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.16:265][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/9/temp.B7AA67654665FE96AC166288EEEC733D! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.16:265][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_1A778F964C53685567D9B58CD20C9A1__A179F56EDDD051112E8AE40DCD7547F923D0D7E7.
+[2021.01.22-21.20.16:265][394]LogDerivedDataCache: Display: Failed to write PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_1A778F964C53685567D9B58CD20C9A1__A179F56EDDD051112E8AE40DCD7547F923D0D7E7 to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.16:265][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/5/temp.A54E114540431A1D77C945914C289788! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.16:265][394]LogStaticMesh: Building static mesh PR_background_D_E1...
+[2021.01.22-21.20.16:501][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/5/temp.46FB91FC45881095603C76973F4A5A16! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.16:501][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_9209F613083A3E2831218B9652E16FED.
+[2021.01.22-21.20.16:501][394]LogDerivedDataCache: Display: Failed to write MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_9209F613083A3E2831218B9652E16FED to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.16:516][394]LogStaticMesh: Built static mesh [0.27s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_d/PR_background_D_E1.PR_background_D_E1
+[2021.01.22-21.20.17:255][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/5/temp.F1A05662410C3FA1021B9987F2865563! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.17:255][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/4/temp.F6E19E394ACC1EB69D9C08BDC72D46DA! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.17:255][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/5/temp.5C76A4394EFFDEAC9B4F7EAFD8B1EB87! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.17:255][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy STATICMESH_14FB7BD55BAA4C14BCDC7C2AD14BCE50_228332BAE0224DD294E232B87D83948FQu__0A317F74AB6EFB6AE2F6DED546EC612B5CA0D5E1.
+[2021.01.22-21.20.17:255][394]LogDerivedDataCache: Display: Failed to write STATICMESH_14FB7BD55BAA4C14BCDC7C2AD14BCE50_228332BAE0224DD294E232B87D83948FQu__0A317F74AB6EFB6AE2F6DED546EC612B5CA0D5E1 to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.17:255][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/4/temp.8561EF074F1D95647E283BB7C41DF91D! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.17:256][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_6C2BC4EF49289B8D3F823BBA9C15C66__E10D8F0EC17360E4F5D3D2B27B3C024456C12F9C.
+[2021.01.22-21.20.17:256][394]LogDerivedDataCache: Display: Failed to write PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_6C2BC4EF49289B8D3F823BBA9C15C66__E10D8F0EC17360E4F5D3D2B27B3C024456C12F9C to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.17:256][394]LogStaticMesh: Building static mesh PR_background_D_S2...
+[2021.01.22-21.20.17:496][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/8/temp.BE793B4A494F2167BFDA2BAF3EED0096! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.17:497][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/8/temp.36A73E0A46EE89DE9F1498BB49F768FF! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.17:497][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_CA18BF0052B70036744B5A4FB047E152.
+[2021.01.22-21.20.17:497][394]LogDerivedDataCache: Display: Failed to write MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_CA18BF0052B70036744B5A4FB047E152 to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.17:634][394]LogStaticMesh: Built static mesh [0.38s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_d/PR_background_D_S2.PR_background_D_S2
+[2021.01.22-21.20.18:748][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/1/temp.B17C12134CECAF9A1DAAF0B9D1F3BA07! Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.18:748][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/1/temp.D1E1448E4C2B0A666D2FF1B94EB01B5C! Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.18:748][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_75D1FDC8EA3CE92B68FF216C9F1D0401.
+[2021.01.22-21.20.18:748][394]LogDerivedDataCache: Display: Failed to write MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_75D1FDC8EA3CE92B68FF216C9F1D0401 to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.18:925][394]LogStaticMesh: Built static mesh [0.48s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_d/PR_background_D_W1.PR_background_D_W1
+[2021.01.22-21.20.22:356][394]LogStaticMesh: Built static mesh [0.47s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_e/PR_background_E_E2.PR_background_E_E2
+[2021.01.22-21.20.24:769][394]LogStaticMesh: Built static mesh [0.35s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_e/PR_background_E_N2.PR_background_E_N2
+[2021.01.22-21.20.25:989][394]LogStaticMesh: Built static mesh [0.48s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_e/PR_background_E_S1.PR_background_E_S1
+[2021.01.22-21.20.27:226][394]LogStaticMesh: Built static mesh [0.46s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_e/PR_background_E_S2.PR_background_E_S2
+[2021.01.22-21.20.28:426][394]LogStaticMesh: Built static mesh [0.43s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_e/PR_background_E_W1.PR_background_E_W1
+[2021.01.22-21.20.28:947][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/7/temp.07372BF046B79165BA71F8A4B36D8D9E! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.28:947][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/0/temp.02D32A6F4B1FC771497B8889381A7CD6! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.28:947][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/7/temp.F4F27F784AB23468C291F98214A1DDD7! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.28:947][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy STATICMESH_14FB7BD55BAA4C14BCDC7C2AD14BCE50_228332BAE0224DD294E232B87D83948FQu__DC11D505A86E4A1454642860450265620299F5F6.
+[2021.01.22-21.20.28:947][394]LogDerivedDataCache: Display: Failed to write STATICMESH_14FB7BD55BAA4C14BCDC7C2AD14BCE50_228332BAE0224DD294E232B87D83948FQu__DC11D505A86E4A1454642860450265620299F5F6 to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.28:947][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/0/temp.085240FE44743713ADF2A19AF8FB7F6E! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.28:948][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_648C9CDC4982C78B29CD2C84AC5B2AB__95FDD21B23A1CA8520A22A033FBAFC127A98F704.
+[2021.01.22-21.20.28:948][394]LogDerivedDataCache: Display: Failed to write PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_648C9CDC4982C78B29CD2C84AC5B2AB__95FDD21B23A1CA8520A22A033FBAFC127A98F704 to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.28:948][394]LogStaticMesh: Building static mesh PR_background_E_W2...
+[2021.01.22-21.20.29:207][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/1/temp.83CC148842A7F27DED56C3ACBB759CF0! Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.29:207][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/1/temp.45EED2544BE343AD41DC3692B647E9CE! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.29:207][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_CF364E3DD816E5E567F7BCC51257C72B.
+[2021.01.22-21.20.29:207][394]LogDerivedDataCache: Display: Failed to write MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_CF364E3DD816E5E567F7BCC51257C72B to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.29:294][394]LogStaticMesh: Built static mesh [0.35s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_e/PR_background_E_W2.PR_background_E_W2
+[2021.01.22-21.20.29:900][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/8/temp.3F114A0E42DC2F887BC424AEBF6F19D8! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.29:900][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/2/temp.23B829D243F4BEBDDA51EB956E48535C! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.29:900][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/8/temp.17A037D648B1676E8DA2D1A1C20BA4CC! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.29:900][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/8/temp.154B1F7E4E58800C962293909D626AB0! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.29:900][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy STATICMESH_14FB7BD55BAA4C14BCDC7C2AD14BCE50_228332BAE0224DD294E232B87D83948FQu__CF30191DAD2D11AF43C8B87F5F3A42DC004ADB30.
+[2021.01.22-21.20.29:900][394]LogDerivedDataCache: Display: Failed to write STATICMESH_14FB7BD55BAA4C14BCDC7C2AD14BCE50_228332BAE0224DD294E232B87D83948FQu__CF30191DAD2D11AF43C8B87F5F3A42DC004ADB30 to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.29:900][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/2/temp.3526EE43414B9CFF8F5CC896D0984366! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.29:900][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/8/temp.6F58A6EE4EEEFCF148E10EBA429A2343! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.29:900][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_A574D10044F0CDF0AE53F8B6C9B05AA__F910522CCE2858F5855410A7195B429D6F416679.
+[2021.01.22-21.20.29:900][394]LogDerivedDataCache: Display: Failed to write PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_A574D10044F0CDF0AE53F8B6C9B05AA__F910522CCE2858F5855410A7195B429D6F416679 to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.29:900][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy NavCollision_2983273BE5D6425391E8C0B3D1C0A55D_NavCollision_X_A574D10044F0CDF0A__956B5332597D396C1C5F15C5DF07A84F6131F636.
+[2021.01.22-21.20.29:900][394]LogDerivedDataCache: Display: Failed to write NavCollision_2983273BE5D6425391E8C0B3D1C0A55D_NavCollision_X_A574D10044F0CDF0A__956B5332597D396C1C5F15C5DF07A84F6131F636 to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.29:900][394]LogStaticMesh: Building static mesh pr_background_mountain_a_1_summer...
+[2021.01.22-21.20.29:901][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/0/temp.CB0CDC504ADB109DD867488F53942275! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.30:205][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/0/temp.E2094ED34F8C31F82959319742E53574! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.30:205][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_2DA51EAEB44C7FE24929879559254187.
+[2021.01.22-21.20.30:205][394]LogDerivedDataCache: Display: Failed to write MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_2DA51EAEB44C7FE24929879559254187 to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.30:391][394]LogStaticMesh: Built static mesh [0.49s] /Game/PhotoR_Backgrounds/Meshes/Modular_Summer/Mountain_A/pr_background_mountain_a_1_summer.pr_background_mountain_a_1_summer
+[2021.01.22-21.20.31:304][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/4/temp.181EA31C49E0704164791685A726508B! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.31:305][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/0/temp.13B7C9414EA1F12BEE2006909FAFDAC8! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.31:305][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/7/temp.B9FAA4D84F637BABB914E397DC6C358D! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.31:305][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/4/temp.763E7B644BE941DDCC5899A089E9F2C7! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.31:305][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy STATICMESH_14FB7BD55BAA4C14BCDC7C2AD14BCE50_228332BAE0224DD294E232B87D83948FQu__4E5964B603626B207F01D3F94E117561335F982C.
+[2021.01.22-21.20.31:305][394]LogDerivedDataCache: Display: Failed to write STATICMESH_14FB7BD55BAA4C14BCDC7C2AD14BCE50_228332BAE0224DD294E232B87D83948FQu__4E5964B603626B207F01D3F94E117561335F982C to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.31:305][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/0/temp.EA2409354D65BE936ECF94A429621F43! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.31:305][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/7/temp.741E17A04A1E8894269D378EF16C485F! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.31:305][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_1298F24743A68790EDFB52B4161983C__87FBC2A6C5896AF94282195D9B5D49D9684A8DBD.
+[2021.01.22-21.20.31:305][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy NavCollision_2983273BE5D6425391E8C0B3D1C0A55D_NavCollision_X_1298F24743A68790E__EE50851C81732B2B862D5104838EE44B004A71BC.
+[2021.01.22-21.20.31:305][394]LogDerivedDataCache: Display: Failed to write NavCollision_2983273BE5D6425391E8C0B3D1C0A55D_NavCollision_X_1298F24743A68790E__EE50851C81732B2B862D5104838EE44B004A71BC to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.31:305][394]LogDerivedDataCache: Display: Failed to write PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_1298F24743A68790EDFB52B4161983C__87FBC2A6C5896AF94282195D9B5D49D9684A8DBD to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.31:305][394]LogStaticMesh: Building static mesh pr_background_mountain_a_2_summer...
+[2021.01.22-21.20.31:765][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/3/temp.B5E097034101C9FF41BAD5B4E70B06A5! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.31:765][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/3/temp.BAC949B04FA3D741B193628E89F14C9E! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.31:765][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_3DD7E4EF741A515DCB9320B8508BBDE0.
+[2021.01.22-21.20.31:765][394]LogDerivedDataCache: Display: Failed to write MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_3DD7E4EF741A515DCB9320B8508BBDE0 to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.31:988][394]LogStaticMesh: Built static mesh [0.68s] /Game/PhotoR_Backgrounds/Meshes/Modular_Summer/Mountain_A/pr_background_mountain_a_2_summer.pr_background_mountain_a_2_summer
+[2021.01.22-21.20.32:694][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/7/temp.858710D8419678D1A0A88C8810848509! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.32:695][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/2/temp.17B880F34BC8A03B294C59B5C7031A3A! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.32:695][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/8/temp.26608BC342D33F11C8BD41B9E6698BB8! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.32:695][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/7/temp.451A1A3046BC5139DEA676BD074D991B! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.32:695][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy STATICMESH_14FB7BD55BAA4C14BCDC7C2AD14BCE50_228332BAE0224DD294E232B87D83948FQu__07730AC7D89E4BB862B1398EED000933E4EECA6A.
+[2021.01.22-21.20.32:695][394]LogDerivedDataCache: Display: Failed to write STATICMESH_14FB7BD55BAA4C14BCDC7C2AD14BCE50_228332BAE0224DD294E232B87D83948FQu__07730AC7D89E4BB862B1398EED000933E4EECA6A to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.32:695][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/2/temp.B791277B4601E28232D4088AA99A0141! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.32:695][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_5BAE3AEE4685885E65F3D0967C66C7A__EF69F37C96707CBCE61063C668880425523F2624.
+[2021.01.22-21.20.32:696][394]LogDerivedDataCache: Display: Failed to write PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_5BAE3AEE4685885E65F3D0967C66C7A__EF69F37C96707CBCE61063C668880425523F2624 to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.32:696][394]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/lenas/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/8/temp.615F8DF54528EDFBECE493A9BDF55843! Error: 112 (Espace insuffisant sur le disque.)
+[2021.01.22-21.20.32:696][394]LogDerivedDataCache: Display: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy NavCollision_2983273BE5D6425391E8C0B3D1C0A55D_NavCollision_X_5BAE3AEE4685885E6__08A5897375221B425F2F4390A25CAA113D8FDC3C.
+[2021.01.22-21.20.32:696][394]LogDerivedDataCache: Display: Failed to write NavCollision_2983273BE5D6425391E8C0B3D1C0A55D_NavCollision_X_5BAE3AEE4685885E6__08A5897375221B425F2F4390A25CAA113D8FDC3C to HierarchicalDerivedDataBackend. Error: 0 (L’opération a réussi.)
+[2021.01.22-21.20.32:696][394]LogShaderCompilers: Error: SCW 10 Queued Jobs, Finished 5 single jobs
+[2021.01.22-21.20.32:696][394]LogShaderCompilers: Error: Job 0 [Single] pr_background_mountain_e_M_summer/FLocalVertexFactory/TBasePassVSFCachedPointIndirectLightingPolicy/0:/Engine/Private/BasePassVertexShader.usf VF 'FLocalVertexFactory' Type 'TBasePassVSFCachedPointIndirectLightingPolicy' '/Engine/Private/BasePassVertexShader.usf' Entry 'Main' Permutation 0 
+[2021.01.22-21.20.32:696][394]LogShaderCompilers: Error: Job 1 [Single] pr_background_mountain_e_M_summer/FLocalVertexFactory/TBasePassPSFCachedPointIndirectLightingPolicy/0:/Engine/Private/BasePassPixelShader.usf VF 'FLocalVertexFactory' Type 'TBasePassPSFCachedPointIndirectLightingPolicy' '/Engine/Private/BasePassPixelShader.usf' Entry 'MainPS' Permutation 0 
+[2021.01.22-21.20.32:697][394]LogShaderCompilers: Error: Job 2 [Single] pr_background_mountain_e_M_summer/FLocalVertexFactory/TBasePassPSFCachedVolumeIndirectLightingPolicy/0:/Engine/Private/BasePassPixelShader.usf VF 'FLocalVertexFactory' Type 'TBasePassPSFCachedVolumeIndirectLightingPolicy' '/Engine/Private/BasePassPixelShader.usf' Entry 'MainPS' Permutation 0 
+[2021.01.22-21.20.32:697][394]LogShaderCompilers: Error: Job 3 [Single] pr_background_mountain_e_M_summer/FLocalVertexFactory/TBasePassPSFCachedVolumeIndirectLightingPolicySkylight/0:/Engine/Private/BasePassPixelShader.usf VF 'FLocalVertexFactory' Type 'TBasePassPSFCachedVolumeIndirectLightingPolicySkylight' '/Engine/Private/BasePassPixelShader.usf' Entry 'MainPS' Permutation 0 
+[2021.01.22-21.20.32:697][394]LogShaderCompilers: Error: Job 4 [Single] pr_background_mountain_e_M_summer/FLocalVertexFactory/TBasePassVSTLightMapPolicyHQ/0:/Engine/Private/BasePassVertexShader.usf VF 'FLocalVertexFactory' Type 'TBasePassVSTLightMapPolicyHQ' '/Engine/Private/BasePassVertexShader.usf' Entry 'Main' Permutation 0 
+[2021.01.22-21.20.32:697][394]LogShaderCompilers: Error: Job 5 [Single] pr_background_mountain_e_M_summer/FLocalVertexFactory/TBasePassPSFNoLightMapPolicySkylight/0:/Engine/Private/BasePassPixelShader.usf VF 'FLocalVertexFactory' Type 'TBasePassPSFNoLightMapPolicySkylight' '/Engine/Private/BasePassPixelShader.usf' Entry 'MainPS' Permutation 0 
+[2021.01.22-21.20.32:697][394]LogShaderCompilers: Error: Job 6 [Single] pr_background_mountain_e_M_summer/FLocalVertexFactory/TBasePassVSFCachedVolumeIndirectLightingPolicy/0:/Engine/Private/BasePassVertexShader.usf VF 'FLocalVertexFactory' Type 'TBasePassVSFCachedVolumeIndirectLightingPolicy' '/Engine/Private/BasePassVertexShader.usf' Entry 'Main' Permutation 0 
+[2021.01.22-21.20.32:697][394]LogShaderCompilers: Error: Job 7 [Single] pr_background_mountain_e_M_summer/FLocalVertexFactory/TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ/0:/Engine/Private/BasePassVertexShader.usf VF 'FLocalVertexFactory' Type 'TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ' '/Engine/Private/BasePassVertexShader.usf' Entry 'Main' Permutation 0 
+[2021.01.22-21.20.32:697][394]LogShaderCompilers: Error: Job 8 [Single] pr_background_mountain_e_M_summer/FLocalVertexFactory/TBasePassPSTLightMapPolicyLQ/0:/Engine/Private/BasePassPixelShader.usf VF 'FLocalVertexFactory' Type 'TBasePassPSTLightMapPolicyLQ' '/Engine/Private/BasePassPixelShader.usf' Entry 'MainPS' Permutation 0 
+[2021.01.22-21.20.32:697][394]LogShaderCompilers: Error: Job 9 [Single] pr_background_mountain_e_M_summer/FLocalVertexFactory/TBasePassVSTLightMapPolicyLQ/0:/Engine/Private/BasePassVertexShader.usf VF 'FLocalVertexFactory' Type 'TBasePassVSTLightMapPolicyLQ' '/Engine/Private/BasePassVertexShader.usf' Entry 'Main' Permutation 0 
+[2021.01.22-21.20.32:757][394]LogWindows: Windows GetLastError: L’opération a réussi. (0)
+[2021.01.22-21.20.32:758][394]LogStaticMesh: Building static mesh pr_background_mountain_a_3_summer...
